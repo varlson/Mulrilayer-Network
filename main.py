@@ -50,8 +50,8 @@ def graphPloter(list_of_coord, labels, name="teste"):
 
 def sort_by_metric(graph, metric):
 
-    peso = graph.es['weight']
-    b_w =  graph.betweenness(weights=peso)
+    # peso = graph.es['weight']
+    # b_w =  graph.betweenness(weights=peso)
     switcher = {
 
         "degree": [(x, graph.degree(x)) for x in range(graph.vcount())],
@@ -84,10 +84,10 @@ def prepare(g,  metric, mobility):
 
 lista_of_coord = []
 # lista_of_coord = []
-labels = ['$k$', '$s$', '$b$','$b_{w}$']
-metric = ['degree', 'strength', 'betweenness','betweenness_w']
-g_fluvial = graph_loader('fluvial')
-fluvial = loader('fluvial_death')['city']
+labels = ['$k$', '$s$', '$b$']
+metric = ['degree', 'strength', 'betweenness']
+g_fluvial = graph_loader('terrestrial')
+fluvial = loader('terrestrial')['city']
 peso = g_fluvial.es['weight']
 
 for met in metric:
@@ -95,5 +95,5 @@ for met in metric:
     x_axis = [x for x in range(len(coord))]
     lista_of_coord.append((x_axis, coord))
 
-graphPloter(lista_of_coord, labels, "by_death")
+graphPloter(lista_of_coord, labels, "terrestrial_cases")
 # print(lista_of_coord)
