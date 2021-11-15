@@ -1,0 +1,343 @@
+Nº Zonas ;Nome zona;FLUXO TOTAL POR ZONA
+1;Sé;260947
+2;Parque Dom Pedro;218364
+3;Praça João Mendes;100007
+4;Ladeira da Memória;132355
+5;República;287139
+6;Santa Ifigênia;167003
+7;Luz;141209
+8;Bom Retiro;58262
+9;Ponte Pequena;55050
+10;Canindé;41466
+11;Bom Jardim;20404
+12;Pari;68928
+13;João Teodoro;36321
+14;Oriente;96011
+15;Bresser;53140
+16;Brás;76655
+17;Gasômetro;50599
+18;Independência;118163
+19;Cambuci;94778
+20;Glicério;81823
+21;Aclimação;78769
+22;Pires da Mota;67837
+23;Centro Cultural;111156
+24;Liberdade;144982
+25;Treze de Maio;72956
+26;Bexiga;85069
+27;Bela Vista;199528
+28;São Carlos do Pinhal;130678
+29;Masp;158335
+30;Higienópolis;102323
+31;Vila Buarque;203913
+32;Consolação;182840
+33;Pacaembu;12883
+34;FAAP;56880
+35;Santa Cecília;188825
+36;Marechal Deodoro;183315
+37;Rudge;54850
+38;Catumbi;19176
+39;Belém;43819
+40;Quarta Parada;67729
+41;Belenzinho;117906
+42;Celso Garcia;51756
+43;Mooca;185277
+44;Alto da Mooca;106362
+45;Parque da Mooca;156659
+46;Água Rasa;111678
+47;Vila Bertioga;75299
+48;Regente Feijó;85456
+49;Ana Rosa;95457
+50;Jardim da Glória;29957
+51;Chácara Klabin;52734
+52;Vila Mariana;69705
+53;Santa Cruz;110327
+54;Vila Clementino;151166
+55;França Pinto;90993
+56;Rodrigues Alves;133968
+57;Paraíso;184072
+58;Bosque da Saúde;91201
+59;Saúde;257502
+60;Planalto Paulista;119061
+61;Mirandópolis;133073
+62;Parque Ibirapuera;84870
+63;Jardim Luzitânia;59643
+64;Moema;171052
+65;Vila Helena;119903
+66;Bandeirantes;107533
+67;Vila Nova Conceição;59025
+68;Chácara Itaim;267784
+69;Vila Olímpia;102344
+70;Hélio Pelegrino;89400
+71;Brooklin;112076
+72;Vila Cordeiro;109144
+73;Berrini;271549
+74;Campinas;130692
+75;Pamplona;69852
+76;Jardins;84137
+77;Clínicas;147844
+78;Oscar Freire;102336
+79;Trianon;200633
+80;Jardim Paulistano;123364
+81;Jardim Europa;140145
+82;Pinheiros;244191
+83;Vila Madalena;149331
+84;PUC;92615
+85;Cardoso de Almeida;37103
+86;Zequinha de Abreu;19070
+87;Sumaré;82334
+88;Perdizes;176286
+89;Vila Anglo Brasileira;37282
+90;Pompéia;75664
+91;Santa Marina;102709
+92;Barra Funda;42231
+93;Francisco Matarazzo;170686
+94;Água Branca;87801
+95;Vila Beatriz;73451
+96;Alto de Pinheiros;61522
+97;Boaçava;68529
+98;Vila Anastácio;24658
+99;Lapa de Baixo;66316
+100;Lapa;233606
+101;Vila Ipojuca;81162
+102;Alto da Lapa;56473
+103;Gavião Peixoto;19250
+104;Bela Aliança;29221
+105;Vila Hamburguesa;76937
+106;CEASA;41954
+107;Vila Leopoldina;81862
+108;Emissário;32221
+109;Vila Zatt;277012
+110;Pirituba;136706
+111;São Domingos;123173
+112;Jardim Mutinga;75655
+113;Vila Jaguara;66002
+114;Parque do Jaraguá;478
+115;Nova Jaraguá;95767
+116;Parada de Taipas;333204
+117;Parque Morro Doce;75459
+118;Anhanguera;30183
+119;Perus;136474
+120;Vista Alegre;0
+121;Jardim Damasceno;155376
+122;Vila Souza;116602
+123;Vila Terezinha;135679
+124;Brasilândia;218096
+125;Vila Morro Grande;121271
+126;Itaberaba;123004
+127;Freguesia do Ó;204224
+128;Carandiru;61428
+129;Santana;109824
+130;Zaki Narchi;16596
+131;Tietê;53093
+132;Parque Anhembi;26907
+133;Alfredo Pujol;161574
+134;Santa Terezinha;130057
+135;Jardim São Paulo;139108
+136;Casa Verde;138710
+137;Parque Peruche;168732
+138;Limão;56795
+139;Jardim Primavera;109070
+140;Vila Santa Maria;132861
+141;Cachoeirinha;253409
+142;Jardim Peri;148575
+143;Reserva da Cantareira;0
+144;Mandaqui;281383
+145;Horto Florestal;35972
+146;ETA Guaraú;0
+147;Parque Palmas do Tremembé;112401
+148;Tremembé;67872
+149;Cantareira;856
+150;Jardim das Pedras;94716
+151;Jardim Guapira;265018
+152;Parada Inglesa;130691
+153;Tucuruvi;71668
+154;Vila Gustavo;166984
+155;Cohab Jova Real;53179
+156;Jaçanã;147700
+157;Parque Edu Chaves;53869
+158;Vila Medeiros;133469
+159;Jardim Brasil;147511
+160;Jardim Japão;96186
+161;Parque Novo Mundo;167947
+162;Vila Maria;103936
+163;Vila Isolina Mazzei;155700
+164;Vila Guilherme;40553
+165;Coroa;61631
+166;Gomes Cardim;210677
+167;Tatuapé;203959
+168;Chácara do Piqueri;116117
+169;Parque São Jorge;144801
+170;Penha;154644
+171;Tiquatira;136292
+172;Vila Esperança;96426
+173;Vila Ré;70754
+174;Rui Barbosa;129143
+175;Estação Eng. Goulart;88161
+176;Cangaíba;91258
+177;Parque Ecológico do Tietê;20188
+178;USP Leste I;7399
+179;USP Leste II;0
+180;Ermelino Matarazzo;181352
+181;Parque Buturussu;119800
+182;Ponte Rasa;111073
+183;Burgo Paulista;109663
+184;Limoeiro;66503
+185;Laranja da China;53556
+186;Pedro José Nunes;29421
+187;Parque Cruzeiro do Sul;93356
+188;Vila Jacuí;117320
+189;Parada XV;137546
+190;Itaquera;143067
+191;Arena Corinthians;43807
+192;Vila Campanela;82949
+193;Araucárias;65961
+194;Parque Guarani;56249
+195;Rio Verde;79710
+196;Saudade;78810
+197;São Miguel Paulista;83008
+198;Cidade Nitro-Operária;162305
+199;Jardim Helena;201269
+200;Jardim Romano;72608
+201;Vila Curuçá;201781
+202;Jardim Robru;152651
+203;Lageado;113967
+204;Fábrica Bandeirantes;215460
+205;Fazenda Itaim;206681
+206;Itaim Paulista;155230
+207;Jardim das Oliveiras;171605
+208;Vila Califórnia;165785
+209;Vila Carrão;135687
+210;Jardim Anália Franco;163908
+211;Vila Formosa;184039
+212;Barreira Grande;89375
+213;Aricanduva;139805
+214;Frei Mont'Alverne;89395
+215;Vila Matilde;122770
+216;Cidade Patriarca;102867
+217;Cidade A.E.Carvalho;101776
+218;Artur Alvim;202196
+219;Cidade Líder;137694
+220;Santa Marcelina;97627
+221;Parque Savoy;142053
+222;Vila Carmosina;124736
+223;Fazenda Caguaçu;68822
+224;Parque do Carmo;25009
+225;Gleba do Pêssego;84530
+226;José Bonifácio;247332
+227;Guaianases;148864
+228;Juscelino Kubitschek;88433
+229;Cidade Tiradentes;361365
+230;Santa Etelvina;194217
+231;Terceira Divisão;73318
+232;Iguatemi;108892
+233;Sítio Carrãozinho;145353
+234;Parque São Rafael;129919
+235;Rodolfo Pirani;134992
+236;Ipiranga;72381
+237;Sacomã;74776
+238;Alto do Ipiranga;74627
+239;Vila São José;140950
+240;Vila Monumento;87254
+241;Vila Independência;51520
+242;Vila Carioca;79101
+243;Moinho Velho;142489
+244;Vila Heliópolis;173161
+245;São João Clímaco;45730
+246;Anchieta;64235
+247;Vila das Mercês;272643
+248;Parque do Estado;9350
+249;Água Funda;104326
+250;Jardim da Saúde;82843
+251;Vila Gumercindo;68600
+252;Jardim Previdência;68949
+253;Tamanduateí;19281
+254;Orfanato;170672
+255;Vila Zelina;174041
+256;Linhas Corrente;75999
+257;Vila Ema;96610
+258;Parque São Lucas;140700
+259;Vila Cardoso Franco;58200
+260;Parque Santa Madalena;85724
+261;Jardim Colorado;142045
+262;Teotônio Vilela;174977
+263;Fazenda da Juta;158872
+264;São Mateus;172421
+265;Cidade IV Centenário;156949
+266;Rio Claro;34605
+267;Cidade Satélite;84411
+268;Joaquim Nabuco;73012
+269;Vieira de Moraes;111995
+270;Campo Belo;49312
+271;Congonhas;35246
+272;Jardim Aeroporto;69878
+273;Vila Santa Catarina;195143
+274;Jabaquara;215412
+275;Cidade Vargas;183908
+276;Jardim Bom Clima;255650
+277;Cupecê;203107
+278;Jardim Miriam;302714
+279;Vila Missionária;154932
+280;Jurubatuba;132780
+281;Vila São Pedro;148199
+282;Campo Grande;142646
+283;Vila Sabará;33505
+284;Mar Paulista;125254
+285;Pedreira;197077
+286;Vila Socorro;89305
+287;Parque Interlagos;107734
+288;Jardim Represa;88137
+289;Rio Bonito;151691
+290;SESC Interlagos;137439
+291;Jardim Presidente;207763
+292;Vila Natal;151776
+293;Grajaú;226725
+294;Cocaia;235415
+295;Belmira Marin;251100
+296;Bororé;15542
+297;Jaceguava;6467
+298;Parelheiros;298167
+299;Marsilac;15078
+300;Granja Julieta;427087
+301;Chácara Flora;91768
+302;Santo Amaro;194158
+303;Vila Miranda;227478
+304;Jardim São Luís;238635
+305;Centro Empresarial;313502
+306;Guarapiranga;152592
+307;Jardim Capela;204595
+308;Riviera;89363
+309;Jardim Turquesa;120105
+310;Morro do Índio;49675
+311;Jardim Ângela;224711
+312;Capão Redondo;150972
+313;Jardim Sônia Ingá;74288
+314;Adventista;276003
+315;Parque Fernanda;243301
+316;Morumbi;71185
+317;Jóquei Clube;28015
+318;Fazenda Morumbi;77784
+319;Real Parque;69853
+320;Paraisópolis;152400
+321;Jardim Vitória Régia;165164
+322;Vila Suzana;138674
+323;Parque Arariba;152642
+324;Jardim Mitsutani;132621
+325;Pirajussara;123218
+326;Jardim Umarizal;108733
+327;Portal do Morumbi;56699
+328;Jardim Jussara;80492
+329;Vila Sônia;126485
+330;Jardim Maria do Carmo;100187
+331;Jardim Cambará;94196
+332;Jardim João XXIII;103564
+333;Raposo Tavares;41865
+334;Rio Pequeno;103041
+335;Jardim Ester Yolanda;93349
+336;Jardim Adalgiza;79450
+337;Parque Continental;67721
+338;Jaguaré;98277
+339;Cidade Universitária;133322
+340;Butantã;53452
+341;Jardim Caxingui;50989
+342;Jardim Bonfiglioli;110398
