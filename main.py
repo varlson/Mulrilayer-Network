@@ -5,6 +5,7 @@ import string
 import random
 import numpy as np
 import matplotlib.pyplot as plt
+from util import terminal_clear
 
 def comparator(g, sorted, mobility):
     seq = np.array([0.0]*len(mobility))
@@ -28,7 +29,7 @@ def comparator(g, sorted, mobility):
 
     return seq
 
-def tem(size):
+# def tem(size):
 
     labels = [x for x in string.ascii_lowercase]
     random.shuffle(labels)
@@ -37,6 +38,7 @@ def tem(size):
     return g
 
 def graphPloter(list_of_coord, labels, name="teste"):
+    plt.clf()
     for index, coord in enumerate(list_of_coord):
         x = coord[0]
         y = coord[1]
@@ -44,20 +46,30 @@ def graphPloter(list_of_coord, labels, name="teste"):
         plt.plot(x, y, label=labels[index])
     
     plt.legend()
+    plt.title(name)
     plt.savefig('output/'+name+'.png')
 
 
 
 def sort_by_metric(graph, metric):
 
-    # peso = graph.es['weight']
-    # b_w =  graph.betweenness(weights=peso)
+    peso = graph.es['weight']
+    peso = [0.001 if x <= 0 else x for x in peso]
+    
+    weighted =[]
+    if metric == "strength":
+        weighted =  graph.strength(weights=peso)
+    else:
+        print(peso)
+        weighted =  graph.betweenness(weights=peso)
+
+
     switcher = {
 
         "degree": [(x, graph.degree(x)) for x in range(graph.vcount())],
         "betweenness": [(x, graph.betweenness(x)) for x in range(graph.vcount())],
-        "strength": [(x, graph.strength(x)) for x in range(graph.vcount())],
-        "betweenness_w": [(x, b_w[x]) for x in range(graph.vcount())]
+        "strength": [(index, x) for index, x in enumerate(weighted)],
+        "betweenness_w": [(index, x) for index, x in enumerate(weighted)]    
     }
     
 
@@ -65,11 +77,11 @@ def sort_by_metric(graph, metric):
     return sorted(done, key=lambda data: data[1], reverse=True)
     
 
-def graph_loader(full_path):
+def load_graph_ml(full_path):
     g =  Graph.Read_GraphML('datas/'+full_path+'.GraphML')
     return g
     
-def loader(fileName):
+def load_csv(fileName):
     cols = ['code', 'city', 'state', 'other', 'date', 'other2']
     dataFrame = pd.read_csv('datas/'+fileName+'.csv', sep=";", names=cols)
     return dataFrame
@@ -82,18 +94,18 @@ def prepare(g,  metric, mobility):
 # def main(graph):
 
 
-lista_of_coord = []
 # lista_of_coord = []
-labels = ['$k$', '$s$', '$b$']
-metric = ['degree', 'strength', 'betweenness']
-g_fluvial = graph_loader('terrestrial')
-fluvial = loader('terrestrial')['city']
-peso = g_fluvial.es['weight']
+# # lista_of_coord = []
+# labels = ['$k$', '$s$', '$b$']
+# metric = ['degree', 'strength', 'betweenness']
+# g_fluvial = graph_loader('terrestrial')
+# fluvial = loader('terrestrial')['city']
+# # peso = g_fluvial.es['weight']
 
-for met in metric:
-    coord = prepare(g_fluvial, met, fluvial)
-    x_axis = [x for x in range(len(coord))]
-    lista_of_coord.append((x_axis, coord))
+# for met in metric:
+#     coord = prepare(g_fluvial, met, fluvial)
+#     x_axis = [x for x in range(len(coord))]
+#     lista_of_coord.append((x_axis, coord))
 
-graphPloter(lista_of_coord, labels, "terrestrial_cases")
+# graphPloter(lista_of_coord, labels, "terrestrial_cases")
 # print(lista_of_coord)
