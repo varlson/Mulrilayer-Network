@@ -29,14 +29,6 @@ def comparator(g, sorted, mobility):
 
     return seq
 
-# def tem(size):
-
-    labels = [x for x in string.ascii_lowercase]
-    random.shuffle(labels)
-    g = Graph.GRG(len(labels), 0.4)
-    g.vs['label'] = labels
-    return g
-
 def graphPloter(list_of_coord, labels, name="teste"):
     plt.clf()
     for index, coord in enumerate(list_of_coord):
@@ -60,7 +52,7 @@ def sort_by_metric(graph, metric):
     if metric == "strength":
         weighted =  graph.strength(weights=peso)
     else:
-        print(peso)
+        # print(peso)
         weighted =  graph.betweenness(weights=peso)
 
 
