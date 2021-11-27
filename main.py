@@ -1,11 +1,11 @@
 # from typing import Sequence   
 import pandas as pd
 from igraph import *
-import string
-import random
+# import string
+# import random
 import numpy as np
 import matplotlib.pyplot as plt
-from util import terminal_clear
+# from util import terminal_clear
 
 def comparator(g, sorted, mobility):
     seq = np.array([0.0]*len(mobility))
@@ -35,7 +35,7 @@ def graphPloter(list_of_coord, labels, name="teste"):
         x = coord[0]
         y = coord[1]
 
-        plt.plot(x, y, label=labels[index])
+        plt.plot(x, y, label=labels[index], marker="1")
     
     plt.legend()
     plt.title(name)
@@ -78,9 +78,8 @@ def load_csv(fileName):
     dataFrame = pd.read_csv('datas/'+fileName+'.csv', sep=";", names=cols)
     return dataFrame
 
-def prepare(g,  metric, mobility):
 
-    return comparator(g, (sort_by_metric(g, metric)), mobility)
+
 # def sort_by_metric(graph):
     # pass
 # def main(graph):
