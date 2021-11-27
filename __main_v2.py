@@ -30,8 +30,7 @@ def correspondence_checker(mobolity, sorted_data, graph):
         temp = mobolity
         temp = to_string_list(temp)
         inters = intersec(n_nodes, temp[:index+1])
-        list_of_correspondence.append(float(len(inters)/(index+1)))
-        # print(len(inters), index+1)        
+        list_of_correspondence.append(float(len(inters)/(index+1)))  
     return list_of_correspondence
 
 
