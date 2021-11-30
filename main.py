@@ -1,102 +1,64 @@
-# from typing import Sequence   
-import pandas as pd
-from igraph import *
-# import string
-# import random
-import numpy as np
-import matplotlib.pyplot as plt
-# from util import terminal_clear
+from corres_checker import *
 
-def comparator(g, sorted, mobility):
-    seq = np.array([0.0]*len(mobility))
-    isMatch = notMatch =0.0
+def intersec(l1, l2):
+    return [x for x in l1 if x in l2]
 
-    size = len(mobility) if len(mobility) < g.vcount() else g.vcount()
-    for index in range(size):
-        if(mobility[index])== g.vs['label'][sorted[index][0]]:
-            isMatch+=1.0
-            print('match')
-        else:
-            notMatch+=1.0
-    
-        if(notMatch==0):
-            seq[index] = 1
-        else:
-            temp = ((isMatch/notMatch)*100)/100
-            seq[index] = 1.0 if temp > 1.0 else temp
-        # print(isMatch, notMatch)
-        
+def first_n_nodes(n, g, sorted_data):
+    n_nodes = []
 
-    return seq
+    for node in sorted_data[:n]:
+        n_nodes.append(g.vs['label'][node[0]])
 
-def graphPloter(list_of_coord, labels, name="teste"):
-    plt.clf()
-    for index, coord in enumerate(list_of_coord):
-        x = coord[0]
-        y = coord[1]
+    return n_nodes
 
-        plt.plot(x, y, label=labels[index], marker="1")
-    
-    plt.legend()
-    plt.title(name)
-    plt.savefig('output/'+name+'.png')
+def to_string_list(data):
+    temp=[]
+
+    for d in data:
+        temp.append(str(d))
+    return temp
+
+
+def correspondence_checker(mobolity, sorted_data, graph):
+    list_of_correspondence = []
+    for index, city in enumerate(mobolity):
+        n_nodes = first_n_nodes(index+1, graph, sorted_data)
+
+        temp = mobolity
+        temp = to_string_list(temp)
+        inters = intersec(n_nodes, temp[:index+1])
+        list_of_correspondence.append(float(len(inters)/(index+1)))  
+    return list_of_correspondence
 
 
 
-def sort_by_metric(graph, metric):
 
-    peso = graph.es['weight']
-    peso = [0.001 if x <= 0 else x for x in peso]
-    
-    weighted =[]
-    if metric == "strength":
-        weighted =  graph.strength(weights=peso)
-    else:
-        # print(peso)
-        weighted =  graph.betweenness(weights=peso)
+to_process = ['fluvial', 'fluvial_by_death', 'terrestrial', 'terrestrial_by_death']
 
 
-    switcher = {
+for process in to_process[:2]:
+    name = process
+    mobility = load_csv(process)
+    graph = load_graph_ml('fluvial') if process[0]=='f' else load_csv('terrestrial')
 
-        "degree": [(x, graph.degree(x)) for x in range(graph.vcount())],
-        "betweenness": [(x, graph.betweenness(x)) for x in range(graph.vcount())],
-        "strength": [(index, x) for index, x in enumerate(weighted)],
-        "betweenness_w": [(index, x) for index, x in enumerate(weighted)]    
-    }
-    
+    deg = sort_by_metric(graph, "degree")
+    bet = sort_by_metric(graph, "betweenness")
+    stre = sort_by_metric(graph, "strength")
+    bet_w = sort_by_metric(graph, "betweenness_w")
 
-    done = switcher.get(metric)
-    return sorted(done, key=lambda data: data[1], reverse=True)
-    
+    pair = []
+    x_axis = [x for x in range(graph.vcount())]
 
-def load_graph_ml(full_path):
-    g =  Graph.Read_GraphML('datas/'+full_path+'.GraphML')
-    return g
-    
-def load_csv(fileName):
-    cols = ['code', 'city', 'state', 'other', 'date', 'other2']
-    dataFrame = pd.read_csv('datas/'+fileName+'.csv', sep=";", names=cols)
-    return dataFrame
+    corresp = correspondence_checker(mobility['city'], deg, graph)
+    pair.append((x_axis, corresp))
+    corresp = correspondence_checker(mobility['city'], bet, graph)
+    pair.append((x_axis, corresp))
 
+    corresp = correspondence_checker(mobility['city'], stre, graph)
+    pair.append((x_axis, corresp))
 
 
-# def sort_by_metric(graph):
-    # pass
-# def main(graph):
+    corresp = correspondence_checker(mobility['city'], bet_w, graph)
+    pair.append((x_axis, corresp))
 
-
-# lista_of_coord = []
-# # lista_of_coord = []
-# labels = ['$k$', '$s$', '$b$']
-# metric = ['degree', 'strength', 'betweenness']
-# g_fluvial = graph_loader('terrestrial')
-# fluvial = loader('terrestrial')['city']
-# # peso = g_fluvial.es['weight']
-
-# for met in metric:
-#     coord = prepare(g_fluvial, met, fluvial)
-#     x_axis = [x for x in range(len(coord))]
-#     lista_of_coord.append((x_axis, coord))
-
-# graphPloter(lista_of_coord, labels, "terrestrial_cases")
-# print(lista_of_coord)
+    graphPloter(pair, ["$k$", "$b$", "$s$", "$b_{w}$"], name)
