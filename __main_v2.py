@@ -37,7 +37,7 @@ def correspondence_checker(mobolity, sorted_data, graph):
 name = "terrestrial_by_death"
 g_fluvial = load_graph_ml('terrestrial')
 # fluvial = load_csv('terrestrial_sorted_covid_deaths_by_cities_BR')
-fluvial = load_csv('fluvial')
+fluvial = load_csv('terrestrial_sorted_covid_deaths_by_cities_BR')
 
 deg = sort_by_metric(g_fluvial, "degree")
 bet = sort_by_metric(g_fluvial, "betweenness")
