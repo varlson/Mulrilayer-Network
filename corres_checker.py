@@ -42,7 +42,12 @@ def graphPloter(list_of_coord, labels, name="teste"):
 
 
 def sort_by_metric(graph, metric):
-
+    # import sys
+    # try:
+    #     peso = graph.es['weight']
+    # except:
+    #     print(graph)
+    #     sys.exit(1)
     peso = graph.es['weight']
     peso = [0.001 if x <= 0 else x for x in peso]
     
