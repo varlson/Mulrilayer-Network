@@ -46,19 +46,19 @@ for process in to_process[:2]:
     stre = sort_by_metric(graph, "strength")
     bet_w = sort_by_metric(graph, "betweenness_w")
 
-    pair = []
+    _tuple = []
     x_axis = [x for x in range(graph.vcount())]
 
     corresp = correspondence_checker(mobility['city'], deg, graph)
-    pair.append((x_axis, corresp))
+    _tuple.append((x_axis, corresp))
     corresp = correspondence_checker(mobility['city'], bet, graph)
-    pair.append((x_axis, corresp))
+    _tuple.append((x_axis, corresp))
 
     corresp = correspondence_checker(mobility['city'], stre, graph)
-    pair.append((x_axis, corresp))
+    _tuple.append((x_axis, corresp))
 
 
     corresp = correspondence_checker(mobility['city'], bet_w, graph)
-    pair.append((x_axis, corresp))
+    _tuple.append((x_axis, corresp))
 
     graphPloter(pair, ["$k$", "$b$", "$s$", "$b_{w}$"], name)
