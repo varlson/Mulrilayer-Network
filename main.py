@@ -50,15 +50,20 @@ for process in to_process[:2]:
     x_axis = [x for x in range(graph.vcount())]
 
     corresp = correspondence_checker(mobility['city'], deg, graph)
-    _tuple.append((x_axis, corresp))
+    spear = mapper(mobility['city'], deg)
+    _tuple.append((x_axis, corresp, spear))
+
     corresp = correspondence_checker(mobility['city'], bet, graph)
-    _tuple.append((x_axis, corresp))
+    spear = mapper(mobility['city'], bet)
+    _tuple.append((x_axis, corresp, spear))
 
     corresp = correspondence_checker(mobility['city'], stre, graph)
-    _tuple.append((x_axis, corresp))
+    spear = mapper(mobility['city'], stre)
+    _tuple.append((x_axis, corresp, spear))
 
 
     corresp = correspondence_checker(mobility['city'], bet_w, graph)
-    _tuple.append((x_axis, corresp))
+    spear = mapper(mobility['city'], bet_w)
+    _tuple.append((x_axis, corresp, spear))
 
-    graphPloter(pair, ["$k$", "$b$", "$s$", "$b_{w}$"], name)
+    graphPloter(_tuple, ["$k$", "$b$", "$s$", "$b_{w}$"], name)

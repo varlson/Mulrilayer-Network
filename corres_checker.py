@@ -3,7 +3,7 @@ import pandas as pd
 from igraph import *
 import numpy as np
 import matplotlib.pyplot as plt
-
+from scipy.stats import spearmanr
 def comparator(g, sorted, mobility):
     seq = np.array([0.0]*len(mobility))
     isMatch = notMatch =0.0
@@ -30,8 +30,10 @@ def graphPloter(list_of_coord, labels, name="teste"):
     for index, coord in enumerate(list_of_coord):
         x = coord[0]
         y = coord[1]
-
-        plt.plot(x, y, label=labels[index], marker="1")
+        sper = coord[2]
+        corr = str(sper[0])[:6]
+        pval = str(sper[1])[:6]
+        plt.plot(x, y, label=labels[index]+' sp: '+corr+' pv: '+pval, marker="1")
     
     plt.legend()
     plt.title(name)
@@ -54,10 +56,10 @@ def sort_by_metric(graph, metric):
 
     switcher = {
 
-        "degree": [(x, graph.degree(x)) for x in range(graph.vcount())],
-        "betweenness": [(x, graph.betweenness(x)) for x in range(graph.vcount())],
-        "strength": [(index, x) for index, x in enumerate(weighted)],
-        "betweenness_w": [(index, x) for index, x in enumerate(weighted)]    
+        "degree": [(x, graph.degree(x), graph.vs['label'][x]) for x in range(graph.vcount())],
+        "betweenness": [(x, graph.betweenness(x), graph.vs['label'][x]) for x in range(graph.vcount())],
+        "strength": [(index, x, graph.vs['label'][index]) for index, x in enumerate(weighted)],
+        "betweenness_w": [(index, x, graph.vs['label'][index]) for index, x in enumerate(weighted)]    
     }
     
 
@@ -94,5 +96,23 @@ def mapeador(mobility, graph):
     return[mob_id, g_id]
 
 
-mob = list(load_csv('fluvial')['city'])
-fl = load_graph_ml('fluvial')
+def mapper(mobility, sort_by_metr):
+
+    mob_list = np.arange(len(mobility))
+    lab_list = [-1]*len(mobility)
+    lab_list = np.asarray(lab_list)
+    label = [x[2] for x in sort_by_metr]
+
+    for index, mob, in enumerate(mobility):
+        
+        try:
+            ind = label.index(mob)
+            lab_list[index] = ind
+        except:
+            pass
+    
+    return spearmanr(mob_list, lab_list)
+
+
+# mob = load_csv('fluvial_by_death')
+# fl = load_graph_ml('fluvial')
