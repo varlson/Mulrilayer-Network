@@ -36,34 +36,34 @@ def correspondence_checker(mobolity, sorted_data, graph):
 to_process = ['fluvial', 'fluvial_by_death', 'terrestrial', 'terrestrial_by_death']
 
 
-for process in to_process:
+for process in to_process[:2]:
     name = process
     mobility = load_csv(process)
     graph = load_graph_ml('fluvial') if process[0]=='f' else load_graph_ml('terrestrial')
 
-    deg = sort_by_metric(graph, "degree")
-    bet = sort_by_metric(graph, "betweenness")
-    stre = sort_by_metric(graph, "strength")
-    bet_w = sort_by_metric(graph, "betweenness_w")
+    deg = sort_by_metric(graph, "degree", name)
+    bet = sort_by_metric(graph, "betweenness", name)
+    stre = sort_by_metric(graph, "strength", name)
+    bet_w = sort_by_metric(graph, "betweenness_w", name)
 
     _tuple = []
     x_axis = [x for x in range(graph.vcount())]
 
     corresp = correspondence_checker(mobility['city'], deg, graph)
-    spear = mapper(mobility['city'], deg)
+    spear = mapper(mobility['city'], deg, name)
     _tuple.append((x_axis, corresp, spear))
 
     corresp = correspondence_checker(mobility['city'], bet, graph)
-    spear = mapper(mobility['city'], bet)
+    spear = mapper(mobility['city'], bet, name)
     _tuple.append((x_axis, corresp, spear))
 
     corresp = correspondence_checker(mobility['city'], stre, graph)
-    spear = mapper(mobility['city'], stre)
+    spear = mapper(mobility['city'], stre, name)
     _tuple.append((x_axis, corresp, spear))
 
 
     corresp = correspondence_checker(mobility['city'], bet_w, graph)
-    spear = mapper(mobility['city'], bet_w)
+    spear = mapper(mobility['city'], bet_w, name)
     _tuple.append((x_axis, corresp, spear))
 
     graphPloter(_tuple, ["$k$", "$b$", "$s$", "$b_{w}$"], name)

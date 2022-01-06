@@ -1,9 +1,10 @@
 # from typing import Sequence   
-import pandas as pd
+# import pandas as pd
 from igraph import *
-import numpy as np
+# import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import spearmanr
+from exporter import *
 def comparator(g, sorted, mobility):
     seq = np.array([0.0]*len(mobility))
     isMatch = notMatch =0.0
@@ -31,8 +32,8 @@ def graphPloter(list_of_coord, labels, name="teste"):
         x = coord[0]
         y = coord[1]
         sper = coord[2]
-        corr = str(sper[0])[:6]
-        pval = str(sper[1])[:6]
+        corr = "{:.8f}".format(sper[0])
+        pval = "{:.8f}".format(sper[1])
         plt.plot(x, y, label=labels[index]+' sp: '+corr+' pv: '+pval, marker="1")
     
     plt.legend()
@@ -41,7 +42,7 @@ def graphPloter(list_of_coord, labels, name="teste"):
 
 
 
-def sort_by_metric(graph, metric):
+def sort_by_metric(graph, metric, name):
     # import sys
     # try:
     #     peso = graph.es['weight']
@@ -69,7 +70,10 @@ def sort_by_metric(graph, metric):
     
 
     done = switcher.get(metric)
-    return sorted(done, key=lambda data: data[1], reverse=True)
+    done = sorted(done, key=lambda data: data[1], reverse=True)
+    export_sorted_to_csv(done, metric+'_'+name)
+    # print(len(done))
+    return done
     
 
 def load_graph_ml(full_path):
@@ -101,7 +105,7 @@ def mapeador(mobility, graph):
     return[mob_id, g_id]
 
 
-def mapper(mobility, sort_by_metr):
+def mapper(mobility, sort_by_metr, name):
 
     mob_list = np.arange(len(mobility))
     lab_list = [-1]*len(mobility)
@@ -116,8 +120,9 @@ def mapper(mobility, sort_by_metr):
         except:
             pass
     
+    export_corres_checker((mob_list, lab_list), name)
     return spearmanr(mob_list, lab_list)
 
 
-# mob = load_csv('fluvial_by_death')
-# fl = load_graph_ml('fluvial')
+mob = load_csv('fluvial_by_death')
+fl = load_graph_ml('fluvial')
