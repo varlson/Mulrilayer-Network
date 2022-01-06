@@ -1,0 +1,141 @@
+index,metric,labels
+33.0,2949.668756852908,Manaus
+65.0,1643.5747673456785,Belém
+91.0,359.34463747634476,Santarém
+66.0,353.3553088032644,Breves
+25.0,267.853058053058,Itacoatiara
+102.0,107.78561718052393,Santana
+68.0,100.08333333333333,Cametá
+48.0,96.5,Tapauá
+58.0,92.28929981225534,Almeirim
+73.0,92.28929981225534,Gurupá
+88.0,92.28929981225534,Prainha
+79.0,90.0,Mocajuba
+41.0,85.56875685290315,Parintins
+93.0,77.19928451510232,Senador José Porfírio
+99.0,77.19928451510232,Vitória do Xingu
+76.0,47.83333333333333,Limoeiro do Ajuru
+81.0,47.16666666666668,Muaná
+80.0,36.51984126984128,Monte Alegre
+57.0,25.25,Alenquer
+82.0,23.530835830835834,Óbidos
+49.0,23.0,Tefé
+101.0,22.328808924217828,Macapá
+56.0,18.784526807482333,Afuá
+95.0,17.405555555555562,Terra Santa
+75.0,16.537129537129537,Juruti
+72.0,15.572222222222225,Faro
+19.0,9.0,Coari
+20.0,9.0,Codajás
+64.0,8.25,Barcarena
+103.0,7.868341390794762,Vitória do Jari
+70.0,6.25,Curralinho
+12.0,4.666666666666666,Beruri
+87.0,4.371081715988459,Porto de Moz
+83.0,3.9499999999999993,Oeiras do Pará
+38.0,3.5333333333333337,Nova Olinda do Norte
+1.0,3.0,Cruzeiro do Sul
+100.0,2.922619047619047,Laranjal do Jari
+31.0,2.6666666666666665,Manacapuru
+14.0,2.333333333333333,Borba
+107.0,2.0,Humberto de Campos
+111.0,2.0,São José de Ribamar
+86.0,1.2583333333333333,Portel
+69.0,1.0,Chaves
+109.0,1.0,Imperatriz
+126.0,1.0,Salvador
+52.0,0.6666666666666666,Urucará
+8.0,0.5333333333333333,Autazes
+54.0,0.5,Abaetetuba
+92.0,0.5,São Sebastião da Boa Vista
+62.0,0.45,Bagre
+78.0,0.35,Melgaço
+0.0,0.0,Porto Velho
+2.0,0.0,Marechal Thaumaturgo
+3.0,0.0,Porto Walter
+4.0,0.0,Alvarães
+5.0,0.0,Amaturá
+6.0,0.0,Anamã
+7.0,0.0,Anori
+9.0,0.0,Barcelos
+10.0,0.0,Barreirinha
+11.0,0.0,Benjamin Constant
+13.0,0.0,Boa Vista do Ramos
+15.0,0.0,Caapiranga
+16.0,0.0,Canutama
+17.0,0.0,Carauari
+18.0,0.0,Careiro da Várzea
+21.0,0.0,Fonte Boa
+22.0,0.0,Humaitá
+23.0,0.0,Ipixuna
+24.0,0.0,Iranduba
+26.0,0.0,Itapiranga
+27.0,0.0,Japurá
+28.0,0.0,Juruá
+29.0,0.0,Jutaí
+30.0,0.0,Lábrea
+32.0,0.0,Manaquiri
+34.0,0.0,Manicoré
+35.0,0.0,Maraã
+36.0,0.0,Maués
+37.0,0.0,Nhamundá
+39.0,0.0,Novo Airão
+40.0,0.0,Novo Aripuanã
+42.0,0.0,Santa Isabel do Rio Negro
+43.0,0.0,Santo Antônio do Içá
+44.0,0.0,São Gabriel da Cachoeira
+45.0,0.0,São Paulo de Olivença
+46.0,0.0,São Sebastião do Uatumã
+47.0,0.0,Tabatinga
+50.0,0.0,Tonantins
+51.0,0.0,Uarini
+53.0,0.0,Urucurituba
+55.0,0.0,Acará
+59.0,0.0,Altamira
+60.0,0.0,Anajás
+61.0,0.0,Aveiro
+63.0,0.0,Baião
+67.0,0.0,Cachoeira do Arari
+71.0,0.0,Curuá
+74.0,0.0,Itaituba
+77.0,0.0,Marabá
+84.0,0.0,Oriximiná
+85.0,0.0,Ponta de Pedras
+89.0,0.0,Salvaterra
+90.0,0.0,Santa Cruz do Arari
+94.0,0.0,Soure
+96.0,0.0,Tucumã
+97.0,0.0,Tucuruí
+98.0,0.0,Viseu
+104.0,0.0,Itaguatins
+105.0,0.0,Alcântara
+106.0,0.0,Carutapera
+108.0,0.0,Icatu
+110.0,0.0,Primeira Cruz
+112.0,0.0,São Luís
+113.0,0.0,Areia Branca
+114.0,0.0,Grossos
+115.0,0.0,Penedo
+116.0,0.0,Piaçabuçu
+117.0,0.0,Porto Real do Colégio
+118.0,0.0,Traipu
+119.0,0.0,Brejo Grande
+120.0,0.0,Gararu
+121.0,0.0,Propriá
+122.0,0.0,Santana do São Francisco
+123.0,0.0,Itaparica
+124.0,0.0,Pilão Arcado
+125.0,0.0,Remanso
+127.0,0.0,Sento Sé
+128.0,0.0,Vera Cruz
+129.0,0.0,Xique-Xique
+130.0,0.0,Angra dos Reis
+131.0,0.0,Mangaratiba
+132.0,0.0,Guaraqueçaba
+133.0,0.0,Paranaguá
+134.0,0.0,Imaruí
+135.0,0.0,Itapiranga
+136.0,0.0,Laguna
+137.0,0.0,Pinheirinho do Vale
+138.0,0.0,Rio Grande
+139.0,0.0,São José do Norte

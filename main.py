@@ -36,7 +36,7 @@ def correspondence_checker(mobolity, sorted_data, graph):
 to_process = ['fluvial', 'fluvial_by_death', 'terrestrial', 'terrestrial_by_death']
 
 
-for process in to_process[:2]:
+for process in to_process:
     name = process
     mobility = load_csv(process)
     graph = load_graph_ml('fluvial') if process[0]=='f' else load_graph_ml('terrestrial')
