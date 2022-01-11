@@ -19,7 +19,7 @@ def to_string_list(data):
     return temp
 
 
-def correspondence_checker(mobolity, sorted_data, graph):
+def correspondence_checker(mobolity, sorted_data, graph, name):
     list_of_correspondence = []
     for index, city in enumerate(mobolity):
         n_nodes = first_n_nodes(index+1, graph, sorted_data)
@@ -27,19 +27,28 @@ def correspondence_checker(mobolity, sorted_data, graph):
         temp = mobolity
         temp = to_string_list(temp)
         inters = intersec(n_nodes, temp[:index+1])
-        list_of_correspondence.append(float(len(inters)/(index+1)))  
+        list_of_correspondence.append(float(len(inters)/(index+1))) 
+    
+    x_axis = [x for x in range(graph.vcount())]
+
+    
+    df = {"Nos": x_axis}
+    df['Correspondecia'] = list_of_correspondence
+    
+    df = pd.DataFrame(df, index=False)
+    df.to_csv('output/'+name+'.csv')
     return list_of_correspondence
 
 
 
 
-to_process = ['fluvial', 'fluvial_by_death', 'terrestrial', 'terrestrial_by_death']
+to_process = ['terrestrial', 'terrestrial_by_death']
 
 
 for process in to_process:
     name = process
     mobility = load_csv(process)
-    graph = load_graph_ml('fluvial') if process[0]=='f' else load_graph_ml('terrestrial')
+    graph = load_graph_ml('terrestrial')
 
     deg = sort_by_metric(graph, "degree", name)
     bet = sort_by_metric(graph, "betweenness", name)
@@ -49,21 +58,21 @@ for process in to_process:
     _tuple = []
     x_axis = [x for x in range(graph.vcount())]
 
-    corresp = correspondence_checker(mobility['city'], deg, graph)
+    corresp = correspondence_checker(mobility['city'], deg, graph, name)
     spear = mapper(mobility['city'], deg, name)
     _tuple.append((x_axis, corresp, spear))
 
-    corresp = correspondence_checker(mobility['city'], bet, graph)
+    corresp = correspondence_checker(mobility['city'], bet, graph, name)
     spear = mapper(mobility['city'], bet, name)
     _tuple.append((x_axis, corresp, spear))
 
-    corresp = correspondence_checker(mobility['city'], stre, graph)
+    corresp = correspondence_checker(mobility['city'], stre, graph, name)
     spear = mapper(mobility['city'], stre, name)
     _tuple.append((x_axis, corresp, spear))
 
 
-    corresp = correspondence_checker(mobility['city'], bet_w, graph)
+    corresp = correspondence_checker(mobility['city'], bet_w, graph, name)
     spear = mapper(mobility['city'], bet_w, name)
     _tuple.append((x_axis, corresp, spear))
-
+    
     graphPloter(_tuple, ["$k$", "$b$", "$s$", "$b_{w}$"], name)
