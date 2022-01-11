@@ -1,0 +1,5323 @@
+index,metric,labels
+3662.0,67645.25,São Paulo
+2191.0,36472.0,Belo Horizonte
+2047.0,32848.0,Salvador
+1642.0,31176.0,Aracaju
+3228.0,28484.75,Campinas
+5173.0,28050.0,Goiânia
+861.0,27239.0,Fortaleza
+4701.0,26585.25,Porto Alegre
+1193.0,25698.5,Campina Grande
+1843.0,25495.5,Feira de Santana
+1485.0,25430.0,Recife
+1402.0,25065.25,Caruaru
+3099.0,24087.0,Rio de Janeiro
+1401.0,21256.0,Carpina
+794.0,20947.0,Teresina
+3592.0,19413.5,Ribeirão Preto
+3831.0,19088.5,Curitiba
+5321.0,17008.25,Brasília
+1457.0,16843.25,Limoeiro
+1474.0,16594.0,Paudalho
+112.0,16212.0,Belém
+1275.0,16069.0,Patos
+3656.0,15821.25,São José do Rio Preto
+128.0,15717.0,Castanhal
+3807.0,15112.0,Cascavel
+3942.0,14815.0,Maringá
+4772.0,14711.25,São Leopoldo
+1585.0,14277.0,Maceió
+1541.0,14260.0,Arapiraca
+1676.0,13945.0,Maruim
+459.0,13754.0,Imperatriz
+1698.0,13558.0,Rosário do Catete
+2537.0,12874.0,Juiz de Fora
+1672.0,12804.0,Laranjeiras
+4982.0,12712.5,Cuiabá
+1665.0,12600.0,Itabaiana
+1237.0,12569.0,João Pessoa
+3570.0,12355.25,Presidente Prudente
+3925.0,12340.0,Londrina
+152.0,12229.0,Marabá
+969.0,12103.0,Sobral
+2432.0,12049.5,Governador Valadares
+2123.0,11668.0,Vitória da Conquista
+4474.0,11309.0,Carazinho
+4885.0,11303.25,Campo Grande
+3035.0,11198.0,Vitória
+1451.0,11181.0,Lagoa do Carro
+738.0,11037.0,Picos
+1925.0,11037.0,Jequié
+1537.0,10995.0,Vitória de Santo Antão
+1751.0,10802.5,Barreiras
+1069.0,10761.0,Natal
+5097.0,10718.0,Anápolis
+422.0,10588.0,Caxias
+1245.0,10484.0,Lagoa Seca
+1415.0,10452.0,Escada
+4203.0,10328.5,Florianópolis
+509.0,10211.0,Peritoró
+1468.0,10095.0,Palmares
+3681.0,9615.25,Sorocaba
+4004.0,9571.0,Ponta Grossa
+1652.0,9495.0,Carmópolis
+550.0,9418.0,São Luís
+1829.0,9310.0,Cruz das Almas
+2931.0,9283.25,Uberlândia
+1669.0,9261.0,Japaratuba
+1721.0,9261.0,Alagoinhas
+3531.0,8945.0,Peruíbe
+1509.0,8935.0,São Lourenço da Mata
+1479.0,8922.0,Petrolina
+1889.0,8894.5,Itabuna
+3406.0,8839.0,Jundiaí
+1394.0,8645.0,Camaragibe
+3657.0,8572.25,São José dos Campos
+2061.0,8483.0,Santo Antônio de Jesus
+4247.0,8374.0,Joinville
+294.0,8295.0,Gurupi
+829.0,8260.0,Baturité
+4739.0,8191.0,Santa Maria
+3541.0,8149.25,Piracicaba
+1388.0,8107.0,Cabo de Santo Agostinho
+901.0,8103.0,Juazeiro do Norte
+1487.0,8077.0,Ribeirão
+1694.0,8031.0,Propriá
+4613.0,8028.0,Lajeado
+1968.0,7996.0,Milagres
+3141.0,7984.5,Americana
+2474.0,7757.5,Ipatinga
+4638.0,7706.0,Montenegro
+4106.0,7681.0,Toledo
+2368.0,7669.0,Divinópolis
+3071.0,7590.0,Macaé
+4184.0,7580.0,Chapecó
+3188.0,7509.0,Bauru
+3437.0,7492.25,Marília
+1682.0,7326.0,Nossa Senhora da Glória
+3051.0,7297.75,Campos dos Goytacazes
+2528.0,7280.25,João Monlevade
+4807.0,7265.0,Soledade
+2912.0,7234.0,Teófilo Otoni
+248.0,7210.0,Araguaína
+1290.0,7202.0,Pombal
+2081.0,7189.0,Senhor do Bonfim
+5057.0,7188.5,Rondonópolis
+1422.0,7104.0,Gameleira
+1491.0,7093.0,Salgueiro
+4148.0,7008.0,Balneário Camboriú
+1464.0,6996.0,Nazaré da Mata
+2930.0,6981.5,Uberaba
+804.0,6966.0,Acarape
+4680.0,6886.0,Passo Fundo
+4543.0,6877.0,Estrela
+3159.0,6843.25,Araraquara
+3856.0,6782.0,Foz do Iguaçu
+390.0,6733.0,Bacabal
+1423.0,6732.0,Garanhuns
+365.0,6729.0,Palmas
+2075.0,6727.0,Sapeaçu
+4156.0,6578.5,Blumenau
+1517.0,6570.0,Surubim
+2536.0,6566.0,Juatuba
+5078.0,6520.0,Várzea Grande
+3799.0,6500.25,Campo Mourão
+3952.0,6463.0,Medianeira
+853.0,6454.0,Crato
+4323.0,6452.0,Rio do Sul
+2986.0,6431.0,Guarapari
+2197.0,6406.0,Betim
+4481.0,6389.0,Caxias do Sul
+1346.0,6383.0,Sousa
+1371.0,6383.0,Arcoverde
+2048.0,6368.0,Santa Bárbara
+2019.0,6345.5,Poções
+816.0,6306.0,Aracoiaba
+126.0,6295.0,Capanema
+2186.0,6288.0,Barbacena
+3757.0,6279.0,Apucarana
+4038.0,6258.0,Rolândia
+3043.0,6250.0,Barra Mansa
+2335.0,6164.0,Coronel Fabriciano
+1683.0,6135.0,Nossa Senhora das Dores
+2730.0,6131.25,Pouso Alegre
+1668.0,6125.0,Itaporanga d'Ajuda
+568.0,6078.0,Timon
+2086.0,6055.0,Serrinha
+4897.0,6055.0,Dourados
+11.0,6029.0,Ji-Paraná
+371.0,6001.0,Açailândia
+3454.0,5970.0,Mogi das Cruzes
+4237.0,5968.0,Itajaí
+3168.0,5961.5,Assis
+515.0,5955.0,Porto Franco
+3704.0,5953.0,Taubaté
+5265.0,5930.0,Porangatu
+191.0,5928.0,Santa Maria do Pará
+1378.0,5924.0,Bezerros
+326.0,5920.0,Paraíso do Tocantins
+3080.0,5897.0,Niterói
+662.0,5896.0,Floriano
+2269.0,5889.0,Caratinga
+1511.0,5881.0,Serra Talhada
+2485.0,5873.0,Itajubá
+3648.0,5815.5,São Carlos
+1853.0,5807.0,Governador Mangabeira
+137.0,5805.0,Eldorado do Carajás
+3644.0,5800.0,Santos
+1455.0,5788.0,Lagoa Grande
+976.0,5784.0,Tianguá
+1678.0,5779.0,Monte Alegre de Sergipe
+2116.0,5775.0,Valença
+2973.0,5773.0,Cachoeiro de Itapemirim
+1671.0,5736.0,Lagarto
+1189.0,5728.0,Cajazeiras
+4430.0,5713.0,Bento Gonçalves
+2616.0,5691.0,Montes Claros
+3865.0,5677.0,Guaíra
+1840.0,5643.5,Eunápolis
+1879.0,5643.0,Ipiaú
+173.0,5629.0,Parauapebas
+1946.0,5616.0,Luís Eduardo Magalhães
+1657.0,5613.0,Estância
+1876.0,5586.0,Ilhéus
+3122.0,5564.0,Volta Redonda
+1797.0,5560.0,Capim Grosso
+3625.0,5550.0,Santa Isabel
+4557.0,5533.0,Frederico Westphalen
+274.0,5529.0,Colinas do Tocantins
+5068.0,5509.0,Sinop
+1225.0,5495.0,Guarabira
+2897.0,5492.0,Sete Lagoas
+955.0,5472.0,Redenção
+3081.0,5465.0,Nova Friburgo
+1658.0,5451.0,Feira Nova
+3858.0,5426.0,Francisco Beltrão
+3391.0,5425.0,Jaboticabal
+981.0,5421.0,Umirim
+1709.0,5384.0,Siriri
+1427.0,5376.0,Gravatá
+1815.0,5376.0,Conceição do Coité
+4961.0,5360.0,Barra do Garças
+14.0,5288.0,Ouro Preto do Oeste
+929.0,5281.0,Pacajus
+966.0,5263.0,São Luís do Curu
+1296.0,5262.0,Remígio
+3150.0,5257.0,Aparecida
+2079.0,5232.5,Seabra
+505.0,5232.0,Pedreiras
+3932.0,5212.0,Mandaguari
+3067.0,5160.0,Itaperuna
+2108.0,5140.0,Ubaitaba
+3416.0,5126.25,Limeira
+4583.0,5121.0,Ijuí
+3597.0,5084.75,Rio Claro
+3370.0,5073.0,Itapetininga
+3500.0,5052.25,Ourinhos
+16.0,5029.75,Porto Velho
+3565.0,5013.0,Praia Grande
+879.0,5001.25,Iguatu
+438.0,5000.0,Estreito
+1463.0,4980.0,Moreno
+4114.0,4974.0,Umuarama
+587.0,4966.0,Altos
+4793.0,4957.0,Sarandi
+1344.0,4948.0,Soledade
+1221.0,4940.0,Esperança
+2556.0,4931.0,Leopoldina
+3154.0,4889.0,Araçatuba
+517.0,4880.0,Presidente Dutra
+1805.0,4872.0,Catu
+4386.0,4870.0,Xanxerê
+4509.0,4870.0,Cruz Alta
+4662.0,4870.0,Novo Hamburgo
+4670.0,4844.0,Palmeira das Missões
+5312.0,4831.0,Uruaçu
+2927.0,4820.0,Ubá
+951.0,4814.0,Quixadá
+2500.0,4788.0,Itaúna
+4964.0,4787.5,Cáceres
+1250.0,4768.0,Malta
+1481.0,4763.0,Pombos
+2005.0,4723.0,Paulo Afonso
+1417.0,4721.0,Feira Nova
+1644.0,4708.0,Areia Branca
+1332.0,4704.0,São Sebastião de Lagoa de Roça
+1020.0,4703.0,Parnamirim
+2667.0,4699.0,Pará de Minas
+3758.0,4697.0,Arapongas
+1871.0,4695.5,Ibotirama
+2587.0,4672.0,Mateus Leme
+1467.0,4660.0,Ouricuri
+1848.0,4648.0,Gandu
+4738.0,4646.0,Santa Cruz do Sul
+5201.0,4613.0,Itumbiara
+1713.0,4604.0,Umbaúba
+2623.0,4604.0,Muriaé
+627.0,4589.0,Campo Maior
+3044.0,4588.0,Bom Jardim
+3715.0,4581.0,Tupã
+1903.0,4574.0,Itaparica
+1605.0,4570.0,Palmeira dos Índios
+1725.0,4551.0,Amélia Rodrigues
+3939.0,4547.0,Marialva
+1653.0,4541.0,Cedro de São João
+3905.0,4518.0,Jandaia do Sul
+5000.0,4517.0,Jangada
+2109.0,4516.0,Ubatã
+1351.0,4507.0,Teixeira
+1906.0,4502.0,Itapetinga
+869.0,4499.0,Guaiúba
+5204.0,4484.0,Jaraguá
+1239.0,4471.0,Juazeirinho
+4667.0,4470.0,Osório
+17.0,4467.0,Presidente Médici
+2721.0,4465.75,Poços de Caldas
+1404.0,4464.0,Catende
+20.0,4403.5,Vilhena
+1.0,4393.5,Ariquemes
+2724.0,4378.0,Ponte Nova
+1769.0,4349.0,Brumado
+3025.0,4347.0,São Mateus
+4918.0,4336.0,Naviraí
+2948.0,4323.0,Viçosa
+3646.0,4317.0,São Bernardo do Campo
+3014.0,4311.0,Piúma
+4357.0,4307.0,São Miguel do Oeste
+3669.0,4298.0,São Vicente
+3948.0,4297.0,Matelândia
+5069.0,4262.0,Sorriso
+5007.0,4259.0,Lucas do Rio Verde
+3094.0,4257.0,Resende
+172.0,4245.0,Paragominas
+1920.0,4228.0,Jacobina
+2324.0,4222.0,Conselheiro Lafaiete
+3042.0,4204.0,Barra do Piraí
+890.0,4199.0,Itapipoca
+1308.0,4178.0,Santa Luzia
+3988.0,4178.0,Pato Branco
+2939.0,4173.25,Varginha
+1330.0,4172.0,São Mamede
+1068.0,4171.0,Mossoró
+10.0,4168.0,Jaru
+2998.0,4151.0,João Neiva
+4748.0,4145.0,Santo Ângelo
+2038.0,4115.0,Ribeira do Pombal
+4744.0,4106.0,Santa Rosa
+2713.0,4094.0,Piranguinho
+4917.0,4085.0,Mundo Novo
+2976.0,4073.0,Colatina
+963.0,4068.0,São Benedito
+2018.0,4064.0,Planalto
+1527.0,4062.0,Tracunhaém
+2641.0,4057.0,Nova Serrana
+5022.0,4056.0,Nova Mutum
+1153.0,4054.0,Aparecida
+1930.0,4045.0,Juazeiro
+4025.0,4044.0,Realeza
+1294.0,4035.5,Queimadas
+2494.0,4033.0,Itaobim
+117.0,4029.0,Bragança
+2553.0,4027.0,Lavras
+3583.0,4020.0,Registro
+3418.0,4016.0,Lins
+3301.0,4012.0,Franca
+1691.0,4009.0,Poço Redondo
+3002.0,4006.0,Marataízes
+5166.0,4002.0,Formosa
+1699.0,3994.0,Salgado
+1316.0,3980.0,São Bentinho
+1674.0,3977.0,Malhada dos Bois
+5271.0,3964.0,Rialma
+133.0,3941.0,Curionópolis
+3456.0,3932.0,Mogi Mirim
+3497.0,3930.0,Osasco
+3118.0,3920.0,Três Rios
+3419.0,3911.0,Lorena
+4246.0,3908.0,Joaçaba
+5058.0,3902.0,Rosário Oeste
+2169.0,3901.0,Araxá
+1407.0,3894.0,Chã Grande
+797.0,3893.0,Valença do Piauí
+1706.0,3891.0,São Francisco
+3676.0,3885.0,Sertãozinho
+3812.0,3880.0,Céu Azul
+1838.0,3877.0,Esplanada
+3937.0,3877.0,Marechal Cândido Rondon
+1498.0,3847.0,Santa Maria da Boa Vista
+3160.0,3845.0,Araras
+1984.0,3843.0,Nilo Peçanha
+5190.0,3842.0,Iporá
+2099.0,3831.5,Teixeira de Freitas
+1649.0,3831.0,Canindé de São Francisco
+930.0,3830.0,Pacatuba
+3027.0,3826.0,Serra
+1240.0,3811.0,Junco do Seridó
+2097.0,3810.0,Taperoá
+3387.0,3804.0,Itu
+458.0,3794.0,Igarapé Grande
+3396.0,3790.0,Jales
+5205.0,3790.0,Jataí
+15.0,3783.0,Pimenta Bueno
+5013.0,3769.0,Nobres
+742.0,3758.0,Piripiri
+402.0,3752.0,Bernardo do Mearim
+3169.0,3749.25,Atibaia
+4999.0,3747.5,Jaciara
+583.0,3734.0,Água Branca
+889.0,3734.0,Itapajé
+2571.0,3730.0,Manhuaçu
+1778.0,3717.0,Caetité
+5274.0,3709.5,Rio Verde
+2983.0,3691.0,Fundão
+3514.0,3687.0,Parapuã
+2469.0,3675.0,Inhapim
+1928.0,3660.0,Jitaúna
+3243.0,3651.75,Catanduva
+2655.0,3648.0,Ouro Preto
+1334.0,3646.0,Sapé
+1328.0,3644.0,São José do Bonfim
+4251.0,3641.0,Lages
+487.0,3639.0,Miranda do Norte
+3636.0,3628.0,Santo André
+1916.0,3625.0,Ituberá
+3.0,3624.25,Cacoal
+1389.0,3620.0,Cabrobó
+1888.0,3615.0,Itaberaba
+3871.0,3614.0,Guarapuava
+4672.0,3614.0,Panambi
+5037.0,3591.5,Pontes e Lacerda
+5294.0,3585.0,São Luís de Montes Belos
+1169.0,3574.0,Belém
+293.0,3567.0,Guaraí
+2964.0,3561.0,Anchieta
+651.0,3557.0,Demerval Lobão
+3293.0,3556.0,Fernandópolis
+5307.0,3549.0,Trindade
+1376.0,3542.0,Belo Jardim
+1361.0,3527.0,Agrestina
+388.0,3517.0,Arari
+2354.0,3517.0,Curvelo
+2920.0,3517.0,Três Corações
+2675.0,3513.0,Passos
+913.0,3501.0,Milagres
+3207.0,3500.75,Bragança Paulista
+4591.0,3496.0,Iraí
+1465.0,3489.0,Orobó
+3814.0,3489.0,Cianorte
+3740.0,3481.0,Votuporanga
+2840.0,3480.0,São João del Rei
+1424.0,3476.0,Glória do Goitá
+1647.0,3476.0,Campo do Brito
+3095.0,3476.0,Rio Bonito
+529.0,3456.0,Santa Inês
+2289.0,3453.0,Cataguases
+2635.0,3452.0,Nova Era
+5019.0,3450.0,Nova Santa Helena
+1828.0,3439.0,Cristópolis
+833.0,3423.0,Brejo Santo
+3562.0,3423.0,Porto Ferreira
+2858.0,3412.0,São Lourenço
+4935.0,3403.0,São Gabriel do Oeste
+2022.0,3396.0,Porto Seguro
+1697.0,3392.0,Ribeirópolis
+4686.0,3392.0,Pelotas
+4848.0,3389.0,Venâncio Aires
+1488.0,3364.0,Rio Formoso
+3324.0,3363.0,Guaratinguetá
+1202.0,3353.0,Condado
+2435.0,3344.0,Guanhães
+3399.0,3343.25,Jaú
+1659.0,3325.0,Frei Paulo
+3499.0,3322.0,Osvaldo Cruz
+3703.0,3320.0,Tatuí
+3371.0,3314.0,Itapeva
+878.0,3294.0,Icó
+2142.0,3293.5,Alfenas
+150.0,3292.0,Mãe do Rio
+4191.0,3292.0,Criciúma
+1008.0,3285.0,Caicó
+1254.0,3285.0,Mari
+4266.0,3271.0,Maravilha
+140.0,3270.0,Goianésia do Pará
+3840.0,3267.0,Engenheiro Beltrão
+3528.0,3261.0,Penápolis
+1983.0,3258.0,Nazaré
+629.0,3255.0,Canto do Buriti
+3547.0,3245.75,Pirassununga
+1425.0,3238.0,Goiana
+4080.0,3235.0,São Miguel do Iguaçu
+2988.0,3234.0,Ibiraçu
+4374.0,3227.0,Tubarão
+2670.0,3226.0,Paraopeba
+1395.0,3219.0,Camocim de São Félix
+3265.0,3219.0,Cruzeiro
+4893.0,3218.0,Coxim
+1784.0,3215.0,Camamu
+3052.0,3204.0,Cantagalo
+578.0,3196.0,Vitória do Mearim
+1874.0,3192.0,Igrapiúna
+815.0,3173.0,Aracati
+875.0,3173.0,Ibiapina
+5220.0,3171.5,Mineiros
+215.0,3161.0,Tucuruí
+1452.0,3161.0,Lagoa de Itaenga
+209.0,3156.0,Tailândia
+1473.0,3155.0,Passira
+4898.0,3145.0,Eldorado
+1489.0,3142.0,Sairé
+2480.0,3137.0,Itabirito
+3000.0,3136.0,Linhares
+819.0,3133.0,Aratuba
+2677.0,3124.0,Patos de Minas
+852.0,3117.0,Crateús
+4388.0,3110.0,Xaxim
+2409.0,3105.0,Formiga
+4245.0,3105.0,Jaraguá do Sul
+978.0,3103.0,Tururu
+860.0,3102.0,Forquilha
+1370.0,3102.0,Araripina
+4367.0,3099.75,Tijucas
+1711.0,3098.0,Tobias Barreto
+1285.0,3093.0,Pirpirituba
+1631.0,3091.0,São Sebastião
+2478.0,3091.0,Itabira
+5140.0,3084.0,Ceres
+1760.0,3077.0,Bom Jesus da Lapa
+3610.0,3075.0,Salto
+3665.0,3074.0,São Roque
+2698.0,3060.0,Perdões
+2929.0,3055.0,Ubaporanga
+1638.0,3052.0,União dos Palmares
+3991.0,3052.0,Peabiru
+3414.0,3038.0,Leme
+4238.0,3035.0,Itapema
+4920.0,3034.0,Nova Alvorada do Sul
+5137.0,3032.0,Catalão
+158.0,3031.0,Moju
+1629.0,3029.0,São Miguel dos Campos
+3206.0,3028.0,Botucatu
+2577.0,3022.0,Mariana
+1809.0,3021.0,Cícero Dantas
+4194.0,3018.0,Curitibanos
+3046.0,3011.0,Cabo Frio
+1655.0,3010.0,Cumbe
+3083.0,3008.0,Paracambi
+3808.0,3000.0,Castro
+1381.0,2999.0,Bom Jardim
+144.0,2996.0,Ipixuna do Pará
+4658.0,2995.0,Nova Prata
+391.0,2991.0,Bacabeira
+2764.0,2990.0,Rio Pomba
+2628.0,2987.0,Naque
+1898.0,2986.5,Itamaraju
+1886.0,2984.0,Irecê
+827.0,2983.0,Barro
+220.0,2974.0,Xinguara
+1855.0,2966.0,Guanambi
+1382.0,2964.0,Bonito
+896.0,2958.0,Jaguaribe
+1082.0,2947.0,Pau dos Ferros
+181.0,2944.25,Redenção
+3765.0,2940.0,Assis Chateaubriand
+2035.0,2937.0,Riachão do Jacuípe
+2163.0,2933.0,Araguari
+3183.0,2923.0,Barretos
+3931.0,2921.0,Mandaguaçu
+2990.0,2919.0,Iconha
+3057.0,2903.0,Cordeiro
+3194.0,2903.0,Birigui
+5233.0,2898.0,Nerópolis
+3218.0,2897.0,Cachoeira Paulista
+3545.0,2895.0,Pirapora do Bom Jesus
+2564.0,2884.0,Luz
+1412.0,2878.0,Cupira
+2020.0,2874.0,Pojuca
+188.0,2872.0,Santa Izabel do Pará
+886.0,2870.0,Irauçuba
+4850.0,2868.0,Veranópolis
+3055.0,2852.0,Casimiro de Abreu
+3066.0,2847.0,Itaocara
+250.0,2837.0,Araguatins
+4794.0,2837.0,Seberi
+5272.0,2818.0,Rianápolis
+2678.0,2817.0,Patrocínio
+3392.0,2817.0,Jacareí
+837.0,2816.0,Capistrano
+4558.0,2810.0,Garibaldi
+3350.0,2804.0,Indaiatuba
+435.0,2801.0,Dom Pedro
+1982.0,2800.0,Mutuípe
+1837.0,2797.0,Entre Rios
+1611.0,2788.0,Penedo
+105.0,2787.0,Ananindeua
+979.0,2785.0,Ubajara
+957.0,2784.0,Russas
+3101.0,2784.0,Santo Antônio de Pádua
+873.0,2782.0,Horizonte
+4175.0,2774.0,Campos Novos
+4997.0,2773.0,Itaúba
+834.0,2767.0,Camocim
+193.0,2766.0,Santarém
+1018.0,2765.0,Currais Novos
+3146.0,2755.0,Andradina
+3527.0,2755.0,Pedro de Toledo
+162.0,2751.0,Nova Ipixuna
+2993.0,2751.0,Itapemirim
+3381.0,2750.0,Itariri
+2418.0,2740.0,Frei Inocêncio
+2096.0,2738.0,Tanquinho
+1477.0,2731.0,Pesqueira
+1877.0,2719.0,Inhambupe
+904.0,2714.0,Limoeiro do Norte
+59.0,2713.0,Rio Branco
+3650.0,2706.0,São João da Boa Vista
+4960.0,2704.5,Barra do Bugres
+3698.0,2704.0,Taquaritinga
+4262.0,2701.0,Mafra
+5187.0,2700.0,Inhumas
+678.0,2698.0,Itaueira
+1058.0,2693.0,Macaíba
+1708.0,2692.0,Simão Dias
+4608.0,2692.0,Júlio de Castilhos
+1894.0,2691.5,Itagimirim
+3417.0,2689.0,Lindóia
+3018.0,2687.0,Rio Novo do Sul
+1640.0,2680.0,Amparo de São Francisco
+1373.0,2679.0,Barreiros
+4785.0,2679.0,São Sebastião do Caí
+205.0,2678.0,São Miguel do Guamá
+461.0,2676.0,Itapecuru Mirim
+730.0,2669.0,Parnaíba
+3963.0,2661.0,Nova Esperança
+339.0,2659.0,Porto Nacional
+2240.0,2654.5,Cambuquira
+1750.0,2649.0,Barra do Rocha
+2053.0,2645.0,Santaluz
+5071.0,2644.5,Tangará da Serra
+4978.0,2641.0,Comodoro
+479.0,2638.0,Maracaçumé
+4529.0,2633.0,Entre-Ijuís
+98.0,2631.0,Abaetetuba
+645.0,2628.5,Corrente
+3919.0,2628.0,Laranjeiras do Sul
+311.0,2624.0,Miranorte
+1145.0,2618.0,Alagoa Grande
+1782.0,2617.5,Camacan
+3904.0,2615.0,Jaguariaíva
+3440.0,2612.0,Matão
+2033.0,2611.0,Retirolândia
+130.0,2609.25,Conceição do Araguaia
+2913.0,2609.0,Timóteo
+2337.0,2605.0,Coronel Pacheco
+1343.0,2604.0,Solânea
+5094.0,2597.0,Alvorada do Norte
+1111.0,2595.0,São José de Mipibu
+3127.0,2591.0,Águas de Lindóia
+1130.0,2589.0,Tangará
+3184.0,2589.0,Barrinha
+1973.0,2587.0,Morro do Chapéu
+1374.0,2586.0,Belém de Maria
+3986.0,2583.0,Paranavaí
+3945.0,2579.0,Marmeleiro
+4311.0,2575.0,Pouso Redondo
+5103.0,2571.0,Aragarças
+1670.0,2570.0,Japoatã
+1654.0,2569.0,Cristinápolis
+3862.0,2569.0,Goioerê
+1739.0,2564.0,Araci
+1814.0,2560.0,Conceição do Almeida
+4461.0,2560.0,Candelária
+3098.0,2559.0,Rio das Ostras
+3554.0,2559.0,Pompéia
+3771.0,2558.0,Barracão
+453.0,2556.0,Grajaú
+2268.0,2555.0,Carangola
+1921.0,2553.0,Jaguaquara
+4351.0,2548.0,São José do Cedro
+5043.0,2546.0,Primavera do Leste
+2808.0,2543.0,Santa Rita do Sapucaí
+5130.0,2539.0,Campinorte
+3189.0,2531.0,Bebedouro
+1693.0,2527.0,Porto da Folha
+4142.0,2522.0,Araranguá
+602.0,2521.0,Barro Duro
+1623.0,2521.0,Santana do Ipanema
+2699.0,2521.0,Periquito
+4924.0,2514.0,Paranaíba
+3276.0,2510.0,Dracena
+647.0,2507.75,Cristino Castro
+212.0,2503.0,Tracuateua
+1619.0,2502.0,Porto Real do Colégio
+1684.0,2498.0,Nossa Senhora de Lourdes
+4210.0,2497.0,Garuva
+825.0,2496.0,Barbalha
+836.0,2491.0,Canindé
+4906.0,2490.0,Itaquiraí
+611.0,2485.0,Bom Jesus
+870.0,2485.0,Guaraciaba do Norte
+3694.0,2483.0,Tanabi
+1900.0,2471.0,Itambé
+4967.0,2471.0,Campo Verde
+136.0,2464.0,Dom Eliseu
+533.0,2464.0,Santa Rita
+1525.0,2462.0,Timbaúba
+141.0,2456.0,Igarapé-Açu
+1887.0,2454.5,Itabela
+2449.0,2453.0,Iapu
+2117.0,2448.0,Valente
+866.0,2444.0,Granja
+1528.0,2444.0,Trindade
+4673.0,2441.0,Pantano Grande
+1146.0,2434.0,Alagoa Nova
+1411.0,2433.0,Cumaru
+1232.0,2432.5,Itaporanga
+4437.0,2432.0,Bom Princípio
+1695.0,2431.0,Riachão do Dantas
+1681.0,2427.0,Nossa Senhora Aparecida
+3367.0,2422.0,Itanhaém
+4118.0,2422.0,Wenceslau Braz
+4532.0,2421.0,Erechim
+3804.0,2418.0,Capitão Leônidas Marques
+1937.0,2416.0,Laje
+600.0,2410.0,Barras
+1365.0,2409.0,Aliança
+4812.0,2404.0,Taquara
+3451.0,2402.0,Mirassol
+1914.0,2400.0,Itororó
+4064.0,2396.0,Santo Antônio do Sudoeste
+3010.0,2389.25,Nova Venécia
+468.0,2373.0,Lago da Pedra
+4353.0,2373.0,São Lourenço do Oeste
+916.0,2372.0,Missão Velha
+1466.0,2371.0,Orocó
+702.0,2370.0,Marcolândia
+4808.0,2370.0,Tabaí
+4651.0,2367.0,Nova Bassano
+2101.0,2358.0,Teofilândia
+3349.0,2357.0,Ilha Solteira
+2790.0,2356.0,Santa Maria de Itabira
+3223.0,2356.0,Cajamar
+4113.0,2356.0,Ubiratã
+472.0,2353.0,Lago dos Rodrigues
+5100.0,2352.0,Aparecida de Goiânia
+149.0,2349.0,Jacundá
+2977.0,2341.0,Conceição da Barra
+469.0,2339.0,Lago do Junco
+731.0,2331.0,Passagem Franca do Piauí
+987.0,2331.0,Acari
+2627.0,2325.0,Nanuque
+625.0,2323.0,Campo Grande do Piauí
+3087.0,2323.0,Petrópolis
+125.0,2322.0,Canaã dos Carajás
+377.0,2321.0,Alto Alegre do Maranhão
+5260.0,2319.0,Piranhas
+3455.0,2313.0,Mogi Guaçu
+1260.0,2308.0,Maturéia
+3660.0,2305.0,São Manuel
+4225.0,2302.5,Indaial
+4289.0,2302.0,Palmitos
+5025.0,2299.0,Nova Xavantina
+1849.0,2296.0,Gavião
+2062.0,2294.0,Santo Estêvão
+3072.0,2292.0,Macuco
+1496.0,2289.0,Santa Cruz do Capibaribe
+3077.0,2286.0,Miracema
+883.0,2282.0,Ipu
+3217.0,2280.0,Caçapava
+3395.0,2276.0,Jaguariúna
+871.0,2274.0,Guaramiranga
+3647.0,2267.0,São Caetano do Sul
+839.0,2265.0,Cariré
+2107.0,2265.0,Ubaíra
+2052.0,2262.0,Santa Inês
+4625.0,2262.0,Marau
+1737.0,2254.0,Aracatu
+4791.0,2254.0,Sapiranga
+1163.0,2243.0,Bananeiras
+4823.0,2242.0,Tramandaí
+1514.0,2241.0,Sirinhaém
+4992.0,2236.0,Guarantã do Norte
+4016.0,2234.0,Quarto Centenário
+104.0,2232.0,Altamira
+3459.0,2226.0,Mongaguá
+2654.0,2225.0,Ouro Fino
+1926.0,2224.0,Jeremoabo
+86.0,2222.0,Boa Vista
+843.0,2218.0,Cascavel
+3144.0,2218.0,Amparo
+1521.0,2217.0,Tamandaré
+783.0,2214.5,São Pedro do Piauí
+396.0,2214.0,Barra do Corda
+1648.0,2212.0,Canhoba
+784.0,2211.0,São Raimundo Nonato
+1101.0,2211.0,Santa Cruz
+3199.0,2211.0,Boituva
+1313.0,2207.0,Santa Teresinha
+3123.0,2207.0,Adamantina
+3112.0,2204.0,Seropédica
+3306.0,2204.0,Garça
+1927.0,2203.0,Jiquiriçá
+985.0,2195.0,Várzea Alegre
+3911.0,2195.0,Jesuítas
+1732.0,2181.0,Antas
+5127.0,2177.0,Caldas Novas
+1957.0,2175.0,Manoel Vitorino
+3121.0,2172.0,Vassouras
+2488.0,2171.0,Itambacuri
+3034.0,2171.0,Vila Velha
+657.0,2168.0,Eliseu Martins
+3623.0,2166.0,Santa Fé do Sul
+4943.0,2162.0,Três Lagoas
+811.0,2161.0,Amontada
+801.0,2160.0,Vila Nova do Piauí
+3037.0,2160.0,Aperibé
+120.0,2157.0,Breu Branco
+846.0,2157.0,Caucaia
+1413.0,2156.0,Custódia
+2294.0,2156.0,Caxambu
+2055.0,2153.0,Santa Maria da Vitória
+3236.0,2153.0,Capão Bonito
+3447.0,2149.0,Miracatu
+641.0,2148.5,Colônia do Gurguéia
+4849.0,2146.0,Vera Cruz
+1535.0,2144.5,Vertentes
+5023.0,2143.5,Nova Olímpia
+4947.0,2142.0,Alta Floresta
+184.0,2137.0,Rurópolis
+4976.0,2136.0,Colíder
+863.0,2129.0,Frecheirinha
+465.0,2125.0,João Lisboa
+3022.0,2121.0,São Domingos do Norte
+2321.0,2120.0,Congonhas
+1987.0,2119.0,Nova Fátima
+2966.0,2114.0,Aracruz
+4478.0,2111.0,Casca
+1727.0,2109.0,Anagé
+1847.0,2107.0,Formosa do Rio Preto
+2955.0,2106.0,Visconde do Rio Branco
+1810.0,2091.0,Cipó
+3013.0,2089.0,Pinheiros
+4196.0,2088.0,Dionísio Cerqueira
+4930.0,2088.0,Rio Brilhante
+1617.0,2086.0,Porto Calvo
+1959.0,2085.0,Maracás
+4546.0,2083.25,Farroupilha
+1470.0,2081.0,Panelas
+3999.0,2077.0,Piraí do Sul
+1774.0,2075.0,Cachoeira
+1367.0,2073.0,Amaraji
+1572.0,2072.0,Igaci
+1860.0,2072.0,Ibicaraí
+4650.0,2072.0,Nova Araçá
+3173.0,2069.0,Avaré
+5033.0,2068.0,Peixoto de Azevedo
+1359.0,2067.0,Afogados da Ingazeira
+2060.0,2065.0,Santo Amaro
+3082.0,2065.0,Nova Iguaçu
+3409.0,2064.0,Juquitiba
+4946.0,2063.0,Água Boa
+2372.0,2058.0,Dom Cavati
+1446.0,2055.0,João Alfredo
+2036.0,2050.0,Riacho de Santana
+4060.0,2046.0,Santa Terezinha de Itaipu
+3259.0,2040.0,Cosmópolis
+429.0,2039.0,Codó
+589.0,2038.5,Amarante
+1645.0,2038.0,Boquim
+3195.0,2038.0,Biritiba Mirim
+5268.0,2034.0,Posse
+3380.0,2031.0,Itararé
+1478.0,2030.0,Petrolândia
+2176.0,2029.0,Astolfo Dutra
+4718.0,2029.0,Rio Grande
+1846.0,2027.0,Floresta Azul
+1991.0,2019.0,Nova Soure
+1734.0,2011.0,Antônio Gonçalves
+2887.0,2011.0,Senhora do Porto
+4549.0,2011.0,Fazenda Vilanova
+4563.0,2008.0,Giruá
+4431.0,2007.0,Boa Vista das Missões
+1909.0,2006.0,Itaquara
+4215.0,2005.0,Guaramirim
+1688.0,2000.0,Pedrinhas
+416.0,1996.0,Campestre do Maranhão
+4469.0,1996.0,Capão da Canoa
+1890.0,1994.0,Itacaré
+2755.0,1989.0,Rio Casca
+1456.0,1988.0,Lajedo
+5161.0,1988.0,Estrela do Norte
+1280.0,1984.0,Piancó
+3803.0,1984.0,Capanema
+3375.0,1982.0,Itápolis
+2592.0,1979.0,Matozinhos
+1198.0,1975.0,Catingueira
+2202.0,1973.0,Bocaiúva
+1680.0,1969.0,Neópolis
+4822.0,1969.0,Torres
+4877.0,1968.0,Bataguassu
+2916.0,1967.0,Tocantins
+1207.0,1965.0,Cruz do Espírito Santo
+5282.0,1963.0,Santa Rita do Araguaia
+3103.0,1962.0,São Fidélis
+603.0,1961.0,Batalha
+2065.0,1958.0,São Félix
+721.0,1949.0,Oeiras
+1679.0,1946.0,Muribeca
+4214.0,1945.0,Guaraciaba
+3822.0,1944.0,Cornélio Procópio
+5295.0,1944.0,São Luiz do Norte
+5011.0,1943.0,Matupá
+874.0,1940.0,Ibaretama
+447.0,1933.0,Governador Edison Lobão
+2869.0,1931.0,São Sebastião do Paraíso
+1157.0,1929.0,Areia
+1030.0,1928.0,Goianinha
+3075.0,1927.0,Mendes
+1442.0,1926.0,Jaboatão dos Guararapes
+1201.0,1923.0,Conceição
+2422.0,1923.0,Frutal
+3255.0,1917.0,Cordeirópolis
+2203.0,1916.0,Bom Despacho
+4115.0,1909.0,União da Vitória
+2572.0,1901.0,Manhumirim
+806.0,1900.0,Acopiara
+4526.0,1900.0,Encantado
+923.0,1898.0,Mulungu
+5149.0,1897.0,Cristalina
+1945.0,1889.0,Livramento de Nossa Senhora
+5232.0,1889.0,Nazário
+4061.0,1886.0,Santo Antônio da Platina
+1482.0,1884.0,Primavera
+2276.0,1884.0,Carmo de Minas
+953.0,1882.0,Quixeramobim
+2067.0,1881.0,São Felipe
+1641.0,1880.0,Aquidabã
+77.0,1871.0,Manaus
+2819.0,1871.0,Santos Dumont
+535.0,1870.0,Santo Antônio dos Lopes
+3535.0,1868.0,Pindamonhangaba
+3923.0,1868.0,Loanda
+2306.0,1864.0,Coimbra
+1503.0,1862.0,São Caitano
+1508.0,1862.0,São José do Egito
+200.0,1859.0,São Francisco do Pará
+165.0,1857.0,Novo Repartimento
+3616.0,1856.0,Santa Bárbara d'Oeste
+1599.0,1855.0,Olho d'Água das Flores
+2126.0,1853.0,Wenceslau Guimarães
+2483.0,1846.0,Itaguara
+5285.0,1846.0,Santa Tereza de Goiás
+4059.0,1842.0,Santa Tereza do Oeste
+1494.0,1840.0,Santa Cruz
+3421.0,1840.0,Lucélia
+5021.0,1836.0,Nova Canaã do Norte
+5200.0,1836.0,Itauçu
+4151.0,1835.0,Barra Velha
+656.0,1834.0,Elesbão Veloso
+835.0,1830.0,Campos Sales
+669.0,1828.0,Gilbués
+5164.0,1825.0,Firminópolis
+974.0,1824.0,Tauá
+4971.0,1821.0,Carlinda
+2384.0,1820.0,Engenheiro Caldas
+1662.0,1819.0,Gracho Cardoso
+1995.0,1818.0,Olindina
+2199.0,1815.0,Bicas
+1740.0,1812.0,Aramari
+4675.0,1812.0,Paraíso do Sul
+1070.0,1810.0,Nova Cruz
+675.0,1808.0,Ipiranga do Piauí
+1685.0,1808.0,Nossa Senhora do Socorro
+2027.0,1806.0,Presidente Tancredo Neves
+3003.0,1806.0,Marechal Floriano
+3130.0,1806.0,Agudos
+4452.0,1806.0,Camaquã
+680.0,1804.0,Jaicós
+5214.0,1804.0,Mara Rosa
+1636.0,1803.0,Teotônio Vilela
+394.0,1801.0,Balsas
+4211.0,1800.25,Gaspar
+4565.0,1796.0,Gramado
+3933.0,1794.0,Mandirituba
+4966.0,1792.0,Campo Novo do Parecis
+1667.0,1785.0,Itabi
+1705.0,1784.0,São Domingos
+4444.0,1781.0,Butiá
+1199.0,1779.0,Catolé do Rocha
+552.0,1778.0,São Mateus do Maranhão
+1147.0,1778.0,Alagoinha
+3408.0,1776.0,Juquiá
+5309.0,1776.0,Turvânia
+3038.0,1771.0,Araruama
+3906.0,1769.0,Janiópolis
+917.0,1768.0,Mombaça
+4856.0,1767.0,Vila Flores
+658.0,1766.0,Esperantina
+1255.0,1766.0,Marizópolis
+146.0,1765.0,Itaituba
+891.0,1765.0,Itapiúna
+4418.0,1764.0,Bagé
+2241.0,1761.0,Campanário
+4950.0,1761.0,Alto Garças
+3981.0,1760.0,Palotina
+5192.0,1760.0,Itaberaí
+3675.0,1759.0,Serra Negra
+2499.0,1756.0,Itaú de Minas
+2028.0,1752.0,Queimadas
+3492.0,1751.0,Olímpia
+239.0,1749.0,Aliança do Tocantins
+3846.0,1748.0,Fazenda Rio Grande
+502.0,1747.0,Pastos Bons
+4339.0,1746.0,São Bento do Sul
+4097.0,1745.0,Tapejara
+741.0,1744.0,Piracuruca
+674.0,1741.0,Inhuma
+3870.0,1741.0,Guaraniaçu
+3951.0,1741.0,Mauá da Serra
+1885.0,1739.0,Irará
+3036.0,1739.0,Angra dos Reis
+1813.0,1730.0,Conceição da Feira
+3462.0,1724.0,Monte Aprazível
+3816.0,1723.0,Clevelândia
+2846.0,1721.0,São João Evangelista
+4413.0,1720.0,Arroio dos Ratos
+4550.0,1718.0,Feliz
+4633.0,1718.0,Minas do Leão
+4447.0,1710.0,Cachoeira do Sul
+1172.0,1708.0,Boa Ventura
+2715.0,1707.0,Pirapora
+5073.0,1707.0,Terra Nova do Norte
+111.0,1705.0,Barcarena
+3875.0,1704.0,Ibaiti
+4677.0,1702.0,Parobé
+2088.0,1698.0,Simões Filho
+4938.0,1697.0,Sidrolândia
+4077.0,1695.0,São José dos Pinhais
+4186.0,1693.25,Concórdia
+748.0,1693.0,Regeneração
+4383.0,1692.0,Videira
+5047.0,1691.0,Ribeirão Cascalheira
+1911.0,1687.0,Itatim
+4093.0,1687.0,Siqueira Campos
+919.0,1686.0,Morada Nova
+3529.0,1686.0,Pereira Barreto
+2692.0,1682.0,Pedro Leopoldo
+2980.0,1681.0,Domingos Martins
+4562.0,1681.0,Getúlio Vargas
+1564.0,1680.0,Delmiro Gouveia
+1738.0,1679.0,Araçás
+1210.0,1676.0,Cuitegi
+1789.0,1676.0,Canavieiras
+3827.0,1675.0,Cruzeiro do Oeste
+3108.0,1672.0,São Pedro da Aldeia
+197.0,1671.0,São Domingos do Araguaia
+5257.0,1670.0,Petrolina de Goiás
+431.0,1669.0,Colinas
+1155.0,1669.0,Arara
+1587.0,1667.0,Maragogi
+888.0,1666.0,Itaitinga
+1379.0,1666.0,Bodocó
+3260.0,1664.0,Cosmorama
+3126.0,1663.0,Águas da Prata
+1229.0,1662.0,Imaculada
+524.0,1661.0,Ribamar Fiquene
+253.0,1658.0,Augustinópolis
+2332.0,1658.0,Corinto
+531.0,1654.0,Santa Luzia do Paruá
+2811.0,1654.0,Santo Antônio do Amparo
+3407.0,1654.0,Junqueirópolis
+1868.0,1651.0,Ibirataia
+1536.0,1647.0,Vicência
+2171.0,1647.0,Arcos
+2911.0,1643.0,Teixeiras
+3708.0,1641.0,Tietê
+4003.0,1640.0,Planalto
+711.0,1639.5,Monte Alegre do Piauí
+2141.0,1639.0,Além Paraíba
+214.0,1636.0,Tucumã
+1845.0,1629.0,Firmino Alves
+2021.0,1628.0,Ponto Novo
+3241.0,1627.0,Casa Branca
+3439.0,1624.0,Martinópolis
+5191.0,1624.0,Israelândia
+4317.0,1623.0,Quilombo
+5277.0,1622.0,Santa Bárbara de Goiás
+3752.0,1620.0,Ampére
+4818.0,1620.0,Teutônia
+818.0,1619.0,Araripe
+427.0,1615.0,Chapadinha
+2551.0,1613.0,Laranjal
+2716.0,1612.0,Piraúba
+3898.0,1612.0,Ivaiporã
+4100.0,1611.0,Telêmaco Borba
+3494.0,1610.0,Oriente
+2760.0,1608.0,Rio Novo
+1044.0,1605.0,Jardim do Seridó
+1651.0,1605.0,Carira
+3166.0,1602.0,Artur Nogueira
+2648.0,1601.0,Oliveira
+2443.0,1597.0,Guaxupé
+3546.0,1597.0,Pirapozinho
+1504.0,1596.0,São João
+3403.0,1594.0,José Bonifácio
+1677.0,1592.0,Moita Bonita
+4876.0,1592.0,Bandeirantes
+114.0,1588.0,Benevides
+3415.0,1586.0,Lençóis Paulista
+3084.0,1585.0,Paraíba do Sul
+617.0,1584.0,Buriti dos Lopes
+3621.0,1582.0,Santa Cruz do Rio Pardo
+4445.0,1580.0,Caçapava do Sul
+183.0,1578.0,Rondon do Pará
+318.0,1577.0,Nova Olinda
+3652.0,1575.0,São Joaquim da Barra
+1217.0,1572.0,Diamante
+984.0,1571.0,Varjota
+1104.0,1571.0,Santo Antônio
+1844.0,1571.0,Filadélfia
+2398.0,1571.0,Extrema
+1292.0,1570.0,Princesa Isabel
+2666.0,1567.0,Paracatu
+1816.0,1566.0,Conceição do Jacuípe
+2002.0,1562.0,Paratinga
+3542.0,1562.0,Piraju
+576.0,1561.0,Viana
+4661.0,1554.0,Novo Cabrais
+2223.0,1553.0,Buenópolis
+4927.0,1552.0,Ponta Porã
+805.0,1551.0,Acaraú
+1445.0,1548.0,Jatobá
+2245.0,1546.0,Campo Belo
+4756.0,1546.0,São Borja
+4939.0,1545.0,Sonora
+862.0,1544.0,Fortim
+3382.0,1543.0,Itatiba
+3394.0,1543.0,Jacupiranga
+4817.0,1542.0,Terra de Areia
+3089.0,1541.0,Piraí
+2428.0,1540.0,Goianá
+2407.0,1535.0,Fervedouro
+2070.0,1533.0,São Gonçalo dos Campos
+4735.0,1527.0,Santa Bárbara do Sul
+4784.0,1527.0,São Pedro do Sul
+2178.0,1525.0,Augusto de Lima
+2105.0,1524.0,Tucano
+4362.0,1524.0,Sombrio
+1650.0,1518.0,Capela
+2862.0,1515.0,São Pedro do Suaçuí
+3093.0,1515.0,Quissamã
+4464.0,1515.0,Canela
+5175.0,1514.0,Goiás
+3153.0,1513.0,Araçariguama
+2213.0,1511.0,Borda da Mata
+4774.0,1511.0,São Luiz Gonzaga
+956.0,1510.0,Reriutaba
+164.0,1509.0,Novo Progresso
+2777.0,1507.0,Salinas
+5080.0,1507.0,Vila Rica
+482.0,1506.0,Matinha
+1949.0,1506.0,Macaúbas
+3104.0,1506.0,São Gonçalo
+5012.0,1506.0,Mirassol d'Oeste
+2515.0,1504.0,Janaúba
+3167.0,1503.0,Arujá
+4843.0,1503.0,Vacaria
+3561.0,1502.0,Porto Feliz
+3062.0,1497.0,Iguaba Grande
+4167.0,1497.0,Caçador
+2573.0,1496.0,Mantena
+3012.0,1496.0,Pedro Canário
+3533.0,1494.0,Piedade
+3023.0,1493.25,São Gabriel da Palha
+4786.0,1493.0,São Sepé
+2145.0,1492.0,Alpercata
+3522.0,1492.0,Pederneiras
+3791.0,1491.0,Cambé
+1173.0,1490.0,Boa Vista
+3855.0,1486.0,Formosa do Oeste
+1420.0,1485.0,Floresta
+3759.0,1484.0,Arapoti
+859.0,1482.0,Farias Brito
+4223.0,1482.0,Imbituba
+3978.0,1481.0,Palmas
+1526.0,1480.0,Toritama
+1368.0,1479.0,Angelim
+1786.0,1479.0,Campo Formoso
+2566.0,1479.0,Machado
+4053.0,1478.0,Santa Izabel do Oeste
+4873.0,1477.0,Aparecida do Taboado
+4410.0,1476.0,Arroio do Meio
+3175.0,1474.0,Bálsamo
+3389.0,1473.0,Ituverava
+547.0,1472.0,São João dos Patos
+4932.0,1470.0,Rio Verde de Mato Grosso
+3577.0,1468.0,Quintana
+3510.0,1466.0,Paraibuna
+3984.0,1466.0,Paranaguá
+199.0,1465.0,São Félix do Xingu
+360.0,1465.0,Sítio Novo do Tocantins
+1416.0,1461.0,Exu
+1783.0,1458.0,Camaçari
+964.0,1454.0,São Gonçalo do Amarante
+3503.0,1452.0,Pacaembu
+924.0,1451.0,Nova Olinda
+4369.0,1449.0,Timbó
+2504.0,1448.0,Ituiutaba
+4858.0,1447.0,Vila Maria
+3716.0,1446.0,Tupi Paulista
+4006.0,1446.0,Porecatu
+1386.0,1444.0,Buenos Aires
+3331.0,1444.0,Herculândia
+4725.0,1442.0,Ronda Alta
+4948.0,1442.0,Alto Araguaia
+5003.0,1440.0,Juína
+514.0,1437.0,Poção de Pedras
+4373.0,1437.0,Trombudo Central
+4730.0,1435.0,Saldanha Marinho
+495.0,1434.0,Nova Olinda do Maranhão
+1660.0,1434.0,Gararu
+3838.0,1434.0,Doutor Camargo
+2179.0,1433.0,Baependi
+3064.0,1431.0,Itaguaí
+3579.0,1428.0,Rancharia
+3967.0,1428.0,Nova Londrina
+475.0,1427.0,Lima Campos
+4310.0,1426.0,Porto União
+2201.0,1425.0,Boa Esperança
+2391.0,1423.0,Espinosa
+1419.0,1421.0,Flores
+3889.0,1421.0,Irati
+3909.0,1418.0,Jardim Alegre
+3994.0,1418.0,Pérola d'Oeste
+142.0,1416.0,Igarapé-Miri
+4539.0,1416.0,Espumoso
+1271.0,1415.0,Olho d'Água
+1613.0,1415.0,Pilar
+3239.0,1414.0,Caraguatatuba
+1518.0,1413.0,Tabira
+1628.0,1410.0,São Luís do Quitunde
+2376.0,1409.0,Dona Eusébia
+3607.0,1409.0,Salesópolis
+2744.0,1407.0,Raposos
+185.0,1403.0,Salinópolis
+3802.0,1403.0,Cantagalo
+3354.0,1401.0,Ipaussu
+855.0,1400.0,Cruz
+4079.0,1400.0,São Mateus do Sul
+2362.0,1399.0,Diamantina
+3373.0,1399.0,Itapira
+1166.0,1398.0,Barra de Santa Rosa
+734.0,1397.0,Paulistana
+4790.0,1396.0,São Vicente do Sul
+4921.0,1396.0,Nova Andradina
+3915.0,1395.0,Jussara
+3635.0,1393.0,Santo Anastácio
+497.0,1392.0,Olinda Nova do Maranhão
+3966.0,1392.0,Nova Laranjeiras
+539.0,1389.0,São Domingos do Azeitão
+4325.0,1387.0,Rio Negrinho
+1393.0,1386.0,Calumbi
+3341.0,1386.0,Ibiúna
+3571.0,1386.0,Presidente Venceslau
+1004.0,1381.0,Bom Jesus
+1922.0,1380.0,Jaguarari
+1339.0,1379.0,Serra Redonda
+4810.0,1379.0,Tapera
+1612.0,1377.0,Piaçabuçu
+1912.0,1375.0,Itiruçu
+4806.0,1373.0,Sobradinho
+2727.0,1370.0,Porteirinha
+2239.0,1369.0,Cambuí
+3049.0,1369.0,Carapebus
+4301.0,1368.0,Pinhalzinho
+925.0,1367.0,Nova Russas
+3048.0,1367.0,Cambuci
+4516.0,1364.0,Dois Irmãos
+3028.0,1361.0,Sooretama
+2787.0,1359.0,Santa Juliana
+1160.0,1358.0,Aroeiras
+585.0,1356.0,Alegrete do Piauí
+2985.0,1353.0,Guaçuí
+4332.0,1353.0,Santa Cecília
+1666.0,1352.0,Itabaianinha
+3881.0,1352.0,Imbaú
+3821.0,1350.0,Corbélia
+218.0,1347.0,Vigia
+1397.0,1345.0,Canhotinho
+108.0,1344.0,Aurora do Pará
+2792.0,1344.0,Santa Maria do Suaçuí
+4220.0,1344.0,Ibirama
+4252.0,1344.0,Laguna
+832.0,1342.0,Boa Viagem
+5144.0,1341.0,Cocalzinho de Goiás
+830.0,1340.0,Beberibe
+2056.0,1340.0,Santana
+2780.0,1340.0,Santa Bárbara do Leste
+462.0,1337.0,Itinga do Maranhão
+1256.0,1337.0,Massaranduba
+931.0,1335.0,Pacoti
+1940.0,1335.0,Lajedo do Tabocal
+1806.0,1334.0,Caturama
+3185.0,1334.0,Barueri
+3735.0,1333.0,Vinhedo
+3852.0,1332.0,Floresta
+2961.0,1330.0,Alegre
+5297.0,1330.0,São Simão
+1643.0,1329.0,Arauá
+169.0,1328.0,Ourilândia do Norte
+1486.0,1328.0,Riacho das Almas
+2383.0,1326.0,Elói Mendes
+155.0,1325.0,Marituba
+1543.0,1325.0,Barra de Santo Antônio
+3119.0,1325.0,Valença
+3680.0,1325.0,Socorro
+3832.0,1324.0,Curiúva
+451.0,1323.0,Governador Nunes Freire
+2063.0,1322.5,São Desidério
+3683.0,1320.0,Sumaré
+3742.0,1319.0,Chavantes
+4915.0,1319.0,Maracaju
+1176.0,1316.0,Boqueirão
+2267.0,1316.0,Carandaí
+540.0,1314.0,São Domingos do Maranhão
+561.0,1314.0,Senador La Rocque
+4458.0,1314.0,Campo Bom
+687.0,1312.0,José de Freitas
+1686.0,1312.0,Pacatuba
+5113.0,1311.0,Bom Jardim de Goiás
+4395.0,1310.0,Alegrete
+4015.0,1309.0,Prudentópolis
+3509.0,1308.0,Paraguaçu Paulista
+3943.0,1307.0,Mariópolis
+2969.0,1303.75,Barra de São Francisco
+3877.0,1302.0,Ibiporã
+3569.0,1301.0,Presidente Epitácio
+1490.0,1300.0,Salgadinho
+255.0,1298.0,Axixá do Tocantins
+3238.0,1298.0,Capivari
+814.0,1297.0,Aquiraz
+2424.0,1294.0,Galiléia
+5291.0,1294.0,São Francisco de Goiás
+1803.0,1291.0,Castro Alves
+3031.0,1291.0,Viana
+4305.0,1290.0,Pomerode
+4145.0,1287.0,Ascurra
+4177.0,1287.0,Canoinhas
+4644.0,1287.0,Muçum
+3663.0,1286.0,São Pedro
+2847.0,1285.0,São João Nepomuceno
+3340.0,1285.0,Ibitinga
+3516.0,1284.0,Pariquera-Açu
+1483.0,1283.0,Quipapá
+3006.0,1282.0,Montanha
+3461.0,1281.0,Monte Alto
+2533.0,1280.0,José Raydan
+3129.0,1278.0,Águas de São Pedro
+474.0,1277.0,Lajeado Novo
+1880.0,1277.0,Ipirá
+4300.0,1277.0,Balneário Piçarras
+213.0,1274.0,Trairão
+3287.0,1274.0,Espírito Santo do Pinhal
+3487.0,1274.0,Nova Odessa
+1997.0,1272.0,Ouriçangas
+1824.0,1270.5,Correntina
+558.0,1268.0,São Vicente Ferrer
+4268.0,1268.0,Massaranduba
+5045.0,1268.0,São José dos Quatro Marcos
+2543.0,1265.0,Lagoa da Prata
+3247.0,1264.0,Cerquilho
+3482.0,1264.0,Nova Granada
+4087.0,1264.0,Sarandi
+2805.0,1261.0,Santa Rita de Minas
+4000.0,1260.5,Pitanga
+411.0,1260.0,Buriticupu
+1873.0,1258.0,Igaporã
+4103.0,1257.0,Terra Roxa
+4128.0,1257.0,Abelardo Luz
+2001.0,1254.0,Paramirim
+986.0,1253.0,Viçosa do Ceará
+1663.0,1253.0,Ilha das Flores
+2511.0,1253.0,Jacutinga
+4084.0,1253.0,São Sebastião da Amoreira
+3065.0,1252.0,Italva
+2717.0,1251.0,Pitangui
+3045.0,1251.0,Bom Jesus do Itabapoana
+3030.0,1250.0,Venda Nova do Imigrante
+1776.0,1244.0,Caém
+3362.0,1244.0,Irapuru
+1875.0,1241.0,Iguaí
+1692.0,1240.0,Poço Verde
+3655.0,1239.0,São José do Rio Pardo
+1143.0,1238.0,Água Branca
+3376.0,1238.0,Itaporanga
+3974.0,1237.0,Ortigueira
+3453.0,1236.0,Mococa
+732.0,1235.0,Patos do Piauí
+1582.0,1235.0,Junqueiro
+4970.0,1233.0,Canarana
+665.0,1232.0,Francisco Macedo
+2549.0,1231.0,Lambari
+2658.0,1231.0,Padre Paraíso
+4750.0,1229.0,Santo Antônio da Patrulha
+667.0,1228.0,Fronteiras
+4700.0,1227.0,Portão
+2668.0,1226.0,Paraguaçu
+3289.0,1226.0,Estrela d'Oeste
+3789.0,1225.0,Califórnia
+988.0,1224.0,Açu
+3543.0,1223.0,Pirajuí
+530.0,1222.0,Santa Luzia
+1964.0,1221.0,Mata de São João
+195.0,1220.0,Santo Antônio do Tauá
+310.0,1220.0,Miracema do Tocantins
+1506.0,1219.0,São José da Coroa Grande
+2094.0,1219.0,Tanhaçu
+2747.0,1218.0,Reduto
+4612.0,1217.25,Lagoa Vermelha
+4963.0,1217.0,Brasnorte
+4466.0,1216.0,Canoas
+4476.0,1216.0,Carlos Barbosa
+2043.0,1215.0,Rio Real
+3170.0,1215.0,Auriflama
+1350.0,1214.0,Tavares
+332.0,1213.0,Colméia
+2257.0,1213.0,Capelinha
+1228.0,1212.0,Ibiara
+1578.0,1212.0,Jaramataia
+3907.0,1211.0,Japira
+1764.0,1210.0,Boquira
+747.0,1209.0,Redenção do Gurguéia
+2051.0,1207.0,Santa Cruz da Vitória
+3601.0,1207.0,Roseira
+679.0,1205.0,Jacobina do Piauí
+3556.0,1203.0,Pontal
+1664.0,1202.0,Indiaroba
+3845.0,1202.0,Faxinal
+369.0,1200.0,Wanderlândia
+1493.0,1198.0,Sanharó
+934.0,1197.0,Palmácia
+2133.0,1195.0,Água Boa
+3876.0,1195.0,Ibema
+3992.0,1195.0,Perobal
+2129.0,1193.0,Abaeté
+1986.0,1192.0,Nova Canaã
+3266.0,1192.0,Cubatão
+3620.0,1192.0,Santa Cruz das Palmeiras
+437.0,1191.0,Esperantinópolis
+3116.0,1190.0,Teresópolis
+3903.0,1190.0,Jaguapitã
+1315.0,1189.0,São Bento
+3684.0,1189.0,Suzano
+3902.0,1189.0,Jacarezinho
+4107.0,1184.0,Tomazina
+3549.0,1183.0,Pitangueiras
+1231.0,1182.0,Itabaiana
+1353.0,1182.0,Uiraúna
+2636.0,1182.0,Nova Lima
+4089.0,1182.0,Sengés
+3844.0,1181.0,Farol
+3496.0,1180.0,Orlândia
+4216.0,1179.0,Guarujá do Sul
+525.0,1178.0,Rosário
+884.0,1178.0,Ipueiras
+850.0,1175.0,Chorozinho
+3731.0,1175.0,Vargem Grande do Sul
+2987.0,1174.0,Ibatiba
+3220.0,1174.0,Cafelândia
+2718.0,1172.0,Piumhi
+4290.0,1169.0,Papanduva
+1832.0,1168.0,Dias d'Ávila
+3309.0,1167.0,General Salgado
+2390.0,1165.0,Espera Feliz
+2601.0,1165.0,Mirabela
+4221.0,1165.0,Ilhota
+2970.0,1164.0,Boa Esperança
+3224.0,1164.0,Cajati
+4742.0,1164.0,Santana da Boa Vista
+2610.0,1162.0,Monte Alegre de Minas
+3568.0,1159.0,Presidente Bernardes
+4306.0,1159.0,Ponte Alta
+4180.0,1158.0,Catanduvas
+3961.0,1156.0,Nova Aurora
+4172.0,1156.0,Campo Alegre
+5262.0,1156.0,Pires do Rio
+216.0,1154.0,Ulianópolis
+1542.0,1150.0,Atalaia
+3449.0,1150.0,Mirandópolis
+4092.0,1150.0,Sertanópolis
+2138.0,1148.25,Aimorés
+3090.0,1147.0,Porciúncula
+2440.0,1146.0,Guarani
+3525.0,1146.0,Pedreira
+3321.0,1144.0,Guarantã
+921.0,1143.0,Morrinhos
+4130.0,1143.0,Agronômica
+668.0,1142.0,Geminiano
+962.0,1141.0,Santa Quitéria
+3996.0,1141.0,Pinhalão
+4979.0,1139.0,Confresa
+3060.0,1138.0,Engenheiro Paulo de Frontin
+1242.0,1136.0,Juru
+580.0,1135.0,Zé Doca
+1435.0,1135.0,Ipojuca
+4671.0,1134.0,Palmitinho
+229.0,1133.0,Macapá
+3053.0,1133.0,Cardoso Moreira
+4471.0,1133.0,Capivari do Sul
+4985.0,1133.0,Diamantino
+590.0,1132.0,Angical do Piauí
+709.0,1131.5,Monsenhor Gil
+2172.0,1131.25,Areado
+2953.0,1131.0,Virginópolis
+1673.0,1128.0,Macambira
+2144.0,1128.0,Almenara
+4364.0,1128.0,Taió
+1454.0,1127.0,Lagoa dos Gatos
+1553.0,1127.0,Campo Alegre
+2280.0,1127.0,Carmópolis de Minas
+4166.0,1127.0,Brusque
+316.0,1126.0,Natividade
+1450.0,1125.0,Jurema
+355.0,1123.0,São Miguel do Tocantins
+3977.0,1123.0,Paiçandu
+3724.0,1122.0,Urânia
+1594.0,1121.0,Messias
+4743.0,1120.0,Sant'Ana do Livramento
+210.0,1118.0,Terra Alta
+1354.0,1116.0,Umbuzeiro
+2130.0,1116.0,Abre Campo
+1897.0,1115.0,Itajuípe
+4990.0,1115.0,General Carneiro
+4883.0,1114.0,Caarapó
+2431.0,1110.0,Gouveia
+383.0,1109.0,Anapurus
+1215.0,1108.0,Desterro
+3364.0,1108.0,Itaí
+3476.0,1108.0,Nhandeara
+2347.0,1106.0,Cristiano Otoni
+2516.0,1106.0,Januária
+3187.0,1105.0,Batatais
+3369.0,1104.0,Itapecerica da Serra
+822.0,1103.0,Aurora
+3910.0,1103.0,Jataizinho
+419.0,1100.0,Capinzal do Norte
+1476.0,1097.0,Pedra
+2188.0,1097.0,Barroso
+2669.0,1095.0,Paraisópolis
+4865.0,1092.0,Xangri-lá
+3769.0,1091.0,Bandeirantes
+4570.0,1090.0,Guaporé
+2102.0,1089.0,Teolândia
+2393.0,1089.0,Estiva
+3164.0,1089.0,Areiópolis
+115.0,1088.0,Bom Jesus do Tocantins
+2625.0,1086.25,Muzambinho
+926.0,1085.0,Novo Oriente
+4747.0,1085.0,Santiago
+943.0,1084.0,Pindoretama
+3930.0,1084.0,Mamborê
+1625.0,1082.0,São Brás
+2003.0,1081.0,Paripiranga
+2613.0,1081.0,Monte Carmelo
+2034.0,1080.0,Riachão das Neves
+2611.0,1080.0,Monte Azul
+3041.0,1080.0,Arraial do Cabo
+3070.0,1080.0,Laje do Muriaé
+1347.0,1077.0,Sumé
+2189.0,1077.0,Bela Vista de Minas
+3699.0,1077.0,Taquarituba
+101.0,1074.0,Água Azul do Norte
+1700.0,1074.0,Santa Luzia do Itanhy
+653.0,1073.0,Dom Expedito Lopes
+2740.0,1071.0,Alto Jequitibá
+182.0,1070.0,Rio Maria
+2583.0,1070.0,Martinho Campos
+4274.0,1070.0,Monte Castelo
+1593.0,1069.0,Matriz de Camaragibe
+3085.0,1069.0,Paraty
+2530.0,1068.0,Joaquim Felício
+4657.0,1068.0,Nova Petrópolis
+428.0,1067.0,Cidelândia
+3887.0,1067.0,Iporã
+5125.0,1067.0,Caçu
+4581.0,1062.0,Ibirubá
+3345.0,1060.0,Igarapava
+4192.0,1060.0,Cunha Porã
+170.0,1059.0,Pacajá
+948.0,1058.0,Potengi
+5209.0,1058.0,Jussara
+960.0,1057.0,Santana do Acaraú
+695.0,1055.0,Lagoa do Piauí
+2367.0,1054.0,Divinolândia de Minas
+4585.0,1053.0,Imbé
+4956.0,1053.0,Araputanga
+3727.0,1052.0,Valentim Gentil
+841.0,1051.0,Cariús
+2497.0,1051.0,Itapeva
+588.0,1050.5,Alvorada do Gurguéia
+2327.0,1050.0,Contagem
+2529.0,1050.0,João Pinheiro
+4282.0,1050.0,Orleans
+791.0,1048.0,Sussuapara
+1562.0,1047.0,Coruripe
+1205.0,1045.0,Coremas
+1369.0,1044.0,Araçoiaba
+1735.0,1043.0,Aporá
+905.0,1042.0,Madalena
+1866.0,1042.0,Ibirapitanga
+2971.0,1042.0,Bom Jesus do Norte
+3299.0,1042.0,Flórida Paulista
+3443.0,1041.0,Meridiano
+4899.0,1041.0,Fátima do Sul
+3261.0,1040.0,Cotia
+3766.0,1040.0,Astorga
+3792.0,1040.0,Cambira
+1597.0,1038.0,Murici
+575.0,1037.0,Vargem Grande
+3327.0,1036.0,Guarujá
+375.0,1035.0,Aldeias Altas
+1251.0,1035.0,Mamanguape
+5066.0,1035.0,Sapezal
+5226.0,1035.0,Morrinhos
+1967.0,1031.0,Miguel Calmon
+615.0,1030.0,Brasileira
+4968.0,1030.0,Campos de Júlio
+630.0,1029.0,Capitão de Campos
+1744.0,1029.0,Baixa Grande
+2078.0,1028.0,Saúde
+3024.0,1028.0,São José do Calçado
+1839.0,1026.0,Euclides da Cunha
+5005.0,1026.0,Juscimeira
+5038.0,1025.0,Porto Alegre do Norte
+2093.0,1024.0,Tabocas do Brejo Velho
+699.0,1021.0,Luzilândia
+1366.0,1021.0,Altinho
+3411.0,1021.0,Laranjal Paulista
+3764.0,1021.0,Assaí
+3537.0,1020.0,Pinhalzinho
+3753.0,1018.0,Andirá
+3328.0,1016.0,Guarulhos
+3633.0,1016.0,Santa Rosa de Viterbo
+3078.0,1015.0,Natividade
+3429.0,1015.0,Magda
+1156.0,1014.0,Araruna
+2154.0,1013.0,Andradas
+4044.0,1013.0,Salto do Itararé
+3632.0,1012.0,Santa Rita do Passa Quatro
+1472.0,1010.0,Parnamirim
+2181.0,1010.0,Bambuí
+2238.0,1010.0,Camanducaia
+201.0,1009.0,São Geraldo do Araguaia
+3186.0,1009.0,Bastos
+3254.0,1009.0,Conchas
+241.0,1008.0,Alvorada
+2084.0,1008.0,Serra Dourada
+3330.0,1008.0,Guzolândia
+3982.0,1008.0,Paraíso do Norte
+1532.0,1006.0,Venturosa
+2750.0,1006.0,Ressaquinha
+1981.0,1005.0,Muritiba
+3323.0,1004.0,Guararema
+21.0,1003.0,São Miguel do Guaporé
+1820.0,1003.0,Coração de Maria
+4760.0,1002.0,São Gabriel
+4830.0,1002.0,Três Passos
+4419.0,1001.0,Balneário Pinhal
+5106.0,1001.0,Arenópolis
+4125.0,1000.0,Vitorino
+2689.0,999.0,Pedralva
+3921.0,998.0,Lidianópolis
+1632.0,996.0,Satuba
+2853.0,996.0,São José do Alegre
+499.0,995.0,Paraibano
+1862.0,995.0,Ibicuí
+2821.0,995.0,São Brás do Suaçuí
+2492.0,994.0,Itanhandu
+2275.0,992.0,Carmo da Mata
+4728.0,991.0,Rosário do Sul
+909.0,988.0,Martinópole
+2754.0,988.0,Rio Acima
+3729.0,987.0,Valparaíso
+131.0,986.0,Concórdia do Pará
+2248.0,986.0,Campos Altos
+106.0,984.0,Anapu
+4012.0,982.0,Pranchita
+1689.0,978.0,Pinhão
+2074.0,977.0,São Sebastião do Passé
+2697.0,975.0,Perdizes
+2997.0,974.0,Jerônimo Monteiro
+3790.0,973.0,Cambará
+1406.0,972.0,Chã de Alegria
+3226.0,972.0,Cajuru
+3596.0,972.0,Rinópolis
+2249.0,971.0,Campos Gerais
+4894.0,971.0,Deodápolis
+910.0,970.0,Massapê
+5188.0,968.0,Ipameri
+192.0,967.0,Santana do Araguaia
+3748.0,965.0,Alto Paraná
+4957.0,965.0,Arenápolis
+2793.0,964.0,Santana da Vargem
+922.0,962.0,Mucambo
+1188.0,961.0,Caiçara
+3007.0,960.0,Mucurici
+3914.0,959.0,Juranda
+2968.0,958.25,Baixo Guandu
+1712.0,958.0,Tomar do Geru
+1996.0,958.0,Oliveira dos Brejinhos
+2833.0,958.0,São Gonçalo do Sapucaí
+1841.0,957.0,Fátima
+4494.0,957.0,Cidreira
+5211.0,957.0,Luziânia
+1726.0,956.0,América Dourada
+865.0,955.0,Graça
+1312.0,955.0,Santa Rita
+2525.0,953.0,Jesuânia
+3268.0,953.0,Descalvado
+2016.0,952.0,Piritiba
+4907.0,951.0,Ivinhema
+1513.0,950.0,Sertânia
+2832.0,950.0,São Gonçalo do Rio Abaixo
+4816.0,950.0,Tenente Portela
+971.0,949.0,Tabuleiro do Norte
+1281.0,947.0,Picuí
+3106.0,946.0,São José de Ubá
+3940.0,944.0,Marilândia do Sul
+1568.0,943.0,Feliz Deserto
+555.0,942.0,São Raimundo das Mangabeiras
+4799.0,940.0,Serafina Corrêa
+4912.0,940.0,Juti
+2451.0,938.0,Ibiá
+2461.0,938.0,Iguatama
+1915.0,936.0,Ituaçu
+1175.0,934.0,Bonito de Santa Fé
+2325.0,933.25,Conselheiro Pena
+53.0,932.0,Bujari
+1747.0,932.0,Barra da Estiva
+1186.0,931.0,Cacimba de Dentro
+3817.0,930.0,Colorado
+4258.0,929.0,Lontras
+3335.0,927.0,Iacri
+4547.0,927.0,Faxinal do Soturno
+3612.0,925.0,Salto Grande
+2647.0,924.0,Olímpio Noronha
+3317.0,923.0,Guará
+4056.0,922.0,Santa Mariana
+713.0,918.0,Morro do Chapéu do Piauí
+3204.0,918.0,Borborema
+892.0,917.0,Itarema
+1519.0,917.0,Tacaimbó
+3234.0,917.0,Cândido Mota
+4829.0,917.0,Três Palmeiras
+341.0,916.0,Presidente Kennedy
+1263.0,915.0,Monte Horebe
+4013.0,915.0,Presidente Castelo Branco
+4909.0,915.0,Jaraguari
+1236.0,912.0,Jericó
+3734.0,912.0,Vera Cruz
+3262.0,911.0,Cravinhos
+211.0,910.0,Tomé-Açu
+262.0,910.0,Brasilândia do Tocantins
+1978.0,909.0,Mundo Novo
+217.0,908.0,Uruará
+1336.0,908.0,Serra Branca
+5167.0,907.0,Formoso
+902.0,906.0,Jucás
+932.0,906.0,Pacujá
+4719.0,905.0,Rio Pardo
+5044.0,905.0,Querência
+2904.0,901.0,Tabuleiro
+5112.0,900.0,Bela Vista de Goiás
+62.0,899.0,Sena Madureira
+279.0,899.0,Crixás do Tocantins
+281.0,899.0,Dianópolis
+1264.0,898.0,Monteiro
+939.0,897.0,Pedra Branca
+1045.0,897.0,João Câmara
+4878.0,897.0,Batayporã
+3488.0,895.0,Novo Horizonte
+2263.0,894.0,Capitólio
+2921.0,894.0,Três Marias
+1716.0,893.0,Acajutiba
+4595.0,893.0,Itaqui
+1767.0,892.0,Brejolândia
+880.0,891.0,Independência
+3192.0,889.0,Bertioga
+4842.0,889.0,Uruguaiana
+4646.0,887.0,Não-Me-Toque
+5315.0,887.0,Valparaíso de Goiás
+331.0,885.0,Pequizeiro
+1459.0,884.0,Machados
+2059.0,884.0,Santa Terezinha
+2996.0,884.0,Jaguaré
+1209.0,883.0,Cuité
+3873.0,883.0,Guaratuba
+1410.0,882.0,Cortês
+2741.0,882.0,Prudente de Morais
+3678.0,881.0,Severínia
+908.0,880.0,Marco
+4124.0,880.0,Virmond
+847.0,879.0,Cedro
+4160.0,878.0,Bom Jesus
+5270.0,877.0,Quirinópolis
+1408.0,876.0,Condado
+407.0,875.0,Brejo
+1349.0,875.0,Taperoá
+2776.0,875.0,Sacramento
+3005.0,875.0,Mimoso do Sul
+1320.0,874.0,São João do Cariri
+2287.0,873.0,Cássia
+4831.0,872.0,Trindade do Sul
+1372.0,871.0,Barra de Guabiraba
+4796.0,871.0,Selbach
+1190.0,870.0,Cajazeirinhas
+2591.0,870.0,Mato Verde
+481.0,868.0,Maranhãozinho
+935.0,868.0,Paracuru
+4753.0,868.0,Santo Augusto
+2272.0,867.0,Carlos Chagas
+3286.0,867.0,Engenheiro Coelho
+4761.0,865.0,São Jerônimo
+821.0,863.0,Assaré
+1696.0,863.0,Riachuelo
+1817.0,863.0,Conde
+4489.0,862.0,Charqueadas
+2714.0,860.0,Pirapetinga
+3015.0,859.25,Ponto Belo
+4751.0,859.0,Santo Antônio das Missões
+4255.0,858.0,Lauro Müller
+2834.0,857.0,São Gotardo
+4334.0,857.0,Santa Rosa do Sul
+1010.0,856.0,Canguaretama
+3572.0,856.0,Promissão
+2220.0,855.0,Brazópolis
+3530.0,855.0,Pereiras
+4139.0,855.0,Apiúna
+4648.0,854.0,Nonoai
+4994.0,854.0,Indiavaí
+163.0,853.0,Nova Timboteua
+831.0,853.0,Bela Cruz
+4497.0,853.0,Condor
+4825.0,853.0,Três Cachoeiras
+1301.0,851.0,Rio Tinto
+2385.0,851.0,Engenheiro Navarro
+3251.0,849.0,Colina
+2175.0,848.0,Arinos
+177.0,847.0,Placas
+1179.0,846.0,Brejo do Cruz
+3668.0,845.0,São Simão
+4792.0,845.0,Sapucaia do Sul
+3519.0,843.0,Paulínia
+2387.0,842.0,Entre Rios de Minas
+3347.0,842.0,Iguape
+4027.0,842.0,Renascença
+3235.0,841.0,Canitar
+1505.0,840.0,São Joaquim do Monte
+3581.0,840.0,Regente Feijó
+3346.0,839.0,Igaratá
+4951.0,839.0,Alto Paraguai
+2114.0,838.0,Uruçuca
+3244.0,838.0,Catiguá
+1549.0,837.0,Branquinha
+2779.0,837.0,Santa Bárbara
+523.0,836.0,Riachão
+2524.0,835.0,Jequitinhonha
+4527.0,834.0,Encruzilhada do Sul
+4813.0,833.0,Taquari
+3363.0,832.0,Itaberá
+4065.0,832.0,Santo Inácio
+982.0,831.0,Uruburetama
+286.0,830.0,Fátima
+5259.0,830.0,Piracanjuba
+2506.0,829.0,Iturama
+1608.0,827.0,Paripueira
+4507.0,827.0,Cristal
+4758.0,827.0,São Francisco de Assis
+3882.0,826.0,Imbituva
+4853.0,825.0,Viamão
+553.0,824.0,São Pedro da Água Branca
+2295.0,824.0,Central de Minas
+899.0,823.0,Jati
+2785.0,823.0,Santa Efigênia de Minas
+2877.0,823.0,Sardoá
+5014.0,822.0,Nortelândia
+5196.0,822.0,Itapaci
+2723.0,821.0,Pompéu
+3674.0,821.0,Serrana
+3720.0,820.0,Ubatuba
+4239.0,820.0,Itapiranga
+1043.0,819.0,Jardim de Piranhas
+3666.0,819.0,São Sebastião
+2334.0,818.0,Coromandel
+4421.0,818.0,Barão de Cotegipe
+4582.0,818.0,Igrejinha
+3507.0,817.0,Palmital
+4929.0,817.0,Ribas do Rio Pardo
+683.0,816.0,Jerumenha
+854.0,816.0,Croatá
+1646.0,816.0,Brejo Grande
+2229.0,816.0,Cachoeira da Prata
+4206.0,816.0,Fraiburgo
+1399.0,814.0,Carnaíba
+3355.0,814.0,Iperó
+3021.0,812.25,Santa Teresa
+4988.0,812.0,Figueirópolis D'Oeste
+900.0,809.0,Jijoca de Jericoacoara
+911.0,809.0,Mauriti
+1510.0,809.0,São Vicente Férrer
+2430.0,809.0,Gonzaga
+3069.0,808.0,Japeri
+1724.0,807.0,Amargosa
+3849.0,807.0,Figueira
+2974.0,806.75,Cariacica
+2279.0,806.25,Carmo do Rio Claro
+3468.0,806.0,Morungaba
+4866.0,805.0,Água Clara
+3630.0,804.0,Santana de Parnaíba
+5242.0,804.0,Novo Brasil
+4734.0,803.25,Sananduva
+941.0,803.0,Pentecoste
+2162.0,803.0,Araçuaí
+2959.0,801.0,Águia Branca
+3242.0,801.0,Castilho
+5001.0,801.0,Jauru
+3912.0,800.0,Joaquim Távora
+2366.0,798.0,Divino das Laranjeiras
+2842.0,798.0,São João do Manteninha
+2012.0,797.0,Pindobaçu
+4465.0,797.0,Canguçu
+4859.0,797.0,Vila Nova do Sul
+4120.0,796.0,Vera Cruz do Oeste
+1066.0,795.0,Monte Alegre
+2351.0,795.0,Cruzília
+2544.0,795.0,Lagoa Dourada
+2545.0,795.0,Lagoa Formosa
+4696.0,794.0,Planalto
+2184.0,792.0,Barão de Cocais
+2782.0,792.0,Santa Bárbara do Tugúrio
+4438.0,792.0,Bom Progresso
+4505.0,792.0,Coxilha
+5215.0,791.0,Marzagão
+5317.0,791.0,Vianópolis
+1403.0,789.0,Casinhas
+1545.0,788.0,Batalha
+3337.0,786.0,Ibaté
+370.0,785.0,Xambioá
+968.0,785.0,Senador Sá
+56.0,784.0,Feijó
+2903.0,784.0,Soledade de Minas
+4023.0,784.0,Quitandinha
+420.0,783.0,Carolina
+788.0,783.0,Simões
+3983.0,782.0,Paranacity
+2823.0,781.0,São Domingos do Prata
+4827.0,781.0,Três de Maio
+1219.0,780.0,Duas Estradas
+1244.0,780.0,Lagoa de Dentro
+3342.0,779.0,Icém
+2486.0,778.0,Itamarandiba
+4479.0,777.0,Caseiros
+1268.0,776.0,Nova Floresta
+3574.0,776.0,Quatá
+127.0,775.0,Capitão Poço
+3701.0,775.0,Tarabai
+1590.0,774.0,Maribondo
+2737.0,774.0,Presidente Juscelino
+2828.0,774.0,São Geraldo
+826.0,773.0,Barreira
+2995.0,772.0,Iúna
+2112.0,771.0,Una
+1362.0,770.0,Água Preta
+4112.0,770.0,Turvo
+18.0,769.5,Rolim de Moura
+55.0,769.0,Cruzeiro do Sul
+2824.0,769.0,São Francisco
+4365.0,769.0,Tangará
+2147.0,767.25,Alterosa
+3614.0,767.0,Santa Adélia
+812.0,766.0,Antonina do Norte
+3059.0,766.0,Duque de Caxias
+3696.0,766.0,Tapiratiba
+2687.0,765.0,Pedra do Indaiá
+3332.0,765.0,Holambra
+4678.0,765.0,Passa Sete
+1913.0,764.0,Itiúba
+4622.0,764.0,Manoel Viana
+2320.0,763.0,Congonhal
+3237.0,763.0,Capela do Alto
+4706.0,761.0,Pouso Novo
+4888.0,760.0,Chapadão do Sul
+2745.0,759.0,Raul Soares
+4860.0,759.0,Vista Alegre
+2204.0,758.0,Bom Jardim de Minas
+2632.0,757.0,Nepomuceno
+4654.0,757.0,Nova Hartz
+882.0,756.0,Ipaumirim
+3298.0,756.0,Floreal
+3508.0,756.0,Panorama
+4773.0,755.0,São Lourenço do Sul
+4901.0,755.0,Glória de Dourados
+5195.0,755.0,Itajá
+1092.0,754.0,Serra Caiada
+359.0,753.0,Silvanópolis
+2146.0,753.0,Alpinópolis
+4518.0,753.0,Dois Lajeados
+1583.0,752.0,Lagoa da Canoa
+1704.0,752.0,São Cristóvão
+4040.0,752.0,Rondon
+2459.0,751.0,Igarapé
+579.0,750.0,Vitorino Freire
+5238.0,750.0,Nova Glória
+983.0,749.0,Uruoca
+1858.0,749.0,Iaçu
+3585.0,749.0,Ribeirão Bonito
+2612.0,747.25,Monte Belo
+3702.0,747.0,Tarumã
+4081.0,747.0,São Pedro do Iguaçu
+813.0,745.0,Apuiarés
+2584.0,745.0,Martins Soares
+2588.0,745.0,Matias Barbosa
+3197.0,745.0,Bocaina
+3788.0,744.0,Cafezal do Sul
+4916.0,744.0,Miranda
+3700.0,743.0,Taquarivaí
+4202.0,743.0,Faxinal dos Guedes
+4342.0,743.0,São Cristóvão do Sul
+1907.0,742.0,Itapicuru
+2473.0,742.0,Ipanema
+4174.0,742.0,Campo Erê
+3866.0,741.0,Guairaçá
+4551.0,741.0,Flores da Cunha
+1161.0,740.0,Assunção
+3230.0,740.0,Campos do Jordão
+3957.0,740.0,Morretes
+3339.0,739.0,Ibirarema
+3113.0,738.0,Silva Jardim
+936.0,736.0,Paraipaba
+2278.0,736.0,Carmo do Paranaíba
+4070.0,736.0,São João do Ivaí
+4542.0,736.0,Esteio
+577.0,735.0,Vila Nova dos Martírios
+3732.0,735.0,Vargem Grande Paulista
+381.0,734.0,Amarante do Maranhão
+2706.0,734.0,Pimenta
+3111.0,733.0,Saquarema
+698.0,732.0,Luís Correia
+4604.0,731.0,Jaguari
+1544.0,729.0,Barra de São Miguel
+3755.0,729.0,Antonina
+4766.0,729.0,São José do Herval
+1575.0,728.0,Jacaré dos Homens
+4903.0,728.0,Iguatemi
+1966.0,727.5,Medeiros Neto
+977.0,725.0,Trairi
+3576.0,724.0,Queluz
+4163.0,724.0,Braço do Norte
+1200.0,723.0,Caturité
+3544.0,723.0,Pirangi
+4308.0,723.0,Ponte Serrada
+907.0,722.0,Maranguape
+1449.0,722.0,Jupi
+1461.0,722.0,Maraial
+5126.0,722.0,Caiapônia
+5258.0,722.0,Pilar de Goiás
+1230.0,721.0,Ingá
+2057.0,719.0,Santanópolis
+3431.0,719.0,Mairiporã
+4392.0,719.0,Agudo
+4944.0,719.0,Vicentina
+1341.0,718.0,Sertãozinho
+1375.0,718.0,Belém do São Francisco
+2816.0,718.0,Santo Antônio do Monte
+4887.0,718.0,Cassilândia
+903.0,717.0,Lavras da Mangabeira
+1443.0,717.0,Jaqueira
+2597.0,717.0,Mercês
+3890.0,716.0,Iretama
+5162.0,716.0,Faina
+1348.0,715.0,Tacima
+5254.0,714.0,Paranaiguara
+848.0,713.0,Chaval
+3518.0,713.0,Paulicéia
+4553.0,713.0,Fontoura Xavier
+2922.0,712.0,Três Pontas
+5286.0,712.0,Santa Terezinha de Goiás
+1387.0,711.0,Buíque
+3824.0,711.0,Coronel Vivida
+3857.0,711.0,Francisco Alves
+2749.0,710.0,Resplendor
+2933.0,709.0,Unaí
+63.0,707.0,Tarauacá
+1380.0,707.0,Bom Conselho
+3891.0,707.0,Itaguajé
+2590.0,706.0,Matipó
+3853.0,706.0,Florestópolis
+92.0,705.0,Mucajaí
+1742.0,705.0,Aratuípe
+2602.0,705.0,Miradouro
+3405.0,704.0,Jumirim
+3517.0,704.0,Patrocínio Paulista
+5176.0,704.0,Goiatuba
+5245.0,704.0,Orizona
+3353.0,703.0,Inúbia Paulista
+1017.0,702.0,Cruzeta
+2558.0,702.0,Lima Duarte
+849.0,701.0,Choró
+5250.0,701.0,Palmeiras de Goiás
+2023.0,700.0,Potiraguá
+2259.0,700.0,Capim Branco
+3402.0,700.0,João Ramalho
+4168.0,700.0,Caibi
+4692.0,700.0,Pinheiro Machado
+4189.0,699.0,Corupá
+5091.0,699.0,Alexânia
+3379.0,698.0,Itaquaquecetuba
+351.0,697.0,Santa Rosa do Tocantins
+1113.0,695.0,São José do Seridó
+2595.0,695.0,Medina
+4561.0,695.0,General Câmara
+511.0,694.0,Pinheiro
+3860.0,694.0,General Carneiro
+4037.0,694.0,Rio Negro
+4050.0,693.0,Santa Helena
+3219.0,691.0,Caconde
+3257.0,691.0,Coronel Macedo
+967.0,690.0,Senador Pompeu
+2379.0,690.0,Dores do Indaiá
+4826.0,690.0,Três Coroas
+5002.0,690.0,Juara
+1326.0,689.0,São José de Piranhas
+2343.0,688.0,Couto de Magalhães de Minas
+61.0,686.0,Senador Guiomard
+1560.0,686.0,Colônia Leopoldina
+1639.0,686.0,Viçosa
+4228.0,686.0,Iporã do Oeste
+4126.0,685.0,Xambrê
+4962.0,685.0,Bom Jesus do Araguaia
+4789.0,684.0,São Vendelino
+2173.0,682.0,Argirita
+3446.0,682.0,Mineiros do Tietê
+3693.0,682.0,Tambaú
+3737.0,682.0,Vista Alegre do Alto
+4319.0,682.0,Rio das Antas
+773.0,681.0,São João do Piauí
+1567.0,680.0,Feira Grande
+3463.0,680.0,Monte Azul Paulista
+1023.0,679.0,Espírito Santo
+2924.0,679.0,Tupaciguara
+350.0,678.0,Santa Rita do Tocantins
+1884.0,678.0,Iraquara
+3611.0,678.0,Salto de Pirapora
+3102.0,676.0,São Francisco de Itabapoana
+1811.0,675.0,Coaraci
+610.0,674.0,Bocaina
+2672.0,674.0,Passa Quatro
+2768.0,674.0,Rochedo de Minas
+3156.0,673.0,Aramina
+3798.0,673.0,Campo Largo
+5314.0,673.0,Urutaí
+864.0,672.0,General Sampaio
+5099.0,672.0,Anicuns
+538.0,671.0,São Bernardo
+2271.0,670.0,Careaçu
+2901.0,670.0,Simonésia
+5280.0,670.0,Santa Helena de Goiás
+2683.0,669.0,Peçanha
+3310.0,669.0,Getulina
+3836.0,668.0,Dois Vizinhos
+2243.0,667.0,Campestre
+4349.0,667.0,São Joaquim
+5105.0,667.0,Araguapaz
+2799.0,666.0,Santana do Manhuaçu
+3386.0,666.0,Itobi
+937.0,665.0,Parambu
+3781.0,665.0,Bom Sucesso
+124.0,663.0,Cametá
+2333.0,663.0,Coroaci
+3292.0,663.0,Fartura
+3351.0,663.0,Indiana
+2415.0,662.0,Francisco Sá
+3949.0,662.0,Matinhos
+574.0,661.0,Urbano Santos
+1802.0,661.0,Casa Nova
+2470.0,660.0,Inhaúma
+4242.0,660.0,Jaborá
+3474.0,659.0,Nazaré Paulista
+4278.0,659.0,Nova Erechim
+254.0,658.0,Aurora do Tocantins
+1943.0,658.0,Lençóis
+3385.0,658.0,Itirapuã
+3598.0,658.0,Rio das Pedras
+35.0,657.0,Itapuã do Oeste
+147.0,657.0,Itupiranga
+4273.0,657.0,Monte Carlo
+3322.0,656.0,Guararapes
+3901.0,656.0,Jaboti
+4416.0,656.0,Arvorezinha
+4868.0,656.0,Amambai
+2242.0,655.0,Campanha
+2892.0,655.0,Serra dos Aimorés
+4623.0,655.0,Maquiné
+3277.0,654.0,Duartina
+3640.0,654.0,Santo Antônio do Jardim
+122.0,653.0,Cachoeira do Piriá
+2599.0,653.0,Minas Novas
+491.0,652.0,Morros
+2136.0,652.0,Águas Formosas
+536.0,651.0,São Benedito do Rio Preto
+2127.0,651.0,Xique-Xique
+2395.0,651.0,Estrela do Sul
+5276.0,651.0,Sanclerlândia
+4721.0,650.0,Roca Sales
+4814.0,650.0,Taquaruçu do Sul
+532.0,649.0,Santa Quitéria do Maranhão
+3056.0,649.0,Conceição de Macabu
+3177.0,649.0,Barão de Antonina
+4472.0,649.0,Capela de Santana
+135.0,648.0,Curuçá
+2408.0,648.0,Florestal
+2465.0,648.0,Inconfidentes
+975.0,647.0,Tejuçuoca
+1383.0,646.0,Brejão
+1391.0,646.0,Caetés
+1757.0,646.0,Biritinga
+3068.0,646.0,Itatiaia
+3273.0,646.0,Dois Córregos
+3383.0,645.0,Itatinga
+412.0,644.0,Buritirana
+1569.0,644.0,Flexeiras
+1722.0,644.0,Alcobaça
+1770.0,644.0,Buerarema
+2115.0,644.0,Utinga
+2753.0,644.0,Ribeirão Vermelho
+4241.0,644.0,Ituporanga
+3372.0,642.0,Itapevi
+3478.0,642.0,Nova Aliança
+4628.0,642.0,Marques de Souza
+2975.0,639.0,Castelo
+4522.0,639.0,Dona Francisca
+4809.0,639.0,Tapejara
+2000.0,638.5,Palmeiras
+1363.0,638.0,Águas Belas
+89.0,636.0,Caracaraí
+4256.0,636.0,Lebon Régis
+4188.0,635.0,Coronel Freitas
+2253.0,634.0,Candeias
+3248.0,634.0,Cesário Lange
+3722.0,634.0,Uchoa
+828.0,633.0,Barroquinha
+3086.0,632.0,Paty do Alferes
+3591.0,632.0,Ribeirão Pires
+970.0,631.0,Solonópole
+4017.0,631.0,Quatiguá
+2291.0,630.0,Catas Altas da Noruega
+2919.0,630.0,Tombos
+851.0,629.0,Coreaú
+1635.0,629.0,Taquarana
+2439.0,629.0,Guaranésia
+898.0,628.0,Jardim
+2209.0,628.0,Bom Sucesso
+156.0,627.0,Medicilândia
+3536.0,627.0,Pindorama
+1241.0,626.0,Juripiranga
+2365.0,626.0,Divino
+5086.0,626.0,Acreúna
+762.0,625.0,São Braz do Piauí
+264.0,624.0,Buriti do Tocantins
+290.0,624.0,Fortaleza do Tabocão
+1538.0,624.0,Xexéu
+1554.0,624.0,Campo Grande
+947.0,623.25,Porteiras
+2092.0,623.0,Souto Soares
+5186.0,623.0,Indiara
+4011.0,622.0,Prado Ferreira
+1794.0,621.0,Cansanção
+3180.0,621.0,Barra Bonita
+4283.0,621.0,Otacílio Costa
+1398.0,620.0,Capoeiras
+3338.0,620.0,Ibirá
+1833.0,619.0,Dom Basílio
+1013.0,618.0,Ceará-Mirim
+2638.0,618.0,Nova Ponte
+2170.0,617.0,Arceburgo
+99.0,616.0,Abel Figueiredo
+1238.0,616.0,Juarez Távora
+3993.0,615.0,Pérola
+795.0,614.0,União
+1235.0,614.0,Jacaraú
+1439.0,613.0,Itambé
+3968.0,613.0,Nova Olímpia
+2507.0,612.0,Itutinga
+2690.0,612.0,Pedras de Maria da Cruz
+2914.0,612.0,Tiradentes
+3420.0,612.0,Louveira
+4869.0,612.0,Anastácio
+5147.0,612.0,Corumbá de Goiás
+2310.0,611.25,Conceição da Aparecida
+2501.0,611.0,Itaverava
+2734.0,611.0,Pratápolis
+2315.0,610.0,Conceição do Pará
+3253.0,610.0,Conchal
+3176.0,609.0,Bananal
+591.0,608.0,Anísio de Abreu
+1714.0,608.0,Abaíra
+3955.0,608.0,Missal
+4341.0,608.0,São Carlos
+2560.0,607.0,Lontra
+3246.0,607.0,Cerqueira César
+1005.0,606.0,Brejinho
+2645.0,606.0,Olaria
+2731.0,606.0,Pouso Alto
+3272.0,606.0,Dobrada
+3622.0,606.0,Santa Ernestina
+4346.0,605.75,São João Batista
+2404.0,605.0,Felixlândia
+2643.0,605.0,Novo Oriente de Minas
+3818.0,605.0,Congonhinhas
+4058.0,605.0,Santana do Itararé
+4759.0,605.0,São Francisco de Paula
+4811.0,605.0,Tapes
+4940.0,605.0,Tacuru
+1793.0,604.0,Cândido Sales
+2396.0,604.0,Eugenópolis
+2803.0,604.0,Santa Rita de Caldas
+3830.0,604.0,Cruzmaltina
+3481.0,603.0,Nova Europa
+927.0,602.0,Ocara
+2503.0,602.0,Itueta
+5223.0,601.0,Montes Claros de Goiás
+2548.0,600.0,Lajinha
+5199.0,600.0,Itarumã
+635.0,599.0,Castelo do Piauí
+2719.0,599.0,Planura
+189.0,598.0,Santa Luzia do Pará
+2348.0,598.0,Cristina
+3211.0,598.0,Brotas
+3787.0,598.0,Cafelândia
+277.0,597.0,Couto Magalhães
+1529.0,596.0,Triunfo
+2925.0,596.0,Turmalina
+3076.0,596.0,Miguel Pereira
+3384.0,596.0,Itirapina
+2050.0,595.0,Santa Cruz Cabrália
+3466.0,595.0,Monte Mor
+4506.0,594.0,Crissiumal
+5300.0,594.0,Silvânia
+259.0,593.0,Barrolândia
+5115.0,592.0,Bonfinópolis
+107.0,591.0,Augusto Corrêa
+330.0,591.0,Peixe
+1818.0,591.0,Condeúba
+2192.0,591.0,Belo Oriente
+3125.0,591.0,Aguaí
+4096.0,591.0,Tamboara
+4463.0,591.0,Candiota
+5275.0,591.0,Rubiataba
+1819.0,589.0,Contendas do Sincorá
+3326.0,589.0,Guariba
+4067.0,588.0,São Jerônimo da Serra
+4838.0,588.0,Tuparendi
+3730.0,587.0,Vargem
+5210.0,587.0,Leopoldo de Bulhões
+252.0,585.0,Arraias
+2082.0,585.0,Serra do Ramalho
+2682.0,585.0,Pavão
+3634.0,585.0,Santa Salete
+4669.0,585.0,Palmares do Sul
+807.0,584.0,Aiuaba
+3595.0,584.0,Rincão
+1298.0,583.0,Riachão do Bacamarte
+4521.0,583.0,Dom Pedrito
+2113.0,582.0,Urandi
+4082.0,582.0,São Pedro do Ivaí
+5121.0,582.0,Cabeceiras
+1701.0,581.0,Santana do São Francisco
+2733.0,581.0,Prata
+2305.0,580.0,Cláudio
+2617.0,580.0,Monte Sião
+3969.0,580.0,Nova Santa Bárbara
+4564.0,580.0,Glorinha
+2011.0,579.0,Pindaí
+2861.0,579.0,São Pedro dos Ferros
+3334.0,579.0,Iacanga
+4411.0,579.0,Arroio do Sal
+486.0,578.0,Mirador
+1570.0,578.0,Girau do Ponciano
+2518.0,577.0,Japonvar
+4459.0,577.0,Campo Novo
+421.0,576.0,Carutapera
+2233.0,576.0,Caeté
+4884.0,576.0,Camapuã
+4280.0,575.25,Nova Trento
+2653.0,574.0,Ouro Branco
+4047.0,574.0,Santa Cecília do Pavão
+4063.0,574.0,Santo Antônio do Paraíso
+4949.0,574.0,Alto Boa Vista
+1297.0,573.0,Pedro Régis
+1745.0,573.0,Banzaê
+2580.0,573.0,Maripá de Minas
+2739.0,573.0,Presidente Olegário
+3540.0,573.0,Piracaia
+3275.0,572.0,Dourado
+3624.0,572.0,Santa Gertrudes
+4574.0,571.0,Horizontina
+4726.0,571.0,Rondinha
+118.0,570.0,Brasil Novo
+789.0,569.0,Simplício Mendes
+2505.0,569.0,Itumirim
+5225.0,569.0,Montividiu do Norte
+3532.0,567.0,Piacatu
+5219.0,566.0,Minaçu
+1756.0,565.0,Belo Campo
+5067.0,565.0,Serra Nova Dourada
+1522.0,564.5,Taquaritinga do Norte
+845.0,564.0,Catunda
+1501.0,564.0,São Benedito do Sul
+3917.0,564.0,Lapa
+5178.0,564.0,Guapó
+2058.0,562.0,Santa Rita de Cássia
+4052.0,562.0,Santa Isabel do Ivaí
+2262.0,561.0,Capitão Enéas
+3026.0,560.0,São Roque do Canaã
+5018.0,560.0,Nova Lacerda
+842.0,559.0,Carnaubal
+2631.0,558.0,Nazareno
+5133.0,558.0,Campos Belos
+43.0,557.0,São Francisco do Guaporé
+3302.0,556.0,Francisco Morato
+3303.0,556.0,Franco da Rocha
+3539.0,556.0,Piquete
+4874.0,556.0,Aquidauana
+1495.0,555.0,Santa Cruz da Baixa Verde
+2496.0,555.0,Itapecerica
+4656.0,555.0,Nova Palma
+715.0,554.0,Nazaré do Piauí
+820.0,554.0,Arneiroz
+1151.0,554.0,São João do Rio do Peixe
+1390.0,553.0,Cachoeirinha
+1502.0,553.0,São Bento do Una
+1580.0,553.0,Joaquim Gomes
+3628.0,553.0,Santa Mercedes
+4187.0,553.0,Cordilheira Alta
+5189.0,553.0,Ipiranga de Goiás
+230.0,552.0,Mazagão
+1276.0,551.0,Paulista
+3152.0,551.0,Apiaí
+3271.0,551.0,Divinolândia
+2183.0,550.0,Bandeira do Sul
+1728.0,549.0,Andaraí
+2574.0,549.0,Maravilhas
+3432.0,549.0,Manduri
+2606.0,548.0,Moema
+3810.0,548.0,Centenário do Sul
+3938.0,548.0,Maria Helena
+4584.0,548.0,Ilópolis
+4902.0,548.0,Guia Lopes da Laguna
+4910.0,547.0,Jardim
+5114.0,547.0,Bom Jesus de Goiás
+2024.0,546.0,Prado
+4403.0,546.0,Ametista do Sul
+1011.0,544.0,Caraúbas
+403.0,543.0,Boa Vista do Gurupi
+2344.0,543.0,Crisólita
+4714.0,543.0,Redentora
+1781.0,541.0,Caldeirão Grande
+3343.0,541.0,Iepê
+4502.0,541.0,Coronel Bicaco
+1960.0,540.0,Maragogipe
+3493.0,540.0,Onda Verde
+4405.0,540.0,Anta Gorda
+3706.0,539.0,Teodoro Sampaio
+3879.0,539.0,Iguaraçu
+4159.0,539.0,Bom Jardim da Serra
+1985.0,538.0,Nordestina
+2665.0,538.0,Papagaios
+2728.0,538.0,Porto Firme
+2936.0,538.0,Urucuia
+940.0,537.0,Penaforte
+2905.0,537.0,Taiobeiras
+3538.0,537.0,Piquerobi
+1531.0,536.0,Tuparetama
+1791.0,536.0,Candeias
+4314.0,536.0,Presidente Getúlio
+4892.0,536.0,Costa Rica
+154.0,535.0,Marapanim
+3281.0,535.0,Elias Fausto
+168.0,534.0,Ourém
+1469.0,534.0,Palmeirina
+2684.0,534.0,Pedra Azul
+2726.0,534.0,Ponto dos Volantes
+3747.0,534.0,Altônia
+4147.0,534.0,Aurora
+2148.0,532.0,Alto Caparaó
+3054.0,532.0,Carmo
+4815.0,532.0,Tavares
+4980.0,532.0,Conquista D'Oeste
+5148.0,532.0,Corumbaíba
+362.0,531.0,Taguatinga
+3178.0,531.0,Barbosa
+109.0,530.0,Baião
+3833.0,530.0,Diamante do Norte
+740.0,529.0,Pio IX
+1530.0,529.0,Tupanatinga
+3096.0,529.0,Rio Claro
+4575.0,529.0,Hulha Negra
+5172.0,529.0,Goianésia
+5222.0,529.0,Monte Alegre de Goiás
+157.0,528.0,Mocajuba
+3944.0,528.0,Maripá
+3953.0,528.0,Mercedes
+4378.0,528.0,Urussanga
+4851.0,528.0,Vespasiano Corrêa
+706.0,527.0,Miguel Alves
+2029.0,527.0,Quijingue
+2722.0,527.0,Pocrane
+2711.0,525.0,Piranga
+3092.0,525.0,Quatis
+3617.0,525.0,Santa Branca
+3842.0,525.0,Entre Rios do Oeste
+912.0,524.0,Meruoca
+4432.0,524.0,Boa Vista do Buricá
+1584.0,523.0,Limoeiro de Anadia
+5198.0,523.0,Itapuranga
+2045.0,521.0,Ruy Barbosa
+3172.0,521.0,Avanhandava
+95.0,520.0,Rorainópolis
+1577.0,520.0,Japaratinga
+4501.0,520.0,Coronel Barros
+2292.0,519.0,Catuji
+3216.0,519.0,Cabreúva
+3348.0,519.0,Ilha Comprida
+2236.0,518.0,Caldas
+3956.0,518.0,Moreira Sales
+4020.0,518.0,Quedas do Iguaçu
+2214.0,517.25,Botelhos
+2896.0,517.0,Serro
+206.0,516.0,Sapucaia
+325.0,515.0,Palmeirópolis
+4787.0,515.0,São Valentim
+5090.0,513.5,Águas Lindas de Goiás
+1222.0,513.0,Fagundes
+2017.0,513.0,Planaltino
+3047.0,513.0,Cachoeiras de Macacu
+2472.0,512.0,Ipaba
+1710.0,511.0,Telha
+2445.0,511.0,Guimarânia
+2642.0,511.0,Novo Cruzeiro
+2691.0,511.0,Pedrinópolis
+3193.0,511.0,Bilac
+3304.0,511.0,Gabriel Monteiro
+3313.0,511.0,Guaimbê
+3885.0,511.0,Indianópolis
+5092.0,511.0,Alto Horizonte
+5197.0,511.0,Itapirapuã
+4176.0,510.75,Canelinha
+1287.0,510.0,Pocinhos
+1561.0,510.0,Coqueiro Seco
+1746.0,510.0,Barra
+4190.0,510.0,Correia Pinto
+4533.0,510.0,Ernestina
+4722.0,510.0,Rodeio Bonito
+950.0,509.0,Quiterianópolis
+7.0,508.0,Costa Marques
+23.0,508.0,Alvorada D'Oeste
+3749.0,507.0,Alto Piquiri
+2155.0,506.0,Andrelândia
+5096.0,506.0,Amorinópolis
+303.0,505.0,Lajeado
+1384.0,505.0,Brejinho
+4054.0,505.0,Santa Lúcia
+2978.0,504.0,Conceição do Castelo
+3786.0,504.0,Cafeara
+3928.0,504.0,Lupionópolis
+4051.0,504.0,Santa Inês
+5239.0,504.0,Nova Iguaçu de Goiás
+384.0,503.0,Apicum-Açu
+1086.0,503.0,Pedro Velho
+3344.0,503.0,Igaraçu do Tietê
+5151.0,503.0,Crixás
+5171.0,503.0,Goiandira
+3222.0,502.0,Caiuá
+3524.0,502.0,Pedregulho
+3642.0,502.0,Santo Expedito
+44.0,501.0,Seringueiras
+2104.0,501.0,Tremedal
+4891.0,501.0,Corumbá
+5040.0,501.0,Porto Esperidião
+433.0,499.0,Coroatá
+646.0,499.0,Cristalândia do Piauí
+1523.0,499.0,Terezinha
+3736.0,499.0,Viradouro
+3785.0,499.0,Brasilândia do Sul
+4343.0,499.0,São Domingos
+1812.0,498.0,Cocos
+4487.0,497.0,Cerro Largo
+1248.0,496.0,Logradouro
+2956.0,496.0,Volta Grande
+4420.0,496.0,Barão
+2143.0,495.0,Alfredo Vasconcelos
+3815.0,495.0,Cidade Gaúcha
+145.0,494.0,Irituia
+1975.0,494.0,Mucugê
+3726.0,494.0,Urupês
+3801.0,494.0,Candói
+4209.0,494.0,Garopaba
+3198.0,493.0,Bofete
+4643.0,493.0,Mostardas
+4674.0,493.0,Paraí
+249.0,492.0,Araguanã
+1203.0,492.0,Conde
+3009.0,491.0,Muqui
+4195.0,491.0,Descanso
+4833.0,491.0,Tucunduva
+5261.0,491.0,Pirenópolis
+2992.0,490.25,Itaguaçu
+1534.0,490.0,Vertente do Lério
+5193.0,490.0,Itaguari
+3552.0,489.0,Poá
+796.0,488.0,Uruçuí
+2397.0,488.0,Ewbank da Câmara
+2775.0,488.0,Sabinópolis
+3553.0,487.0,Poloni
+4524.0,487.0,Doutor Ricardo
+5229.0,487.0,Mozarlândia
+1775.0,486.0,Caculé
+3564.0,485.0,Pradópolis
+4095.0,485.0,Tamarana
+4984.0,485.0,Denise
+5120.0,485.0,Buriti de Goiás
+581.0,484.0,Acauã
+2090.0,484.0,Sítio do Quinto
+4705.0,484.0,Porto Xavier
+5249.0,483.0,Palestina de Goiás
+367.0,482.0,Tocantinópolis
+998.0,482.0,Arês
+1121.0,482.0,Senador Georgino Avelino
+4414.0,482.0,Arroio do Tigre
+4846.0,482.0,Vale Real
+1563.0,480.0,Craíbas
+3138.0,480.0,Álvares Machado
+3475.0,480.0,Neves Paulista
+3962.0,480.0,Nova Cantu
+4327.0,480.0,Rodeio
+4666.0,480.0,Novo Barreiro
+5174.0,480.0,Goianira
+1831.0,479.0,Dário Meira
+972.0,478.0,Tamboril
+4426.0,478.0,Barra do Ribeiro
+2032.0,477.5,Remanso
+2522.0,477.0,Jequitaí
+4019.0,476.0,Quatro Pontes
+4567.0,476.0,Gravataí
+5313.0,476.0,Uruana
+2064.0,475.0,São Domingos
+2121.0,475.0,Varzedo
+2477.0,473.0,Iraí de Minas
+1441.0,472.0,Itaquitinga
+1520.0,472.0,Tacaratu
+1731.0,472.0,Anguera
+3423.0,472.0,Luís Antônio
+5150.0,472.0,Cristianópolis
+5158.0,472.0,Doverlândia
+345.0,470.0,Rio dos Bois
+2073.0,469.0,São Miguel das Matas
+2568.0,469.0,Malacacheta
+2875.0,469.0,São Vicente de Minas
+3196.0,469.0,Boa Esperança do Sul
+4439.0,469.0,Bom Retiro do Sul
+1293.0,468.0,Puxinanã
+4345.0,468.0,São João do Oeste
+1135.0,467.0,Touros
+3751.0,467.0,Amaporã
+4344.0,467.0,São Francisco do Sul
+1579.0,466.0,Jequiá da Praia
+2412.0,466.0,Fortuna de Minas
+4031.0,466.0,Ribeirão do Pinhal
+4942.0,466.0,Terenos
+121.0,465.0,Bujaru
+4642.0,465.0,Morro Reuter
+2355.0,464.0,Datas
+4398.0,464.0,Alpestre
+5129.0,464.0,Campinaçu
+430.0,463.0,Coelho Neto
+3213.0,463.0,Buritama
+1573.0,462.0,Igreja Nova
+2476.0,462.0,Ipuiúna
+3412.0,462.0,Lavínia
+3495.0,462.0,Orindiúva
+3521.0,462.0,Paulo de Faria
+3954.0,462.0,Miraselva
+4763.0,462.0,São João do Polêsine
+4870.0,462.0,Anaurilândia
+268.0,461.0,Carmolândia
+881.0,461.0,Ipaporanga
+945.0,461.0,Pires Ferreira
+2252.0,461.0,Cana Verde
+4634.0,461.0,Miraguaí
+5118.0,461.0,Britânia
+2369.0,460.0,Divisa Alegre
+2609.0,460.0,Montalvânia
+2761.0,459.0,Rio Paranaíba
+3645.0,459.0,São Bento do Sapucaí
+3667.0,459.0,São Sebastião da Grama
+4039.0,459.0,Roncador
+81.0,458.0,Presidente Figueiredo
+119.0,458.0,Brejo Grande do Araguaia
+2120.0,458.0,Várzea Nova
+3797.0,458.0,Campo do Tenente
+5308.0,458.0,Trombas
+642.0,457.0,Colônia do Piauí
+2345.0,457.0,Cristais
+3606.0,457.0,Sales Oliveira
+3965.0,457.0,Nova Fátima
+82.0,456.0,Rio Preto da Eva
+1076.0,456.0,Parelhas
+2394.0,456.0,Estrela Dalva
+3132.0,456.0,Alfredo Marcondes
+3927.0,456.0,Lunardelli
+1856.0,455.0,Guaratinga
+2135.0,455.0,Aguanil
+2419.0,455.0,Fronteira
+3471.0,455.0,Nantes
+5273.0,455.0,Rio Quente
+2910.0,454.0,Tarumirim
+5093.0,453.5,Alto Paraíso de Goiás
+1749.0,453.0,Barra do Mendes
+2314.0,453.0,Conceição do Mato Dentro
+3039.0,453.0,Areal
+3619.0,453.0,Santa Cruz da Esperança
+2883.0,452.0,Senador Firmino
+4996.0,452.0,Itanhangá
+1129.0,451.0,Taipu
+2100.0,451.0,Teodoro Sampaio
+1565.0,450.0,Dois Riachos
+2729.0,450.0,Poté
+1763.0,449.0,Bonito
+3505.0,449.0,Palmares Paulista
+2565.0,448.0,Machacalis
+3813.0,448.0,Chopinzinho
+4285.0,448.0,Painel
+1094.0,447.0,Rafael Fernandes
+2958.0,447.0,Afonso Cláudio
+3128.0,447.0,Águas de Santa Bárbara
+5279.0,447.0,Santa Fé de Goiás
+1626.0,446.0,São José da Laje
+3019.0,445.5,Santa Leopoldina
+1588.0,445.0,Maravilha
+4776.0,445.0,São Martinho
+5065.0,445.0,São Félix do Araguaia
+3029.0,444.0,Vargem Alta
+3560.0,444.0,Porangaba
+3850.0,443.0,Floraí
+4645.0,443.0,Muitos Capões
+2230.0,442.0,Cachoeira de Minas
+414.0,441.0,Cajapió
+690.0,441.0,Jurema
+3100.0,441.0,Santa Maria Madalena
+3426.0,441.0,Lutécia
+3888.0,441.0,Iracema do Oeste
+876.0,440.0,Ibicuitinga
+994.0,440.0,Angicos
+1910.0,440.0,Itarantim
+2216.0,440.0,Brasilândia de Minas
+3212.0,440.0,Buri
+1120.0,439.0,Senador Elói de Souza
+1598.0,439.0,Novo Lino
+4005.0,439.0,Pontal do Paraná
+4072.0,439.0,São Jorge d'Oeste
+959.0,438.0,Salitre
+1929.0,438.0,João Dourado
+2015.0,438.0,Piripá
+3711.0,438.0,Torrinha
+3314.0,437.0,Guaíra
+2679.0,436.0,Patrocínio do Muriaé
+3191.0,436.0,Bernardino de Campos
+3404.0,436.0,Júlio Mesquita
+4307.0,436.0,Ponte Alta do Norte
+5053.0,436.0,São José do Rio Claro
+1139.0,435.0,Várzea
+3109.0,435.0,São Sebastião do Alto
+3174.0,435.0,Bady Bassitt
+3922.0,435.0,Lindoeste
+2615.0,434.0,Monte Santo de Minas
+2876.0,434.0,Sapucaí-Mirim
+3728.0,434.0,Valinhos
+3979.0,434.0,Palmeira
+5303.0,434.0,Taquaral de Goiás
+1360.0,433.0,Afrânio
+4819.0,433.0,Tio Hugo
+1431.0,432.0,Igarassu
+1551.0,432.0,Cajueiro
+1702.0,432.0,Santa Rosa de Lima
+3896.0,432.0,Itaúna do Sul
+13.0,431.0,Nova Brasilândia D'Oeste
+632.0,431.0,Caracol
+1548.0,431.0,Boca da Mata
+2562.0,431.0,Luislândia
+1707.0,430.0,São Miguel do Aleixo
+3134.0,430.0,Altinópolis
+3158.0,430.0,Arapeí
+3163.0,430.0,Areias
+2359.0,429.0,Descoberto
+4435.0,429.0,Boa Vista do Sul
+4630.0,429.0,Mato Castelhano
+2575.0,428.0,Mar de Espanha
+4679.0,428.0,Passo do Sobrado
+4881.0,428.0,Bonito
+5241.0,428.0,Nova Veneza
+275.0,427.0,Combinado
+2626.0,427.0,Nacip Raydan
+3279.0,427.0,Echaporã
+3498.0,427.0,Oscar Bressane
+5269.0,427.0,Professor Jamil
+872.0,426.0,Hidrolândia
+1133.0,426.0,Tibau do Sul
+1566.0,426.0,Estrela de Alagoas
+2125.0,426.0,Wanderley
+2119.0,425.0,Várzea do Poço
+2277.0,425.0,Carmo do Cajuru
+228.0,424.0,Laranjal do Jari
+920.0,424.0,Moraújo
+1851.0,424.0,Glória
+2270.0,424.0,Carbonita
+2552.0,424.0,Lassance
+5224.0,424.0,Montividiu
+287.0,423.0,Figueirópolis
+838.0,423.0,Caridade
+3280.0,423.0,Eldorado
+3976.0,423.0,Ouro Verde do Oeste
+5237.0,423.0,Nova Crixás
+397.0,422.0,Barreirinhas
+4219.0,422.0,Ibicaré
+3442.0,421.0,Mendonça
+1258.0,420.0,Matinhas
+1690.0,420.0,Pirambu
+1941.0,420.0,Lamarão
+1971.0,420.0,Monte Santo
+3105.0,420.0,São João da Barra
+3256.0,420.0,Coroados
+4969.0,420.0,Canabrava do Norte
+2695.0,419.0,Pequi
+2852.0,419.0,São José da Varginha
+4406.0,419.0,Antônio Prado
+240.0,418.0,Almas
+952.0,418.0,Quixelô
+1065.0,418.0,Montanhas
+2769.0,418.0,Rodeiro
+3661.0,418.0,São Miguel Arcanjo
+3721.0,418.0,Ubirajara
+3851.0,418.0,Flor da Serra do Sul
+4919.0,418.0,Nioaque
+644.0,417.0,Coronel José Dias
+3673.0,417.0,Serra Azul
+267.0,416.0,Cariri do Tocantins
+2009.0,416.0,Piatã
+2965.0,416.0,Apiacá
+2982.0,415.25,Ecoporanga
+973.0,415.0,Tarrafas
+2124.0,415.0,Wagner
+1606.0,414.0,Pão de Açúcar
+1499.0,413.0,Santa Maria do Cambucá
+2217.0,413.0,Brasília de Minas
+2316.0,413.0,Conceição do Rio Verde
+2899.0,413.0,Silvianópolis
+3599.0,413.0,Riolândia
+3671.0,413.0,Sarutaiá
+1283.0,412.0,Pilões
+1893.0,412.0,Itagibá
+2364.0,412.0,Divinésia
+4455.0,412.0,Campestre da Serra
+4687.0,412.0,Picada Café
+4716.0,412.0,Restinga Sêca
+5304.0,412.0,Teresina de Goiás
+97.0,411.0,São Luiz
+648.0,411.0,Curimatá
+4408.0,411.0,Araricá
+1059.0,410.0,Macau
+4066.0,410.0,São Carlos do Ivaí
+3124.0,409.0,Adolfo
+3365.0,409.0,Itajobi
+735.0,408.0,Pedro II
+2402.0,408.0,São Gonçalo do Rio Preto
+3001.0,408.0,Mantenópolis
+4611.0,408.0,Lagoa dos Três Cantos
+1444.0,407.0,Jataúba
+1512.0,407.0,Serrita
+1989.0,407.0,Nova Itarana
+2095.0,407.0,Tanque Novo
+2377.0,406.0,Dores de Campos
+2482.0,406.0,Itacarambi
+484.0,405.0,Matões do Norte
+496.0,405.0,Olho d'Água das Cunhãs
+3450.0,405.0,Mirante do Paranapanema
+3600.0,405.0,Rosana
+1100.0,404.0,Tibau
+1621.0,404.0,Rio Largo
+1762.0,404.0,Boninal
+5132.0,404.0,Campo Limpo de Goiás
+3263.0,403.0,Cristais Paulista
+3762.0,403.0,Araucária
+4844.0,403.0,Vale Verde
+1954.0,402.0,Mairi
+2225.0,402.0,Buritis
+2388.0,402.0,Ervália
+2696.0,402.0,Perdigão
+3793.0,402.0,Campina da Lagoa
+4002.0,402.0,Planaltina do Paraná
+4731.0,402.0,Salto do Jacuí
+4116.0,401.0,Uniflor
+4519.0,401.0,Dom Feliciano
+5230.0,401.0,Mundo Novo
+1924.0,400.0,Jandaíra
+2688.0,400.0,Pedra Dourada
+3300.0,400.0,Florínea
+3641.0,399.0,Santo Antônio do Pinhal
+4535.0,399.0,Erval Grande
+4571.0,399.0,Guarani das Missões
+280.0,398.0,Darcinópolis
+1934.0,398.0,Jussiape
+3687.0,398.0,Tabatinga
+5042.0,398.0,Poxoréu
+1273.0,397.0,Ouro Velho
+3210.0,397.0,Brodowski
+4354.0,397.0,São Ludgero
+2498.0,396.0,Itatiaiuçu
+2570.0,396.0,Manga
+3388.0,396.0,Itupeva
+3534.0,395.0,Pilar do Sul
+2139.0,394.0,Aiuruoca
+2157.0,394.0,Antônio Carlos
+4178.0,394.0,Capinzal
+2994.0,393.75,Itarana
+100.0,393.0,Acará
+417.0,392.0,Cândido Mendes
+488.0,392.0,Mirinzal
+3114.0,392.0,Sumidouro
+1788.0,391.0,Canarana
+1540.0,390.0,Anadia
+3929.0,390.0,Mallet
+4288.0,390.0,Palmeira
+1859.0,389.0,Ibiassucê
+3316.0,389.0,Guapiara
+4569.0,389.0,Guaíba
+409.0,388.0,Buriti
+1835.0,388.0,Elísio Medrado
+1953.0,388.0,Maiquinique
+2071.0,388.0,São José da Vitória
+2274.0,388.0,Carmo da Cachoeira
+424.0,387.0,Central do Maranhão
+1546.0,386.0,Belém
+2128.0,386.0,Abadia dos Dourados
+2349.0,386.0,Crucilândia
+4440.0,386.0,Boqueirão do Leão
+4828.0,386.0,Três Forquilhas
+139.0,385.0,Garrafão do Norte
+282.0,385.0,Divinópolis do Tocantins
+895.0,385.0,Jaguaribara
+3117.0,385.0,Trajano de Moraes
+3936.0,385.0,Manoel Ribas
+4086.0,385.0,Sapopema
+5004.0,385.0,Juruena
+1822.0,384.0,Coribe
+2221.0,384.0,Brumadinho
+2720.0,384.0,Poço Fundo
+2856.0,384.0,São José do Jacuri
+4213.0,384.0,Gravatal
+2040.0,383.0,Rio de Contas
+2742.0,383.0,Quartel Geral
+3941.0,383.0,Mariluz
+434.0,382.0,Cururupu
+564.0,382.0,Sucupira do Norte
+1919.0,382.0,Jacaraci
+4832.0,382.0,Triunfo
+4841.0,382.0,Unistalda
+4958.0,382.0,Aripuanã
+4303.0,381.75,Piratuba
+914.0,381.0,Milhã
+4026.0,381.0,Rebouças
+27.0,380.0,Novo Horizonte do Oeste
+3767.0,380.0,Atalaia
+3795.0,380.0,Campina Grande do Sul
+1051.0,378.0,Lagoa de Pedras
+2650.0,378.0,Onça de Pitangui
+1405.0,377.0,Cedro
+2751.0,377.0,Riachinho
+4711.0,377.0,Quaraí
+4972.0,376.0,Castanheira
+1291.0,375.0,Prata
+1634.0,375.0,Tanque d'Arca
+2307.0,375.0,Coluna
+2767.0,375.0,Ritápolis
+2941.0,375.0,Várzea da Palma
+4032.0,375.0,Rio Azul
+4229.0,375.0,Ipuaçu
+3020.0,374.75,Santa Maria de Jetibá
+327.0,374.0,Paranã
+1080.0,374.0,Patu
+1556.0,374.0,Capela
+2066.0,374.0,São Félix do Coribe
+1807.0,373.0,Central
+2166.0,373.0,Araporã
+3638.0,373.0,Santo Antônio de Posse
+306.0,372.0,Luzinópolis
+1857.0,372.0,Heliópolis
+2841.0,372.0,São João do Manhuaçu
+3847.0,372.0,Fênix
+52.0,371.0,Brasiléia
+54.0,371.0,Capixaba
+328.0,371.0,Pau D'Arco
+356.0,371.0,São Salvador do Tocantins
+677.0,371.0,Itainópolis
+767.0,371.0,São Gonçalo do Piauí
+1429.0,371.0,Ibimirim
+1771.0,371.0,Buritirama
+2603.0,371.0,Miraí
+5251.0,371.0,Palmelo
+5278.0,371.0,Santa Cruz de Goiás
+3008.0,370.0,Muniz Freire
+4076.0,370.0,São José das Palmeiras
+389.0,369.0,Axixá
+2763.0,369.0,Rio Piracicaba
+1233.0,368.0,Itapororoca
+2382.0,368.0,Durandé
+5287.0,368.0,Santo Antônio da Barra
+1881.0,367.0,Ipupiara
+4021.0,367.0,Querência do Norte
+4462.0,367.0,Cândido Godói
+4525.0,367.0,Eldorado do Sul
+5111.0,366.0,Barro Alto
+1114.0,365.0,São Miguel
+1801.0,365.0,Carinhanha
+3445.0,365.0,Miguelópolis
+3924.0,365.0,Lobato
+2228.0,364.25,Cabo Verde
+242.0,364.0,Ananás
+537.0,364.0,São Bento
+2296.0,364.0,Centralina
+3284.0,364.0,Embu das Artes
+3297.0,364.0,Flora Rica
+3470.0,364.0,Murutinga do Sul
+1165.0,363.0,Barra de Santana
+1436.0,363.0,Ipubi
+4676.0,363.0,Pareci Novo
+1154.0,362.0,Araçagi
+2908.0,362.0,Tapiraí
+3155.0,362.0,Araçoiaba da Serra
+3291.0,362.0,Euclides da Cunha Paulista
+1507.0,361.0,São José do Belmonte
+1765.0,361.0,Botuporã
+2837.0,361.0,São João da Mata
+778.0,360.0,São Lourenço do Piauí
+1025.0,360.0,Fernando Pedroza
+1150.0,360.0,Alhandra
+1432.0,360.0,Iguaracy
+1992.0,360.0,Nova Viçosa
+2845.0,360.0,São João do Paraíso
+877.0,359.0,Icapuí
+1421.0,359.0,Frei Miguelinho
+1574.0,359.0,Inhapi
+2210.0,359.0,Bonfim
+2462.0,359.0,Ijaci
+2547.0,358.0,Lagoa Santa
+174.0,357.0,Pau D'Arco
+2077.0,357.0,Saubara
+3232.0,357.0,Cananéia
+4573.0,357.0,Herveiras
+1603.0,355.0,Ouro Branco
+2663.0,355.0,Palma
+354.0,354.0,São Bento do Tocantins
+2132.0,354.0,Açucena
+2290.0,354.0,Catas Altas
+3050.0,354.0,Comendador Levy Gasparian
+5181.0,354.0,Heitoraí
+782.0,353.0,São Miguel do Tapuio
+868.0,353.0,Groaíras
+3643.0,353.0,Santópolis do Aguapeí
+4135.0,353.0,Alfredo Wagner
+4141.0,353.0,Araquari
+2386.0,352.0,Entre Folhas
+2937.0,352.0,Vargem Alegre
+4926.0,352.0,Pedro Gomes
+1550.0,351.0,Cacimbinhas
+3434.0,351.0,Maracaí
+3318.0,350.0,Guaraçaí
+3548.0,350.0,Piratininga
+3854.0,350.0,Flórida
+4091.0,350.0,Sertaneja
+4302.0,350.0,Pinheiro Preto
+1905.0,349.0,Itapebi
+3422.0,349.0,Lucianópolis
+3200.0,348.0,Bom Jesus dos Perdões
+3990.0,348.0,Paulo Frontin
+2517.0,347.0,Japaraíba
+3250.0,347.0,Clementina
+3828.0,347.0,Cruzeiro do Sul
+4101.0,346.0,Terra Boa
+4119.0,346.0,Ventania
+4204.0,346.0,Formosa do Sul
+4544.0,346.0,Estrela Velha
+607.0,345.0,Bertolínia
+1938.0,345.0,Lajedão
+3040.0,345.0,Armação dos Búzios
+3504.0,345.0,Palestina
+4446.0,345.0,Cacequi
+1974.0,344.0,Mortugaba
+2049.0,344.0,Santa Brígida
+2211.0,344.0,Bonfinópolis de Minas
+2576.0,344.0,Maria da Fé
+2879.0,344.0,Setubinha
+3319.0,344.0,Guaraci
+4105.0,344.0,Tijucas do Sul
+4492.0,344.0,Chuí
+203.0,343.0,São João de Pirabas
+1942.0,343.0,Lapão
+3987.0,343.0,Pato Bragado
+4048.0,343.0,Santa Cruz de Monte Castelo
+4428.0,343.0,Barros Cassal
+5177.0,343.0,Gouvelândia
+5194.0,343.0,Itaguaru
+1396.0,342.0,Camutanga
+1418.0,342.0,Ferreiros
+3215.0,342.0,Cabrália Paulista
+3609.0,342.0,Saltinho
+4746.0,342.0,Santa Vitória do Palmar
+91.0,341.0,Iracema
+96.0,341.0,São João da Baliza
+1438.0,341.0,Itaíba
+1592.0,341.0,Mata Grande
+3147.0,341.0,Angatuba
+3712.0,341.0,Tremembé
+4.0,340.0,Cerejeiras
+12.0,340.0,Machadinho D'Oeste
+285.0,340.0,Esperantina
+455.0,340.0,Humberto de Campos
+2168.0,340.0,Araújos
+4018.0,340.0,Quatro Barras
+4436.0,340.0,Bom Jesus
+4660.0,340.0,Nova Santa Rita
+342.0,339.0,Pugmil
+1827.0,339.0,Crisópolis
+251.0,338.0,Arapoema
+1304.0,338.0,Santa Cecília
+2954.0,338.0,Virgolândia
+3290.0,338.0,Estrela do Norte
+3869.0,338.0,Guaraci
+2328.0,337.0,Coqueiral
+4836.0,337.0,Tupanciretã
+544.0,336.0,São João Batista
+810.0,336.0,Alto Santo
+2849.0,336.0,São José da Barra
+3425.0,336.0,Lupércio
+3959.0,336.0,Nossa Senhora das Graças
+5085.0,336.0,Abadiânia
+5185.0,336.0,Inaciolândia
+4272.0,335.0,Mondaí
+1475.0,334.0,Paulista
+3695.0,334.0,Tapiraí
+4986.0,334.0,Dom Aquino
+5141.0,334.0,Cezarina
+606.0,333.0,Beneditinos
+2232.0,333.0,Caetanópolis
+3806.0,333.0,Carlópolis
+768.0,332.0,São João da Canabrava
+1204.0,332.0,Congo
+1262.0,332.0,Montadas
+1447.0,332.0,Joaquim Nabuco
+3115.0,332.0,Tanguá
+4049.0,332.0,Santa Fé
+597.0,331.0,Avelino Lopes
+1048.0,330.0,Jucurutu
+1994.0,330.0,Novo Triunfo
+2872.0,330.0,São Tiago
+3714.0,330.0,Tuiuti
+3011.0,329.75,Pancas
+2441.0,329.0,Guarará
+2962.0,329.0,Alfredo Chaves
+3567.0,329.0,Presidente Alves
+5107.0,329.0,Aruanã
+5.0,328.0,Colorado do Oeste
+753.0,328.0,Santa Cruz do Piauí
+1627.0,328.0,São José da Tapera
+1944.0,328.0,Licínio de Almeida
+3165.0,328.0,Ariranha
+4068.0,328.0,São João
+5124.0,328.0,Cachoeira Dourada
+1825.0,327.0,Cotegipe
+4801.0,327.0,Sertão
+4911.0,327.0,Jateí
+729.0,326.0,Parnaguá
+3357.0,326.0,Ipiguá
+3430.0,326.0,Mairinque
+4592.0,326.0,Itaara
+90.0,325.0,Caroebe
+824.0,325.0,Banabuiú
+3867.0,325.0,Guamiranga
+4162.0,325.0,Bom Retiro
+2207.0,324.0,Bom Jesus do Galho
+4269.0,324.0,Matos Costa
+3278.0,323.0,Dumont
+4321.0,323.0,Rio do Oeste
+1618.0,322.0,Porto de Pedras
+2254.0,322.0,Cantagalo
+2258.0,322.0,Capetinga
+2260.0,322.0,Capinópolis
+2885.0,322.0,Senador Modestino Gonçalves
+3171.0,322.0,Avaí
+3208.0,322.0,Braúna
+4249.0,322.0,Jupiá
+179.0,321.0,Primavera
+991.0,321.0,Alexandria
+1031.0,321.0,Governador Dix-Sept Rosado
+1433.0,321.0,Inajá
+2054.0,321.0,Santa Luzia
+2246.0,321.0,Campo do Meio
+2460.0,321.0,Igaratinga
+2940.0,321.0,Varjão de Minas
+3892.0,321.0,Itaipulândia
+4839.0,321.0,Turuçu
+887.0,320.0,Itaiçaba
+4600.0,320.0,Jaboticaba
+319.0,319.0,Nova Rosalândia
+518.0,319.0,Presidente Juscelino
+1872.0,319.0,Ichu
+2598.0,319.0,Mesquita
+2600.0,319.0,Minduri
+4254.0,319.0,Laurentino
+4495.0,319.0,Ciríaco
+637.0,318.0,Cocal
+3252.0,318.0,Colômbia
+4953.0,318.0,Apiacás
+1637.0,317.0,Traipu
+1852.0,316.0,Gongogi
+1609.0,315.0,Passo de Camaragibe
+1615.0,315.0,Piranhas
+358.0,314.0,São Valério
+1007.0,314.0,Caiçara do Rio do Vento
+2442.0,314.0,Guarda-Mor
+3555.0,314.0,Pongaí
+3563.0,314.0,Potirendaba
+1054.0,313.0,Lajes
+4855.0,313.0,Victor Graeff
+159.0,312.0,Mojuí dos Campos
+175.0,312.0,Peixe-Boi
+336.0,312.0,Ponte Alta do Bom Jesus
+4879.0,312.0,Bela Vista
+4169.0,311.0,Calmon
+4456.0,311.0,Campina das Missões
+113.0,310.0,Belterra
+598.0,310.0,Baixa Grande do Ribeiro
+1279.0,310.0,Pedras de Fogo
+3894.0,310.0,Itambé
+817.0,309.0,Ararendá
+1748.0,309.0,Barra do Choça
+1918.0,309.0,Jaborandi
+3225.0,309.0,Cajobi
+3308.0,309.0,Gavião Peixoto
+3770.0,309.0,Barbosa Ferraz
+4973.0,309.0,Chapada dos Guimarães
+1038.0,308.0,Itaú
+2374.0,308.0,Dom Silvério
+2732.0,308.0,Prados
+3311.0,308.0,Glicério
+3336.0,308.0,Iaras
+2746.0,307.0,Recreio
+3061.0,307.0,Guapimirim
+219.0,306.0,Viseu
+2463.0,306.0,Ilicínea
+2770.0,306.0,Romaria
+3312.0,306.0,Guaiçara
+4512.0,306.0,David Canabarro
+4805.0,306.0,Sinimbu
+3110.0,305.0,Sapucaia
+161.0,304.0,Nova Esperança do Piriá
+1620.0,304.0,Quebrangulo
+4154.0,304.0,Benedito Novo
+4578.0,304.0,Ibiaçá
+1902.0,303.0,Itanhém
+4757.0,303.0,São Domingos do Sul
+245.0,302.0,Aragominas
+751.0,302.0,Ribeiro Gonçalves
+840.0,302.0,Caririaçu
+1440.0,302.0,Itapetim
+2330.0,302.0,Cordisburgo
+4441.0,302.0,Bossoroca
+273.0,301.0,Chapada da Natividade
+663.0,301.0,Francinópolis
+2010.0,301.0,Pilão Arcado
+2646.0,301.0,Olhos-d'Água
+3058.0,301.0,Duas Barras
+4498.0,301.0,Constantina
+4862.0,301.0,Vista Gaúcha
+5128.0,301.0,Campestre de Goiás
+1032.0,300.0,Grossos
+3686.0,300.0,Tabapuã
+5170.0,300.0,Goianápolis
+5284.0,300.0,Santa Rosa de Goiás
+376.0,298.0,Altamira do Maranhão
+928.0,298.0,Orós
+1892.0,298.0,Itagi
+2935.0,298.0,Urucânia
+1823.0,297.0,Coronel João Sá
+2317.0,297.0,Conceição dos Ouros
+3016.0,297.0,Presidente Kennedy
+3513.0,297.0,Paranapuã
+3654.0,297.0,São José do Barreiro
+4780.0,297.0,São Paulo das Missões
+705.0,296.0,Matias Olímpio
+823.0,296.0,Baixio
+1141.0,296.0,Vera Cruz
+2981.0,296.0,Dores do Rio Preto
+4576.0,296.0,Humaitá
+243.0,295.0,Angico
+2159.0,295.0,Antônio Prado de Minas
+2490.0,295.0,Itamogi
+2495.0,295.0,Itapagipe
+1630.0,294.0,São Miguel dos Milagres
+2527.0,294.0,Joanésia
+2712.0,294.0,Piranguçu
+2820.0,294.0,São Bento Abade
+2991.0,294.0,Irupi
+3097.0,294.0,Rio das Flores
+3679.0,294.0,Silveiras
+2448.0,292.0,Heliodora
+5104.0,292.0,Aragoiânia
+288.0,291.0,Filadélfia
+897.0,291.0,Jaguaruana
+1096.0,291.0,Riacho da Cruz
+3878.0,291.0,Icaraíma
+48.0,290.0,Vale do Anari
+573.0,289.0,Tutóia
+4045.0,289.0,Salto do Lontra
+232.0,288.0,Porto Grande
+2859.0,288.0,São Miguel do Anta
+3033.0,288.0,Vila Valério
+3274.0,288.0,Dolcinópolis
+313.0,287.0,Monte Santo do Tocantins
+3975.0,287.0,Ourizona
+4073.0,287.0,São Jorge do Ivaí
+4375.0,287.0,Turvo
+5264.0,287.0,Pontalina
+180.0,286.0,Quatipuru
+1137.0,286.0,Umarizal
+1736.0,286.0,Apuarema
+2380.0,286.0,Dores do Turvo
+3783.0,286.0,Borrazópolis
+3958.0,286.0,Munhoz de Melo
+5039.0,286.0,Porto dos Gaúchos
+85.0,285.0,Alto Alegre
+512.0,285.0,Pio XII
+1178.0,285.0,Borborema
+2624.0,285.0,Mutum
+4442.0,285.0,Bozano
+5246.0,285.0,Ouro Verde de Goiás
+786.0,284.5,Sebastião Leal
+323.0,284.0,Oliveira de Fátima
+2149.0,284.0,Alto Rio Doce
+4146.0,284.0,Atalanta
+75.0,283.0,Manacapuru
+3179.0,283.0,Bariri
+1006.0,282.0,Caiçara do Norte
+2106.0,282.0,Uauá
+2950.0,282.0,Mathias Lobato
+315.0,281.0,Muricilândia
+3707.0,281.0,Terra Roxa
+4775.0,281.0,São Marcos
+5163.0,281.0,Fazenda Nova
+64.0,280.0,Xapuri
+71.0,280.0,Iranduba
+1075.0,280.0,Parazinho
+1083.0,280.0,Pedra Grande
+1340.0,280.0,Serraria
+1718.0,280.0,Água Fria
+1758.0,280.0,Boa Nova
+2951.0,280.0,Virgem da Lapa
+3361.0,280.0,Irapuã
+3378.0,280.0,Itapura
+3428.0,280.0,Macaubal
+3659.0,280.0,São Luiz do Paraitinga
+3809.0,280.0,Catanduvas
+4042.0,280.0,Sabáudia
+4110.0,280.0,Tuneiras do Oeste
+1830.0,279.0,Curaçá
+4304.0,279.0,Planalto Alegre
+4423.0,279.0,Barracão
+5252.0,279.0,Palminópolis
+2963.0,278.5,Alto Rio Novo
+46.0,278.0,Theobroma
+2250.0,278.0,Canaã
+3249.0,278.0,Charqueada
+1730.0,277.0,Angical
+2072.0,277.0,São José do Jacuípe
+2160.0,277.0,Araçaí
+3377.0,276.0,Itapuí
+4727.0,276.0,Roque Gonzales
+1026.0,275.0,Florânia
+1261.0,275.0,Mogeiro
+4034.0,275.0,Rio Bonito do Iguaçu
+4603.0,275.0,Jaguarão
+2831.0,274.0,São Gonçalo do Pará
+1286.0,273.0,Pitimbu
+94.0,272.0,Pacaraima
+257.0,272.0,Bandeirantes do Tocantins
+307.0,272.0,Marianópolis do Tocantins
+1870.0,272.0,Ibititá
+2619.0,272.0,Morada Nova de Minas
+3843.0,272.0,Espigão Alto do Iguaçu
+4326.0,272.0,Riqueza
+4798.0,272.0,Sentinela do Sul
+4847.0,272.0,Vanini
+2789.0,271.0,Santa Margarida
+4975.0,271.0,Cocalinho
+1779.0,270.0,Cafarnaum
+1935.0,270.0,Lafaiete Coutinho
+2502.0,270.0,Itinga
+4055.0,270.0,Santa Maria do Oeste
+4845.0,270.0,Vale do Sol
+5263.0,270.0,Planaltina
+2313.0,269.0,Conceição de Ipanema
+2042.0,268.0,Rio do Pires
+4394.0,268.0,Alecrim
+4702.0,268.0,Porto Lucena
+5248.0,268.0,Padre Bernardo
+776.0,266.0,São José do Piauí
+1675.0,266.0,Malhador
+2200.0,266.0,Biquinhas
+2659.0,266.0,Paineiras
+3920.0,266.0,Leópolis
+4001.0,266.0,Pitangueiras
+2358.0,265.0,Delta
+2406.0,265.0,Ferros
+3233.0,265.0,Canas
+4287.0,265.0,Palma Sola
+4480.0,265.0,Catuípe
+236.0,264.0,Vitória do Jari
+946.0,264.0,Poranga
+1430.0,264.0,Ibirajuba
+3550.0,264.0,Planalto
+3741.0,264.0,Zacarias
+4129.0,264.0,Agrolândia
+4149.0,264.0,Balneário Barra do Sul
+4596.0,264.0,Itati
+194.0,263.0,Santarém Novo
+759.0,263.0,Santo Antônio de Lisboa
+1078.0,263.0,Passa e Fica
+1979.0,263.0,Muniz Ferreira
+5122.0,263.0,Cachoeira Alta
+3452.0,262.0,Mirassolândia
+4108.0,262.0,Três Barras do Paraná
+4240.0,262.0,Itapoá
+4379.0,262.0,Vargeão
+4703.0,262.0,Porto Mauá
+19.0,261.0,Santa Luzia D'Oeste
+247.0,261.0,Araguaçu
+395.0,261.0,Barão de Grajaú
+1717.0,261.0,Adustina
+4769.0,261.0,São José do Ouro
+5235.0,261.0,Nova América
+2341.0,260.0,Córrego Fundo
+4688.0,260.0,Pinhal
+1265.0,259.0,Mulungu
+2491.0,259.0,Itamonte
+2810.0,259.0,Santa Vitória
+2874.0,259.0,São Thomé das Letras
+3501.0,259.0,Ouroeste
+3688.0,259.0,Taboão da Serra
+4074.0,259.0,São Jorge do Patrocínio
+4132.0,259.0,Águas de Chapecó
+4138.0,259.0,Anita Garibaldi
+4286.0,259.0,Palhoça
+4952.0,259.0,Alto Taquari
+5055.0,259.0,São Pedro da Cipa
+295.0,258.0,Itacajá
+958.0,258.0,Saboeiro
+1800.0,258.0,Cardeal da Silva
+2756.0,258.0,Rio Doce
+3774.0,258.0,Bela Vista do Paraíso
+4088.0,258.0,Saudade do Iguaçu
+5027.0,258.0,Novo Horizonte do Norte
+322.0,257.0,Novo Jardim
+1864.0,257.0,Ibipitanga
+2087.0,257.0,Serrolândia
+4370.0,257.0,Três Barras
+448.0,256.0,Governador Eugênio Barros
+1515.0,256.0,Moreilândia
+4171.0,256.0,Capão Alto
+4173.0,256.0,Campo Belo do Sul
+4183.0,256.0,Cerro Negro
+4318.0,256.0,Rancho Queimado
+4724.0,256.0,Rolante
+3329.0,255.0,Guatapará
+72.0,254.0,Itacoatiara
+235.0,254.0,Tartarugalzinho
+3594.0,254.0,Rifaina
+1214.0,253.0,Damião
+2312.0,253.0,Conceição das Alagoas
+2902.0,253.0,Sobrália
+1119.0,252.0,São Vicente
+1458.0,252.0,Macaparana
+1729.0,252.0,Andorinha
+2356.0,252.0,Delfim Moreira
+2509.0,252.0,Jacinto
+3653.0,252.0,São José da Bela Vista
+4098.0,252.0,Tapira
+5015.0,252.0,Nossa Senhora do Livramento
+5035.0,252.0,Poconé
+348.0,251.0,Santa Fé do Araguaia
+779.0,251.0,São Luis do Piauí
+1310.0,251.0,Santana dos Garrotes
+2826.0,251.0,São Francisco de Sales
+3149.0,251.0,Anhumas
+3588.0,251.0,Ribeirão do Sul
+563.0,250.0,Sítio Novo
+3136.0,250.0,Alumínio
+4983.0,250.0,Curvelândia
+5134.0,250.0,Campos Verdes
+5217.0,250.0,Maurilândia
+1559.0,249.0,Coité do Nóia
+2848.0,249.0,São Joaquim de Bicas
+4381.0,249.0,Vargem Bonita
+4880.0,249.0,Bodoquena
+5247.0,249.0,Ouvidor
+622.0,248.0,Caldeirão Grande do Piauí
+2076.0,248.0,Sátiro Dias
+2164.0,248.0,Arantina
+3677.0,248.0,Sete Barras
+4208.0,248.0,Galvão
+771.0,247.0,São João da Varjota
+4682.0,247.0,Paverama
+803.0,246.0,Abaiara
+2738.0,246.0,Presidente Kubitschek
+670.0,245.0,Guadalupe
+743.0,245.0,Porto
+885.0,245.0,Iracema
+1795.0,245.0,Canudos
+3088.0,245.0,Pinheiral
+3805.0,245.0,Carambeí
+2300.0,244.0,Chapada Gaúcha
+2436.0,244.0,Guapé
+4486.0,244.0,Cerro Grande do Sul
+1976.0,243.0,Mucuri
+3073.0,243.0,Magé
+3689.0,243.0,Taciba
+4627.0,243.0,Mariana Pimentel
+4698.0,243.0,Pontão
+528.0,242.0,Santa Helena
+1220.0,242.0,Emas
+2508.0,242.0,Jaboticatubas
+2581.0,242.0,Marliéria
+2778.0,242.0,Salto da Divisa
+4493.0,242.0,Chuvisca
+1022.0,241.0,Equador
+3457.0,241.0,Mombuca
+1105.0,240.0,São Bento do Norte
+1998.0,240.0,Ourolândia
+2165.0,240.0,Araponga
+2748.0,240.0,Resende Costa
+5030.0,240.0,Paranatinga
+5206.0,240.0,Jaupaci
+1392.0,239.0,Calçado
+2652.0,239.0,Orizânia
+321.0,238.0,Novo Alegre
+444.0,238.0,Godofredo Viana
+477.0,238.0,Luís Domingues
+3305.0,238.0,Gália
+3441.0,238.0,Mauá
+1061.0,237.0,Marcelino Vieira
+1899.0,237.0,Itamari
+1977.0,237.0,Mulungu do Morro
+2068.0,237.0,São Francisco do Conde
+2694.0,237.0,Pequeri
+4028.0,237.0,Reserva
+5236.0,237.0,Nova Aurora
+5296.0,237.0,São Miguel do Araguaia
+2523.0,236.0,Jequitibá
+3697.0,236.0,Taquaral
+3980.0,236.0,Palmital
+1108.0,235.0,São Francisco do Oeste
+1799.0,235.0,Caravelas
+2151.0,235.0,Alvinópolis
+3467.0,235.0,Morro Agudo
+4754.0,235.0,Santo Cristo
+1047.0,234.0,José da Penha
+1610.0,234.0,Paulo Jacinto
+2339.0,234.0,Córrego Danta
+4424.0,234.0,Barra do Guarita
+1364.0,233.0,Alagoinha
+2765.0,233.0,Rio Preto
+2944.0,233.0,Veredinha
+3107.0,233.0,São José do Vale do Rio Preto
+3512.0,233.0,Paranapanema
+4312.0,233.0,Praia Grande
+4348.0,233.0,São João do Sul
+1687.0,232.0,Pedra Mole
+3413.0,232.0,Lavrinhas
+5231.0,232.0,Mutunópolis
+196.0,231.0,São Caetano de Odivelas
+619.0,231.0,Cabeceiras do Piauí
+961.0,231.0,Santana do Cariri
+1125.0,231.0,Serrinha
+1352.0,231.0,Triunfo
+1908.0,231.0,Itapitanga
+3580.0,231.0,Redenção da Serra
+265.0,230.0,Cachoeirinha
+500.0,230.0,Parnarama
+586.0,230.0,Alto Longá
+1616.0,230.0,Poço das Trincheiras
+2283.0,230.0,Carvalhópolis
+2444.0,230.0,Guidoval
+2512.0,230.0,Jaguaraçu
+2702.0,230.0,Piedade de Caratinga
+3393.0,230.0,Jaci
+4449.0,230.0,Cacique Doble
+4514.0,230.0,Dezesseis de Novembro
+2471.0,229.0,Inimutaba
+2886.0,229.0,Senhora de Oliveira
+2972.0,229.0,Brejetuba
+3229.0,229.0,Campo Limpo Paulista
+4260.0,229.0,Luzerna
+4733.0,229.0,Salvador do Sul
+317.0,228.0,Nazaré
+1624.0,228.0,Santana do Mundaú
+1768.0,228.0,Brotas de Macaúbas
+2389.0,228.0,Esmeraldas
+2800.0,228.0,Santana do Paraíso
+2822.0,228.0,São Domingos das Dores
+2867.0,228.0,São Sebastião do Anta
+4864.0,228.0,Westfália
+1589.0,227.0,Marechal Deodoro
+1305.0,226.0,Santa Cruz
+1319.0,226.0,São Francisco
+1322.0,226.0,São José da Lagoa Tapada
+2244.0,226.0,Campina Verde
+5032.0,226.0,Pedra Preta
+410.0,225.0,Buriti Bravo
+4778.0,225.0,São Miguel das Missões
+3190.0,224.0,Bento de Abreu
+3473.0,224.0,Natividade da Serra
+4704.0,224.0,Porto Vera Cruz
+5292.0,224.0,São João d'Aliança
+1863.0,223.0,Ibipeba
+2493.0,223.0,Itanhomi
+2766.0,223.0,Rio Vermelho
+4122.0,223.0,Alto Paraíso
+4729.0,223.0,Sagrada Família
+4795.0,223.0,Segredo
+5234.0,223.0,Niquelândia
+404.0,222.0,Bom Jardim
+504.0,222.0,Paulo Ramos
+793.0,222.0,Tanque do Piauí
+2180.0,222.0,Baldim
+2567.0,222.0,Madre de Deus de Minas
+3227.0,222.0,Campina do Monte Alegre
+3895.0,222.0,Itapejara d'Oeste
+3649.0,221.0,São Francisco
+3685.0,221.0,Suzanápolis
+4320.0,221.0,Rio do Campo
+4359.0,221.0,Seara
+4882.0,221.0,Brasilândia
+808.0,220.0,Alcântaras
+1999.0,220.0,Palmas de Monte Alto
+2103.0,220.0,Terra Nova
+2550.0,220.0,Lamim
+3398.0,220.0,Jarinu
+3908.0,220.0,Japurá
+4085.0,220.0,São Tomé
+4496.0,220.0,Colinas
+944.0,219.0,Piquet Carneiro
+2454.0,219.0,Ibiraci
+3626.0,219.0,Santa Lúcia
+4668.0,219.0,Paim Filho
+5101.0,219.0,Aparecida do Rio Doce
+0.0,218.0,Alta Floresta D'Oeste
+799.0,218.0,Várzea Grande
+1409.0,218.0,Correntes
+3490.0,218.0,Ocauçu
+4589.0,218.0,Ipê
+9.0,217.5,Guajará-Mirim
+4632.0,217.25,Maximiliano de Almeida
+2111.0,217.0,Umburanas
+2630.0,217.0,Natércia
+3566.0,217.0,Pratânia
+3578.0,217.0,Rafard
+3989.0,217.0,Paula Freitas
+4331.0,217.0,Sangão
+5060.0,217.0,Salto do Céu
+609.0,216.0,Boa Hora
+4520.0,216.0,Dom Pedro de Alcântara
+4771.0,216.0,São José dos Ausentes
+1492.0,215.0,Saloá
+2085.0,215.0,Serra Preta
+3401.0,215.0,Joanópolis
+1471.0,214.0,Paranatama
+4568.0,214.0,Guabiju
+4781.0,214.0,São Pedro da Serra
+337.0,213.0,Ponte Alta do Tocantins
+737.0,213.0,Nova Santa Rita
+1448.0,213.0,Jucati
+4275.0,213.0,Morro da Fumaça
+503.0,212.0,Paulino Neves
+1524.0,212.0,Terra Nova
+2046.0,212.0,Salinas da Margarida
+2098.0,212.0,Tapiramutá
+2118.0,212.0,Várzea da Roça
+3719.0,212.0,Ubarana
+4764.0,212.0,São Jorge
+4788.0,212.0,São Valentim do Sul
+405.0,211.0,Bom Jesus das Selvas
+551.0,211.0,São Luís Gonzaga do Maranhão
+51.0,210.0,Assis Brasil
+560.0,210.0,Senador Alexandre Costa
+1060.0,210.0,Major Sales
+1269.0,210.0,Nova Olinda
+2467.0,210.0,Indianópolis
+2758.0,210.0,Rio Espera
+5136.0,210.0,Castelândia
+1098.0,209.0,Riachuelo
+1252.0,209.0,Manaíra
+3264.0,209.0,Cruzália
+1723.0,208.0,Almadina
+1790.0,208.0,Candeal
+3325.0,208.0,Guareí
+4415.0,208.0,Arroio Grande
+312.0,207.0,Monte do Carmo
+1500.0,207.0,Santa Terezinha
+2219.0,207.0,Braúnas
+2795.0,207.0,Santana de Pirapama
+2825.0,207.0,São Francisco de Paula
+3506.0,207.0,Palmeira d'Oeste
+490.0,206.0,Montes Altos
+718.0,206.0,Nossa Senhora dos Remédios
+954.0,206.0,Quixeré
+1191.0,206.0,Caldas Brandão
+3670.0,206.0,Sarapuí
+1162.0,205.0,Baía da Traição
+2405.0,205.0,Fernandes Tourinho
+685.0,204.0,Joaquim Pires
+703.0,204.0,Marcos Parente
+1282.0,204.0,Pilar
+1071.0,203.0,Olho d'Água do Borges
+1181.0,203.0,Caaporã
+1595.0,203.0,Minador do Negrão
+2195.0,203.0,Bertópolis
+2839.0,203.0,São João das Missões
+3240.0,203.0,Cardoso
+3972.0,203.0,Nova Tebas
+4281.0,203.0,Novo Horizonte
+4554.0,203.0,Formigueiro
+5253.0,203.0,Panamá
+151.0,202.0,Magalhães Barata
+1325.0,202.0,São José dos Ramos
+4905.0,202.0,Itaporã
+5082.0,202.0,Nova Maringá
+942.0,201.0,Pereiro
+1081.0,201.0,Santa Maria
+2158.0,201.0,Antônio Dias
+3615.0,201.0,Santa Albertina
+4200.0,201.0,Ermo
+2554.0,200.0,Leandro Ferreira
+3004.0,200.0,Marilândia
+3356.0,200.0,Ipeúna
+758.0,199.0,Santa Rosa do Piauí
+2037.0,199.0,Ribeira do Amparo
+4936.0,199.0,Sete Quedas
+5255.0,199.0,Paraúna
+3017.0,198.0,Rio Bananal
+3390.0,197.0,Jaborandi
+4270.0,197.0,Meleiro
+224.0,196.0,Calçoene
+246.0,196.0,Araguacema
+289.0,196.0,Formoso do Araguaia
+1324.0,196.0,São José de Espinharas
+2231.0,196.0,Cachoeira Dourada
+2255.0,196.0,Caparaó
+2450.0,196.0,Ibertioga
+2660.0,196.0,Pains
+2843.0,196.0,São João do Oriente
+3692.0,196.0,Taiúva
+5006.0,196.0,Lambari D'Oeste
+894.0,195.0,Jaguaretama
+1773.0,195.0,Cabaceiras do Paraguaçu
+4779.0,195.0,São Nicolau
+5202.0,195.0,Ivolândia
+546.0,194.0,São João do Soter
+1109.0,194.0,São Gonçalo do Amarante
+1182.0,194.0,Cabaceiras
+4198.0,194.0,Doutor Pedrinho
+4271.0,194.0,Modelo
+1808.0,193.0,Chorrochó
+4294.0,193.0,Paulo Lopes
+4783.0,193.0,São Pedro do Butiá
+5306.0,193.0,Três Ranchos
+652.0,192.0,Dirceu Arcoverde
+1327.0,192.0,São José de Princesa
+1633.0,192.0,Senador Rui Palmeira
+1780.0,192.0,Cairu
+2989.0,192.0,Ibitirama
+4099.0,192.0,Teixeira Soares
+4610.0,192.0,Lagoão
+296.0,191.0,Itaguatins
+1555.0,191.0,Canapi
+2234.0,191.0,Caiana
+2542.0,191.0,Lagamar
+3203.0,191.0,Boracéia
+4770.0,191.0,São José do Sul
+5072.0,191.0,Tapurah
+263.0,189.0,Brejinho de Nazaré
+299.0,189.0,Jaú do Tocantins
+335.0,189.0,Pium
+338.0,189.0,Porto Alegre do Tocantins
+993.0,189.0,Alto do Rodrigues
+1035.0,189.0,Ipanguaçu
+1087.0,189.0,Pendências
+4579.0,189.0,Ibiraiaras
+5049.0,189.0,Rio Branco
+1766.0,188.0,Brejões
+2802.0,188.0,Santana dos Montes
+3091.0,188.0,Porto Real
+3472.0,188.0,Narandiba
+3479.0,188.0,Nova Campina
+3557.0,188.0,Pontalinda
+4102.0,188.0,Terra Rica
+1197.0,187.0,Casserengue
+1948.0,187.0,Macarani
+5227.0,187.0,Morro Agudo de Goiás
+466.0,186.0,Joselândia
+1358.0,186.0,Abreu e Lima
+2446.0,186.0,Guiricema
+2708.0,186.0,Pintópolis
+2835.0,186.0,São João Batista do Glória
+3745.0,186.0,Agudos do Sul
+4111.0,186.0,Tupãssi
+4232.0,186.0,Irani
+198.0,185.0,São Domingos do Capim
+283.0,185.0,Dois Irmãos do Tocantins
+344.0,185.0,Riachinho
+1950.0,185.0,Macururé
+2563.0,185.0,Luminárias
+3690.0,185.0,Taguaí
+1021.0,184.0,Encanto
+3897.0,184.0,Ivaí
+270.0,183.0,Caseara
+301.0,183.0,Lagoa da Confusão
+1253.0,183.0,Marcação
+4566.0,183.0,Gramado Xavier
+304.0,182.0,Lavandeira
+426.0,182.0,Centro Novo do Maranhão
+626.0,182.0,Campo Largo do Piauí
+716.0,182.0,Nazária
+2804.0,182.0,Santa Rita de Jacutinga
+2967.0,182.0,Atílio Vivacqua
+3145.0,182.0,Analândia
+5108.0,182.0,Aurilândia
+5123.0,182.0,Cachoeira de Goiás
+5320.0,182.0,Vila Propício
+2893.0,181.0,Serra do Salitre
+3063.0,181.0,Itaboraí
+4607.0,181.0,Jóia
+37.0,180.0,Mirante da Serra
+153.0,180.0,Maracanã
+2361.0,180.0,Desterro do Melo
+2984.0,180.0,Governador Lindenberg
+3464.0,180.0,Monte Castelo
+3973.0,180.0,Novo Itacolomi
+4182.0,180.0,Celso Ramos
+2707.0,179.0,Pingo d'Água
+4185.0,179.0,Cocal do Sul
+4931.0,179.0,Rio Negro
+2891.0,178.0,Serra Azul de Minas
+2906.0,178.0,Taparuba
+3848.0,178.0,Fernandes Pinheiro
+4104.0,178.0,Tibagi
+4615.0,178.0,Lavras do Sul
+4655.0,178.0,Nova Pádua
+4768.0,178.0,São José do Norte
+5244.0,178.0,Novo Planalto
+1357.0,177.0,Zabelê
+1755.0,177.0,Belmonte
+238.0,176.0,Aguiarnópolis
+392.0,176.0,Bacuri
+723.0,176.0,Padre Marcos
+1277.0,176.0,Pedra Branca
+1434.0,176.0,Ingazeira
+1715.0,176.0,Abaré
+2521.0,176.0,Jequeri
+3477.0,176.0,Nipoã
+4277.0,176.0,Navegantes
+5131.0,176.0,Campo Alegre de Goiás
+237.0,175.0,Abreulândia
+1323.0,175.0,São José de Caiana
+3221.0,175.0,Caiabu
+3352.0,175.0,Indiaporã
+3448.0,175.0,Mira Estrela
+4762.0,175.0,São João da Urtiga
+5160.0,175.0,Edéia
+2331.0,174.0,Cordislândia
+2786.0,174.0,Santa Helena de Minas
+3397.0,174.0,Jambeiro
+3438.0,173.0,Marinópolis
+5135.0,173.0,Carmo do Rio Verde
+314.0,172.0,Palmeiras do Tocantins
+1557.0,172.0,Carneiros
+3743.0,172.0,Abatiá
+4137.0,172.0,Anchieta
+5142.0,172.0,Chapadão do Céu
+2363.0,171.0,Dionísio
+2468.0,171.0,Ingaí
+2796.0,171.0,Santana do Deserto
+2900.0,171.0,Simão Pereira
+3523.0,171.0,Pedra Bela
+3691.0,171.0,Taiaçu
+4664.0,171.0,Novo Tiradentes
+87.0,170.0,Bonfim
+1821.0,170.0,Cordeiros
+1869.0,170.0,Ibitiara
+4684.0,170.0,Pedro Osório
+780.0,169.0,São Miguel da Baixa Grande
+3998.0,169.0,Pinhão
+4022.0,169.0,Quinta do Sol
+4508.0,169.0,Cristal do Sul
+760.0,168.0,Santo Antônio dos Milagres
+1053.0,168.0,Lagoa Salgada
+1951.0,168.0,Madre de Deus
+2222.0,168.0,Bueno Brandão
+3133.0,168.0,Altair
+3214.0,168.0,Buritizal
+4577.0,168.0,Ibarama
+746.0,167.0,Queimada Nova
+1112.0,167.0,São José do Campestre
+1761.0,167.0,Bom Jesus da Serra
+1961.0,167.0,Maraú
+2091.0,167.0,Sobradinho
+2814.0,167.0,Santo Antônio do Itambé
+3800.0,167.0,Cândido de Abreu
+1331.0,166.0,São Miguel de Taipu
+1895.0,166.0,Itaguaçu da Bahia
+2586.0,166.0,Materlândia
+4322.0,166.0,Rio dos Cedros
+38.0,165.0,Monte Negro
+1333.0,165.0,São Sebastião do Umbuzeiro
+1604.0,165.0,Palestina
+2526.0,165.0,Joaíma
+2868.0,165.0,São Sebastião do Oeste
+47.0,164.0,Urupá
+595.0,164.0,Arraial
+1990.0,164.0,Nova Redenção
+3359.0,164.0,Ipuã
+5117.0,164.0,Brazabrantes
+39.0,163.0,Nova União
+445.0,163.0,Gonçalves Dias
+3151.0,163.0,Aparecida d'Oeste
+4222.0,163.0,Imaruí
+4599.0,163.0,Ivoti
+777.0,162.0,São Julião
+2373.0,162.0,Dom Joaquim
+2827.0,162.0,São Francisco do Glória
+3515.0,162.0,Pardinho
+3658.0,162.0,São Lourenço da Serra
+3664.0,162.0,São Pedro do Turvo
+3819.0,162.0,Conselheiro Mairinck
+4179.0,162.0,Capivari de Baixo
+4720.0,162.0,Riozinho
+5119.0,162.0,Buriti Alegre
+143.0,161.0,Inhangapi
+278.0,161.0,Cristalândia
+995.0,161.0,Antônio Martins
+2773.0,161.0,Rubim
+3491.0,161.0,Óleo
+4928.0,161.0,Porto Murtinho
+4937.0,161.0,Selvíria
+5159.0,161.0,Edealina
+1428.0,160.0,Iati
+1622.0,160.0,Roteiro
+2167.0,160.0,Arapuá
+3436.0,160.0,Mariápolis
+3627.0,160.0,Santa Maria da Serra
+3971.0,160.0,Nova Prata do Iguaçu
+4933.0,160.0,Rochedo
+5203.0,160.0,Jandaia
+996.0,159.0,Apodi
+1962.0,159.0,Marcionílio Souza
+1185.0,158.0,Cacimba de Areia
+2006.0,158.0,Pé de Serra
+3868.0,158.0,Guapirama
+4448.0,158.0,Cachoeirinha
+4890.0,158.0,Coronel Sapucaia
+1056.0,157.0,Lucrécia
+1159.0,157.0,Areial
+3775.0,157.0,Bituruna
+4485.0,157.0,Cerro Grande
+1115.0,156.0,São Miguel do Gostoso
+1743.0,156.0,Baianópolis
+3410.0,156.0,Lagoinha
+4062.0,156.0,Santo Antônio do Caiuá
+4212.0,156.0,Grão Pará
+3631.0,155.0,Santa Rita d'Oeste
+3754.0,155.0,Ângulo
+3761.0,155.0,Araruna
+4368.0,155.0,Timbé do Sul
+5311.0,155.0,Uirapuru
+22.0,154.0,Nova Mamoré
+221.0,154.0,Serra do Navio
+231.0,154.0,Oiapoque
+408.0,154.0,Brejo de Areia
+1460.0,154.0,Manari
+1497.0,154.0,Santa Filomena
+1552.0,154.0,Campestre
+1754.0,154.0,Barro Preto
+2360.0,154.0,Desterro de Entre Rios
+3120.0,154.0,Varre-Sai
+4616.0,154.0,Liberato Salzano
+1558.0,153.0,Chã Preta
+1596.0,153.0,Monteirópolis
+2943.0,153.0,Vazante
+4244.0,153.0,Jaguaruna
+5075.0,153.0,Torixoréu
+449.0,152.0,Governador Luiz Rocha
+562.0,152.0,Serrano do Maranhão
+614.0,152.0,Boqueirão do Piauí
+697.0,152.0,Landri Sales
+710.0,152.0,Monsenhor Hipólito
+997.0,152.0,Areia Branca
+1792.0,152.0,Candiba
+1958.0,152.0,Mansidão
+2456.0,152.0,Ibitiúra de Minas
+2673.0,152.0,Passa Tempo
+3483.0,152.0,Nova Guataporanga
+3485.0,152.0,Novais
+3629.0,152.0,Santana da Ponte Pensa
+3651.0,152.0,São João do Pau d'Alho
+800.0,151.0,Vera Mendes
+1028.0,151.0,Frutuoso Gomes
+1896.0,151.0,Itaju do Colônia
+2353.0,151.0,Curral de Dentro
+436.0,150.0,Duque Bacelar
+442.0,150.0,Fortaleza dos Nogueiras
+700.0,150.0,Madeiro
+4555.0,150.0,Forquetinha
+501.0,149.0,Passagem Franca
+992.0,149.0,Almino Afonso
+1306.0,149.0,Santa Helena
+1480.0,149.0,Poção
+1661.0,149.0,General Maynard
+1826.0,149.0,Cravolândia
+1993.0,149.0,Novo Horizonte
+2378.0,149.0,Dores de Guanhães
+2873.0,149.0,São Tomás de Aquino
+4069.0,149.0,São João do Caiuá
+4250.0,149.0,Lacerdópolis
+4641.0,149.0,Morro Redondo
+1385.0,148.0,Brejo da Madre de Deus
+1571.0,148.0,Ibateguara
+1601.0,148.0,Olho d'Água Grande
+1719.0,148.0,Érico Cardoso
+4071.0,148.0,São João do Triunfo
+4586.0,148.0,Imigrante
+4923.0,148.0,Paraíso das Águas
+5184.0,148.0,Iaciara
+334.0,147.0,Piraquê
+380.0,147.0,Amapá do Maranhão
+1000.0,147.0,Baía Formosa
+1079.0,147.0,Passagem
+2297.0,147.0,Chácara
+3469.0,147.0,Motuca
+3489.0,147.0,Nuporanga
+3718.0,147.0,Turmalina
+5081.0,147.0,Nova Marilândia
+5182.0,147.0,Hidrolândia
+45.0,146.0,Teixeirópolis
+2894.0,146.0,Serrania
+222.0,145.0,Amapá
+470.0,145.0,Lago Verde
+693.0,145.0,Lagoa do Barro do Piauí
+857.0,145.0,Ererê
+1226.0,145.0,Gurinhém
+1462.0,145.0,Mirandiba
+3713.0,145.0,Três Fronteiras
+467.0,144.0,Junco do Maranhão
+769.0,144.0,São João da Fronteira
+2161.0,144.0,Aracitaba
+2649.0,144.0,Oliveira Fortes
+4224.0,144.0,Imbuia
+4626.0,144.0,Marcelino Ramos
+364.0,143.0,Talismã
+1040.0,143.0,Jandaíra
+1342.0,143.0,Sobrado
+1861.0,143.0,Ibicoara
+3205.0,143.0,Borebi
+4427.0,143.0,Barra Funda
+4872.0,143.0,Antônio João
+26.0,142.0,Buritis
+4417.0,142.0,Augusto Pestana
+4695.0,142.0,Piratini
+772.0,141.0,São João do Arraial
+2004.0,141.0,Pau Brasil
+2069.0,141.0,São Gabriel
+2865.0,141.0,São Sebastião da Bela Vista
+58.0,140.0,Plácido de Castro
+624.0,140.0,Campo Alegre do Fidalgo
+727.0,140.0,Palmeirais
+1703.0,140.0,Santo Amaro das Brotas
+1772.0,140.0,Caatiba
+2817.0,140.0,Santo Antônio do Rio Abaixo
+3135.0,140.0,Alto Alegre
+3283.0,140.0,Embaúba
+3672.0,140.0,Sebastianópolis do Sul
+3723.0,140.0,União Paulista
+4075.0,140.0,São José da Boa Vista
+4165.0,140.0,Brunópolis
+4309.0,140.0,Porto Belo
+4852.0,140.0,Viadutos
+745.0,138.0,Prata do Piauí
+1955.0,138.0,Malhada
+2484.0,138.0,Itaipé
+2952.0,138.0,Virgínia
+3526.0,138.0,Pedrinhas Paulista
+4631.0,138.0,Mato Leitão
+4889.0,138.0,Corguinho
+8.0,137.0,Espigão D'Oeste
+844.0,137.0,Catarina
+2538.0,137.0,Juramento
+138.0,136.75,Floresta do Araguaia
+386.0,136.0,Araioses
+915.0,136.0,Miraíma
+1095.0,136.0,Rafael Godeiro
+1883.0,136.0,Iramaia
+2426.0,136.0,Glaucilândia
+2871.0,136.0,São Sebastião do Rio Verde
+1177.0,135.0,Igaracy
+2420.0,135.0,Fronteira dos Vales
+3288.0,135.0,Espírito Santo do Turvo
+3520.0,135.0,Paulistânia
+3586.0,135.0,Ribeirão Branco
+3605.0,135.0,Sales
+4637.0,135.0,Monte Belo do Sul
+1901.0,134.0,Itanagra
+2999.0,134.0,Laranja da Terra
+4335.0,134.0,Santa Terezinha
+4450.0,134.0,Caibaté
+260.0,133.0,Bernardo Sayão
+681.0,133.0,Jardim do Mulato
+2671.0,133.0,Passabém
+2870.0,133.0,São Sebastião do Rio Preto
+3140.0,133.0,Alvinlândia
+3400.0,133.0,Jeriquara
+4170.0,133.0,Camboriú
+452.0,132.0,Graça Aranha
+1246.0,132.0,Lastro
+1295.0,132.0,Quixaba
+1787.0,132.0,Canápolis
+2302.0,132.0,Cipotânea
+2701.0,132.0,Piau
+4117.0,132.0,Uraí
+4451.0,132.0,Caiçara
+4732.0,132.0,Salvador das Missões
+5051.0,132.0,Santo Afonso
+129.0,131.0,Colares
+204.0,131.0,São João do Araguaia
+593.0,131.0,Aroazes
+621.0,131.0,Cajueiro da Praia
+692.0,131.0,Lagoa Alegre
+2026.0,131.0,Presidente Jânio Quadros
+2774.0,131.0,Sabará
+2918.0,131.0,Toledo
+4243.0,131.0,Jacinto Machado
+443.0,130.0,Fortuna
+1586.0,130.0,Major Isidoro
+2370.0,130.0,Divisa Nova
+4131.0,130.0,Água Doce
+4913.0,130.0,Ladário
+70.0,129.0,Humaitá
+1720.0,129.0,Aiquara
+2466.0,129.0,Indaiabira
+3444.0,129.0,Mesópolis
+3559.0,129.0,Populina
+3682.0,129.0,Sud Mennucci
+4453.0,129.0,Camargo
+5267.0,129.0,Portelândia
+592.0,128.0,Antônio Almeida
+2513.0,128.0,Jaíba
+2686.0,128.0,Pedra do Anta
+2838.0,128.0,São João da Ponte
+1167.0,127.0,Barra de São Miguel
+1180.0,127.0,Brejo dos Santos
+1891.0,127.0,Itaeté
+2651.0,127.0,Oratórios
+3032.0,127.0,Vila Pavão
+3970.0,127.0,Nova Santa Rosa
+4030.0,127.0,Ribeirão Claro
+4454.0,127.0,Cambará do Sul
+4741.0,127.0,Santa Margarida do Sul
+223.0,126.0,Pedra Branca do Amapari
+347.0,126.0,Sandolândia
+1049.0,126.0,Jundiá
+1174.0,126.0,Bom Sucesso
+1437.0,126.0,Itacuruba
+2311.0,126.0,Conceição das Pedras
+2888.0,126.0,Senhora dos Remédios
+3916.0,126.0,Kaloré
+3947.0,126.0,Marumbi
+171.0,125.0,Palestina do Pará
+549.0,125.0,São José dos Basílios
+567.0,125.0,Timbiras
+765.0,125.0,São Francisco do Piauí
+2705.0,125.0,Piedade dos Gerais
+3139.0,125.0,Álvaro de Carvalho
+4925.0,125.0,Paranhos
+618.0,124.0,Buriti dos Montes
+856.0,124.0,Deputado Irapuan Pinheiro
+918.0,124.0,Monsenhor Tabosa
+2218.0,124.0,Brás Pires
+2519.0,124.0,Jeceaba
+2541.0,124.0,Ladainha
+2704.0,124.0,Piedade do Rio Grande
+3886.0,124.0,Ipiranga
+4629.0,123.0,Mata
+4723.0,123.0,Rolador
+507.0,122.0,Penalva
+569.0,122.0,Trizidela do Vale
+2455.0,122.0,Ibirité
+2709.0,122.0,Piracema
+2878.0,122.0,Sarzedo
+764.0,121.0,São Francisco de Assis do Piauí
+906.0,121.0,Maracanaú
+2621.0,121.0,Morro do Pilar
+4263.0,121.0,Major Gercino
+1284.0,120.0,Pilõezinhos
+2007.0,120.0,Pedrão
+2285.0,120.0,Casa Grande
+2743.0,120.0,Queluzito
+3604.0,120.0,Sagres
+3738.0,120.0,Vitória Brasil
+4121.0,120.0,Verê
+5305.0,120.0,Terezópolis de Goiás
+329.0,119.0,Pedro Afonso
+333.0,119.0,Pindorama do Tocantins
+631.0,119.0,Capitão Gervásio Oliveira
+676.0,119.0,Isaías Coelho
+1015.0,119.0,Coronel Ezequiel
+2008.0,119.0,Pedro Alexandre
+2308.0,119.0,Comendador Gomes
+2579.0,119.0,Mário Campos
+3926.0,119.0,Luiziana
+297.0,118.0,Itapiratins
+309.0,118.0,Maurilândia do Tocantins
+5290.0,118.0,São Domingos
+3458.0,117.0,Monções
+3584.0,117.0,Ribeira
+3717.0,117.0,Turiúba
+4401.0,117.0,Alvorada
+4580.0,117.0,Ibirapuitã
+570.0,116.0,Tuntum
+2457.0,116.0,Ibituruna
+2557.0,116.0,Liberdade
+4536.0,116.0,Erval Seco
+5319.0,116.0,Vila Boa
+739.0,115.0,Pimenteiras
+1602.0,115.0,Olivença
+1752.0,115.0,Barro Alto
+3511.0,115.0,Paraíso
+368.0,114.0,Tupiratins
+893.0,114.0,Itatira
+1218.0,114.0,Dona Inês
+1741.0,114.0,Arataca
+3465.0,114.0,Monteiro Lobato
+4144.0,114.0,Arroio Trinta
+4330.0,114.0,Salto Veloso
+770.0,113.0,São João da Serra
+1187.0,113.0,Cacimbas
+2273.0,113.0,Carmésia
+4347.0,113.0,São João do Itaperiú
+4484.0,113.0,Cerro Branco
+4977.0,113.0,Colniza
+292.0,112.0,Goiatins
+352.0,112.0,Santa Tereza do Tocantins
+999.0,112.0,Augusto Severo
+1969.0,112.0,Mirangaba
+2410.0,112.0,Formoso
+2475.0,112.0,Ipiaçu
+3267.0,112.0,Cunha
+3603.0,112.0,Sabino
+4057.0,112.0,Santa Mônica
+5169.0,112.0,Divinópolis de Goiás
+5318.0,112.0,Vicentinópolis
+545.0,111.0,São João do Paraíso
+1148.0,111.0,Alcantil
+4802.0,111.0,Sertão Santana
+5207.0,111.0,Jesúpolis
+116.0,110.0,Bonito
+463.0,110.0,Jatobá
+673.0,110.0,Ilha Grande
+2949.0,110.0,Vieiras
+3231.0,110.0,Campos Novos Paulista
+4904.0,110.0,Inocência
+69.0,108.0,Guajará
+379.0,108.0,Alto Parnaíba
+1110.0,108.0,São João do Sabugi
+2044.0,108.0,Rodelas
+2400.0,108.0,Faria Lemos
+3710.0,108.0,Torre de Pedra
+4800.0,108.0,Sério
+3756.0,107.0,Antônio Olinto
+3884.0,107.0,Inajá
+761.0,106.0,Santo Inácio do Piauí
+1337.0,106.0,Serra da Raiz
+1933.0,106.0,Jussari
+3590.0,106.0,Ribeirão Grande
+5146.0,106.0,Córrego do Ouro
+5288.0,106.0,Santo Antônio de Goiás
+599.0,105.0,Barra D'Alcântara
+809.0,105.0,Altaneira
+1057.0,105.0,Luís Gomes
+1329.0,105.0,São José dos Cordeiros
+2752.0,105.0,Riacho dos Machados
+3282.0,105.0,Elisiário
+3285.0,105.0,Emilianópolis
+4617.0,105.0,Lindolfo Collor
+5095.0,105.0,Americano do Brasil
+5299.0,105.0,Serranópolis
+754.0,104.0,Santa Cruz dos Milagres
+787.0,104.0,Sigefredo Pacheco
+1785.0,104.0,Campo Alegre de Lourdes
+2014.0,104.0,Piraí do Norte
+3839.0,104.0,Enéas Marques
+3964.0,104.0,Nova Esperança do Sudoeste
+4201.0,104.0,Erval Velho
+4460.0,104.0,Campos Borges
+4621.0,104.0,Mampituba
+2960.0,103.25,Água Doce do Norte
+357.0,103.0,São Sebastião do Tocantins
+766.0,103.0,São Gonçalo do Gurguéia
+1009.0,103.0,Campo Redondo
+1377.0,103.0,Betânia
+1804.0,103.0,Catolândia
+2423.0,103.0,Funilândia
+3859.0,103.0,Foz do Jordão
+3899.0,103.0,Ivaté
+4041.0,103.0,Rosário do Ivaí
+4227.0,103.0,Ipira
+4350.0,103.0,São José
+349.0,102.0,Santa Maria do Tocantins
+594.0,102.0,Aroeiras do Itaim
+1001.0,102.0,Baraúna
+2855.0,102.0,São José do Goiabal
+3157.0,102.0,Arandu
+4226.0,102.0,Iomerê
+4545.0,102.0,Eugênio de Castro
+186.0,101.0,Salvaterra
+634.0,101.0,Caridade do Piauí
+1029.0,101.0,Galinhos
+1309.0,101.0,Santana de Mangueira
+1952.0,101.0,Maetinga
+2589.0,101.0,Matias Cardoso
+2909.0,101.0,Taquaraçu de Minas
+413.0,100.0,Cachoeira Grande
+1533.0,100.0,Verdejante
+2247.0,100.0,Campo Florido
+2301.0,100.0,Chiador
+3995.0,100.0,Piên
+4205.0,100.0,Forquilhinha
+4601.0,100.0,Jacuizinho
+5153.0,100.0,Cumari
+4400.0,99.0,Alto Feliz
+5301.0,99.0,Simolândia
+483.0,98.0,Matões
+1753.0,98.0,Barrocas
+1988.0,98.0,Nova Ibiá
+2487.0,98.0,Itamarati de Minas
+2772.0,98.0,Rubelita
+2957.0,98.0,Wenceslau Braz
+3587.0,98.0,Ribeirão Corrente
+3618.0,98.0,Santa Cruz da Conceição
+4046.0,98.0,Santa Amélia
+4540.0,98.0,Estação
+266.0,97.0,Campos Lindos
+596.0,97.0,Assunção do Piauí
+654.0,97.0,Domingos Mourão
+2757.0,97.0,Rio do Prado
+3639.0,97.0,Santo Antônio do Aracanguá
+1356.0,96.0,Vieirópolis
+1453.0,96.0,Lagoa do Ouro
+1904.0,96.0,Itapé
+2771.0,96.0,Rosário da Limeira
+3593.0,96.0,Riversul
+3820.0,96.0,Contenda
+3841.0,96.0,Esperança Nova
+4014.0,96.0,Primeiro de Maio
+4127.0,96.0,Abdon Batista
+83.0,95.0,Silves
+258.0,95.0,Barra do Ouro
+441.0,95.0,Formosa da Serra Negra
+572.0,95.0,Turilândia
+4412.0,95.0,Arroio do Padre
+5183.0,95.0,Hidrolina
+291.0,94.0,Goianorte
+385.0,94.0,Araguanã
+1956.0,94.0,Malhada de Pedras
+2336.0,94.0,Coronel Murta
+2429.0,94.0,Gonçalves
+2801.0,94.0,Santana do Riacho
+4652.0,94.0,Nova Bréscia
+4697.0,94.0,Poço das Antas
+4710.0,94.0,Putinga
+4981.0,94.0,Cotriguaçu
+1170.0,93.0,Belém do Brejo do Cruz
+2031.0,93.0,Rafael Jambeiro
+3613.0,93.0,Sandovalina
+4597.0,93.0,Itatiba do Sul
+4690.0,93.0,Pinhal Grande
+4708.0,93.0,Progresso
+1194.0,92.0,Capim
+1947.0,92.0,Macajuba
+2680.0,92.0,Paula Cândido
+2794.0,92.0,Santana de Cataguases
+4295.0,92.0,Pedras Grandes
+4329.0,92.0,Saltinho
+5083.0,92.0,Nova Monte Verde
+613.0,91.0,Bonfim do Piauí
+2578.0,91.0,Marilac
+2622.0,91.0,Munhoz
+2942.0,91.0,Varzelândia
+3162.0,91.0,Arealva
+3320.0,91.0,Guarani d'Oeste
+3484.0,91.0,Nova Independência
+3725.0,91.0,Uru
+4024.0,91.0,Rancho Alegre
+4297.0,91.0,Peritiba
+4352.0,91.0,São José do Cerrito
+5102.0,91.0,Araçu
+5154.0,91.0,Damianópolis
+399.0,90.0,Bela Vista do Maranhão
+949.0,90.0,Potiretama
+965.0,90.0,São João do Jaguaribe
+1090.0,90.0,Portalegre
+1963.0,90.0,Mascote
+2190.0,90.0,Belmiro Braga
+2555.0,90.0,Leme do Prado
+4443.0,90.0,Brochier
+4624.0,90.0,Maratá
+4896.0,90.0,Douradina
+655.0,89.5,Dom Inocêncio
+1124.0,89.0,Serra Negra do Norte
+1965.0,89.0,Matina
+3582.0,89.0,Reginópolis
+3835.0,89.0,Diamante D'Oeste
+4234.0,89.0,Irineópolis
+4393.0,89.0,Ajuricaba
+4922.0,89.0,Novo Horizonte do Sul
+3366.0,88.0,Itaju
+4399.0,88.0,Alto Alegre
+4594.0,88.0,Itapuca
+4649.0,88.0,Nova Alvorada
+5017.0,88.0,Nova Nazaré
+456.0,87.0,Icatu
+1033.0,87.0,Guamaré
+2539.0,87.0,Juruaia
+3883.0,87.0,Inácio Martins
+4029.0,87.0,Reserva do Iguaçu
+4609.0,87.0,Lagoa Bonita do Sul
+4614.0,87.0,Lajeado do Bugre
+1798.0,86.0,Caraíbas
+3935.0,86.0,Mangueirinha
+4475.0,86.0,Caraá
+4867.0,86.0,Alcinópolis
+50.0,85.0,Acrelândia
+1131.0,85.0,Tenente Ananias
+1213.0,85.0,Curral Velho
+1278.0,85.0,Pedra Lavrada
+1980.0,85.0,Muquém do São Francisco
+3837.0,85.0,Douradina
+4523.0,85.0,Doutor Maurício Cardoso
+4541.0,85.0,Estância Velha
+84.0,84.0,Amajari
+763.0,84.0,São Félix do Piauí
+1037.0,84.0,Itajá
+1183.0,84.0,Cabedelo
+2264.0,84.0,Caputira
+2281.0,84.0,Carneirinho
+2323.0,84.0,Conquista
+2329.0,84.0,Coração de Jesus
+2338.0,84.0,Coronel Xavier Chaves
+2414.0,84.0,Francisco Dumont
+2851.0,84.0,São José da Safira
+3424.0,84.0,Luiziânia
+3750.0,84.0,Alvorada do Sul
+3872.0,84.0,Guaraqueçaba
+3960.0,84.0,Nova América da Colina
+4685.0,84.0,Pejuçara
+5016.0,84.0,Nova Bandeirantes
+5089.0,84.0,Água Limpa
+5138.0,84.0,Caturaí
+5208.0,84.0,Joviânia
+5213.0,84.0,Mambaí
+5216.0,84.0,Matrinchã
+5228.0,84.0,Mossâmedes
+446.0,83.0,Governador Archer
+2531.0,83.0,Jordânia
+2759.0,83.0,Rio Manso
+3143.0,83.0,Américo de Campos
+4402.0,83.0,Amaral Ferrador
+565.0,82.0,Sucupira do Riachão
+1144.0,82.0,Aguiar
+1400.0,82.0,Carnaubeira da Penha
+1972.0,82.0,Morpará
+2206.0,82.0,Bom Jesus do Amparo
+2882.0,82.0,Senador Cortes
+3131.0,82.0,Alambari
+3575.0,82.0,Queiroz
+4315.0,82.0,Presidente Nereu
+1970.0,81.0,Mirante
+2735.0,81.0,Pratinha
+2762.0,81.0,Rio Pardo de Minas
+3985.0,81.0,Paranapoema
+4217.0,81.0,Guatambú
+382.0,80.0,Anajatuba
+608.0,80.0,Betânia do Piauí
+1039.0,80.0,Jaçanã
+1656.0,80.0,Divina Pastora
+2284.0,80.0,Carvalhos
+2798.0,80.0,Santana do Jacaré
+5028.0,80.0,Novo São Joaquim
+457.0,79.0,Igarapé do Meio
+1016.0,79.0,Coronel João Pessoa
+1289.0,79.0,Poço de José de Moura
+1338.0,79.0,Serra Grande
+4337.0,79.0,Santo Amaro da Imperatriz
+4528.0,79.0,Engenho Velho
+73.0,78.0,Itapiranga
+480.0,78.0,Marajá do Sena
+1036.0,78.0,Ipueira
+1247.0,78.0,Livramento
+1299.0,78.0,Riacho de Santo Antônio
+1311.0,78.0,Joca Claudino
+2208.0,78.0,Bom Repouso
+3502.0,78.0,Ouro Verde
+4834.0,78.0,Tunas
+454.0,77.0,Guimarães
+1414.0,77.0,Dormentes
+3315.0,77.0,Guapiaçu
+3778.0,77.0,Boa Vista da Aparecida
+4230.0,77.0,Ipumirim
+4296.0,77.0,Penha
+4488.0,77.0,Chapada
+4854.0,77.0,Vicente Dutra
+5302.0,77.0,Sítio d'Abadia
+566.0,76.0,Tasso Fragoso
+1074.0,76.0,Paraú
+1267.0,76.0,Nazarezinho
+2030.0,76.0,Quixabeira
+2261.0,76.0,Capitão Andrade
+3148.0,76.0,Anhembi
+3608.0,76.0,Salmourão
+5036.0,76.0,Ponte Branca
+5221.0,76.0,Moiporá
+701.0,75.0,Manoel Emídio
+752.0,75.0,Rio Grande do Piauí
+1050.0,75.0,Lagoa d'Anta
+4164.0,75.0,Braço do Trombudo
+418.0,74.0,Cantanhede
+1303.0,74.0,Salgado de São Félix
+1516.0,74.0,Solidão
+2235.0,74.0,Cajuri
+2256.0,74.0,Capela Nova
+3796.0,74.0,Campo Bonito
+4422.0,74.0,Barão do Triunfo
+4602.0,74.0,Jacutinga
+4691.0,74.0,Pinheirinho do Vale
+1836.0,73.0,Encruzilhada
+2640.0,73.0,Nova Resende
+2890.0,73.0,Seritinga
+4276.0,73.0,Morro Grande
+4355.0,73.0,São Martinho
+5048.0,73.0,Ribeirãozinho
+25.0,72.0,Alto Paraíso
+664.0,72.0,Francisco Ayres
+704.0,72.0,Massapê do Piauí
+757.0,72.0,Santana do Piauí
+802.0,72.0,Wall Ferraz
+2205.0,72.0,Bom Jesus da Penha
+2464.0,72.0,Imbé de Minas
+2481.0,72.0,Itacambira
+2898.0,72.0,Silveirânia
+3201.0,72.0,Bom Sucesso de Itararé
+3573.0,72.0,Quadra
+3934.0,72.0,Manfrinópolis
+4043.0,72.0,Salgado Filho
+4143.0,72.0,Armazém
+4259.0,72.0,Luiz Alves
+4397.0,72.0,Almirante Tamandaré do Sul
+4777.0,72.0,São Martinho da Serra
+5098.0,72.0,Anhanguera
+4155.0,71.25,Biguaçu
+708.0,71.0,Milton Brandão
+724.0,71.0,Paes Landim
+2605.0,71.0,Moeda
+3427.0,71.0,Macatuba
+4235.0,71.0,Itá
+4360.0,71.0,Serra Alta
+5046.0,71.0,Reserva do Cabaçal
+79.0,70.0,Novo Airão
+103.0,70.0,Almeirim
+393.0,70.0,Bacurituba
+1072.0,70.0,Ouro Branco
+1089.0,70.0,Poço Branco
+1759.0,70.0,Boa Vista do Tupim
+2083.0,70.0,Sento Sé
+2156.0,70.0,Angelândia
+2662.0,70.0,Paiva
+3269.0,70.0,Diadema
+3333.0,70.0,Hortolândia
+3360.0,70.0,Iracemápolis
+3558.0,70.0,Pontes Gestal
+4033.0,70.0,Rio Bom
+4140.0,70.0,Arabutã
+4955.0,70.0,Araguainha
+33.0,69.0,Cujubim
+513.0,69.0,Pirapemas
+980.0,69.0,Umari
+2013.0,69.0,Pintadas
+2489.0,69.0,Itambé do Mato Dentro
+3811.0,69.0,Cerro Azul
+4572.0,69.0,Harmonia
+4653.0,69.0,Nova Esperança do Sul
+4740.0,69.0,Santa Maria do Herval
+4837.0,69.0,Tupandi
+473.0,68.0,Lagoa Grande do Maranhão
+990.0,68.0,Água Nova
+1867.0,68.0,Ibirapuã
+2185.0,68.0,Barão de Monte Alto
+2433.0,68.0,Grão Mogol
+2946.0,68.0,Vermelho Novo
+3637.0,68.0,Santo Antônio da Alegria
+387.0,67.0,Arame
+1027.0,67.0,Francisco Dantas
+2812.0,67.0,Santo Antônio do Aventureiro
+2857.0,67.0,São José do Mantimento
+4863.0,67.0,Vitória das Missões
+276.0,66.0,Conceição do Tocantins
+557.0,66.0,São Roberto
+933.0,66.0,Palhano
+1064.0,66.0,Messias Targino
+2352.0,66.0,Cuparaque
+2399.0,66.0,Fama
+2427.0,66.0,Goiabeira
+4473.0,66.0,Capitão
+1003.0,65.0,Bento Fernandes
+1607.0,65.0,Pariconha
+1932.0,65.0,Jussara
+2110.0,65.0,Uibaí
+2815.0,65.0,Santo Antônio do Jacinto
+3602.0,65.0,Rubinéia
+4639.0,65.0,Mormaço
+190.0,64.75,Santa Maria das Barreiras
+244.0,64.0,Aparecida do Rio Negro
+256.0,64.0,Babaçulândia
+584.0,64.0,Alagoinha do Piauí
+1136.0,64.0,Triunfo Potiguar
+2177.0,64.0,Ataléia
+2375.0,64.0,Dom Viçoso
+4299.0,64.0,Petrolândia
+661.0,63.0,Floresta do Piauí
+1062.0,63.0,Martins
+1208.0,63.0,Cubati
+1854.0,63.0,Guajeru
+2251.0,63.0,Canápolis
+2357.0,63.0,Delfinópolis
+3705.0,63.0,Tejupá
+3784.0,63.0,Braganey
+3864.0,63.0,Grandes Rios
+4407.0,63.0,Arambaré
+4804.0,63.0,Silveira Martins
+5109.0,63.0,Avelinópolis
+208.0,62.0,Soure
+659.0,62.0,Fartura do Piauí
+660.0,62.0,Flores do Piauí
+749.0,62.0,Riacho Frio
+1834.0,62.0,Dom Macedo Costa
+2561.0,62.0,Luisburgo
+4363.0,62.0,Sul Brasil
+4376.0,62.0,Urubici
+4511.0,62.0,Cruzeiro do Sul
+4556.0,62.0,Fortaleza dos Valos
+4590.0,62.0,Ipiranga do Sul
+269.0,61.0,Carrasco Bonito
+471.0,61.0,Lagoa do Mato
+1484.0,61.0,Quixaba
+1777.0,61.0,Caetanos
+2830.0,61.0,São Gonçalo do Abaeté
+5070.0,61.0,Tabaporã
+476.0,60.0,Loreto
+755.0,60.0,Santa Filomena
+1128.0,60.0,Taboleiro Grande
+1158.0,60.0,Areia de Baraúnas
+1211.0,60.0,Cuité de Mamanguape
+1266.0,60.0,Natuba
+1274.0,60.0,Passagem
+2025.0,60.0,Presidente Dutra
+2781.0,60.0,Santa Bárbara do Monte Verde
+2881.0,60.0,Senador Amaral
+4010.0,60.0,Porto Vitória
+4078.0,60.0,São Manoel do Paraná
+4153.0,60.0,Belmonte
+4333.0,60.0,Santa Helena
+4534.0,60.0,Herval
+4587.0,60.0,Independência
+4693.0,60.0,Pinto Bandeira
+4900.0,60.0,Figueirão
+798.0,59.0,Várzea Branca
+1019.0,59.0,Doutor Severiano
+1097.0,59.0,Riacho de Santana
+1923.0,59.0,Jaguaripe
+2319.0,59.0,Confins
+2633.0,59.0,Ninheira
+4409.0,59.0,Aratiba
+4537.0,59.0,Esmeralda
+571.0,58.0,Turiaçu
+1733.0,58.0,Antônio Cardoso
+2342.0,58.0,Córrego Novo
+4390.0,58.0,Aceguá
+4391.0,58.0,Água Santa
+4515.0,58.0,Dilermando de Aguiar
+4974.0,58.0,Cláudia
+93.0,57.0,Normandia
+689.0,57.0,Júlio Borges
+1077.0,57.0,Rio do Fogo
+2637.0,57.0,Nova Módica
+2860.0,57.0,São Pedro da União
+4640.0,57.0,Morrinhos do Sul
+298.0,56.0,Itaporã do Tocantins
+302.0,56.0,Lagoa do Tocantins
+423.0,56.0,Cedral
+1063.0,56.0,Maxaranguape
+1939.0,56.0,Lajedinho
+2152.0,56.0,Alvorada de Minas
+2282.0,56.0,Carrancas
+2546.0,56.0,Lagoa Grande
+2569.0,56.0,Mamonas
+2593.0,56.0,Matutina
+2864.0,56.0,São Roque de Minas
+2915.0,56.0,Tiros
+2917.0,56.0,Tocos do Moji
+2938.0,56.0,Vargem Bonita
+3258.0,56.0,Corumbataí
+3295.0,56.0,Fernão
+3772.0,56.0,Barra do Jacaré
+3825.0,56.0,Corumbataí do Sul
+3918.0,56.0,Laranjal
+4090.0,56.0,Serranópolis do Iguaçu
+4257.0,56.0,Lindóia do Sul
+4377.0,56.0,Urupema
+4380.0,56.0,Vargem
+4499.0,56.0,Coqueiro Baixo
+4861.0,56.0,Vista Alegre do Prata
+4871.0,56.0,Angélica
+5020.0,56.0,Nova Brasilândia
+5034.0,56.0,Planalto da Serra
+5054.0,56.0,São José do Xingu
+5087.0,56.0,Adelândia
+5110.0,56.0,Baliza
+5165.0,56.0,Flores de Goiás
+5310.0,56.0,Turvelândia
+1317.0,55.0,São Domingos do Cariri
+1591.0,55.0,Mar Vermelho
+2080.0,55.0,Sebastião Laranjeiras
+2298.0,55.0,Chalé
+2618.0,55.0,Montezuma
+2809.0,55.0,Santa Rosa da Serra
+3480.0,55.0,Nova Canaã Paulista
+4659.0,55.0,Nova Roma do Sul
+4965.0,55.0,Campinápolis
+226.0,54.0,Ferreira Gomes
+400.0,54.0,Benedito Leite
+401.0,54.0,Bequimão
+556.0,54.0,São Raimundo do Doca Bezerra
+643.0,54.0,Conceição do Canindé
+1012.0,54.0,Carnaúba dos Dantas
+1243.0,54.0,Lagoa
+1300.0,54.0,Riacho dos Cavalos
+1547.0,54.0,Belo Monte
+2710.0,54.0,Pirajuba
+3589.0,54.0,Ribeirão dos Índios
+3829.0,54.0,Cruz Machado
+300.0,53.0,Juarina
+1335.0,53.0,São Vicente do Seridó
+2535.0,53.0,Nova União
+3733.0,53.0,Várzea Paulista
+4895.0,53.0,Dois Irmãos do Buriti
+66.0,52.0,Apuí
+166.0,52.0,Óbidos
+628.0,52.0,Canavieira
+1117.0,52.0,São Rafael
+2807.0,52.0,Santa Rita do Itueto
+2863.0,52.0,São Romão
+4265.0,52.0,Maracajá
+4531.0,52.0,Erebango
+4620.0,52.0,Maçambará
+5041.0,52.0,Porto Estrela
+5240.0,52.0,Nova Roma
+160.0,51.0,Monte Alegre
+494.0,51.0,Nova Iorque
+1216.0,51.0,Vista Serrana
+2193.0,51.0,Belo Vale
+2326.0,51.0,Consolação
+4236.0,51.0,Itaiópolis
+4248.0,51.0,José Boiteux
+57.0,50.0,Mâncio Lima
+633.0,50.0,Caraúbas do Piauí
+1234.0,50.0,Itatuba
+2198.0,50.0,Bias Fortes
+3760.0,50.0,Arapuã
+4279.0,50.0,Nova Itaberaba
+672.0,49.0,Hugo Napoleão
+1321.0,49.0,São João do Tigre
+2309.0,49.0,Comercinho
+2350.0,49.0,Cruzeiro da Fortaleza
+2403.0,49.0,Felisburgo
+2700.0,49.0,Pescador
+2854.0,49.0,São José do Divino
+4467.0,49.0,Canudos do Vale
+4765.0,49.0,São José das Missões
+4824.0,49.0,Travesseiro
+4987.0,49.0,Feliz Natal
+666.0,48.0,Francisco Santos
+725.0,48.0,Pajeú do Piauí
+1073.0,48.0,Paraná
+1171.0,48.0,Bernardino Batista
+1796.0,48.0,Capela do Alto Alegre
+2215.0,48.0,Botumirim
+2266.0,48.0,Caranaíba
+2411.0,48.0,Fortaleza de Minas
+2417.0,48.0,Frei Gaspar
+2656.0,48.0,Ouro Verde de Minas
+3182.0,48.0,Barra do Turvo
+3893.0,48.0,Itambaracá
+3900.0,48.0,Ivatuba
+4803.0,48.0,Sete de Setembro
+5179.0,48.0,Guarani de Goiás
+5281.0,48.0,Santa Isabel
+554.0,47.0,São Pedro dos Crentes
+1052.0,47.0,Lagoa Nova
+1123.0,47.0,Serra do Mel
+2479.0,47.0,Itabirinha
+2664.0,47.0,Palmópolis
+34.0,46.0,Governador Jorge Teixeira
+123.0,46.0,Cachoeira do Arari
+867.0,46.0,Granjeiro
+938.0,46.0,Paramoti
+2089.0,46.0,Sítio do Mato
+2844.0,46.0,São João do Pacuí
+4007.0,46.0,Porto Amazonas
+4218.0,46.0,Ibiam
+4998.0,46.0,Itiquira
+686.0,45.0,Joca Marques
+1046.0,45.0,João Dias
+1132.0,45.0,Tenente Laurentino Cruz
+1195.0,45.0,Caraúbas
+1307.0,45.0,Santa Inês
+1539.0,45.0,Água Branca
+2153.0,45.0,Amparo do Serra
+4161.0,45.0,Bom Jesus do Oeste
+4253.0,45.0,Lajeado Grande
+4267.0,45.0,Marema
+4689.0,45.0,Pinhal da Serra
+202.0,44.0,São João da Ponta
+361.0,44.0,Sucupira
+415.0,44.0,Cajari
+2413.0,44.0,Francisco Badaró
+3202.0,44.0,Borá
+4713.0,44.0,Quinze de Novembro
+485.0,43.0,Milagres do Maranhão
+506.0,43.0,Pedro do Rosário
+2540.0,43.0,Juvenília
+2926.0,43.0,Turvolândia
+2947.0,43.0,Vespasiano
+4503.0,43.0,Coronel Pilar
+4945.0,42.75,Acorizal
+65.0,42.0,Porto Acre
+373.0,42.0,Água Doce do Maranhão
+464.0,42.0,Jenipapo dos Vieiras
+516.0,42.0,Porto Rico do Maranhão
+620.0,42.0,Cajazeiras do Piauí
+649.0,42.0,Curralinhos
+688.0,42.0,Juazeiro do Piauí
+720.0,42.0,Novo Santo Antônio
+775.0,42.0,São José do Peixe
+1055.0,42.0,Lajes Pintadas
+2346.0,42.0,Cristália
+2392.0,42.0,Espírito Santo do Dourado
+2559.0,42.0,Limeira do Oeste
+2932.0,42.0,Umburatiba
+3137.0,42.0,Álvares Florence
+3209.0,42.0,Brejo Alegre
+3739.0,42.0,Votorantim
+3880.0,42.0,Iguatu
+4404.0,42.0,André da Rocha
+4752.0,42.0,Santo Antônio do Planalto
+5029.0,42.0,Paranaíta
+5155.0,42.0,Damolândia
+5316.0,42.0,Varjão
+510.0,41.0,Pindaré-Mirim
+790.0,41.0,Socorro do Piauí
+2681.0,41.0,Paulistas
+4157.0,41.0,Bocaina do Sul
+60.0,40.0,Rodrigues Alves
+324.0,40.0,Palmeirante
+719.0,40.0,Novo Oriente do Piauí
+774.0,40.0,São José do Divino
+2227.0,40.0,Cabeceira Grande
+2674.0,40.0,Passa Vinte
+2850.0,40.0,São José da Lapa
+2945.0,40.0,Veríssimo
+3270.0,40.0,Dirce Reis
+4035.0,40.0,Rio Branco do Ivaí
+4382.0,40.0,Vidal Ramos
+4737.0,40.0,Santa Clara do Sul
+1103.0,39.0,Santana do Seridó
+1126.0,39.0,Serrinha dos Pintos
+2304.0,39.0,Claro dos Poções
+2437.0,39.0,Guaraciaba
+2934.0,39.0,União de Minas
+4530.0,39.0,Entre Rios do Sul
+132.0,38.0,Cumaru do Norte
+187.0,38.0,Santa Bárbara do Pará
+460.0,38.0,Itaipava do Grajaú
+1034.0,38.0,Ielmo Marinho
+1041.0,38.0,Janduís
+2288.0,38.0,Conceição da Barra de Minas
+2608.0,38.0,Monsenhor Paulo
+2736.0,38.0,Presidente Bernardes
+3079.0,38.0,Nilópolis
+3181.0,38.0,Barra do Chapéu
+3368.0,38.0,Itaoca
+4598.0,38.0,Ivorá
+4715.0,38.0,Relvado
+4914.0,38.0,Laguna Carapã
+4993.0,38.0,Guiratinga
+284.0,37.0,Dueré
+353.0,37.0,Santa Terezinha do Tocantins
+1140.0,37.0,Venha-Ver
+1270.0,37.0,Nova Palmeira
+2401.0,37.0,Felício dos Santos
+2594.0,37.0,Medeiros
+2604.0,37.0,Miravânia
+3460.0,37.0,Monte Alegre do Sul
+4886.0,37.0,Caracol
+4991.0,37.0,Glória D'Oeste
+5139.0,36.5,Cavalcante
+29.0,36.0,Campo Novo de Rondônia
+493.0,36.0,Nova Colinas
+605.0,36.0,Belém do Piauí
+616.0,36.0,Brejo do Piauí
+636.0,36.0,Caxingó
+989.0,36.0,Afonso Bezerra
+1099.0,36.0,Rodolfo Fernandes
+1134.0,36.0,Timbaúba dos Batistas
+1259.0,36.0,Mato Grosso
+1302.0,36.0,Salgadinho
+2137.0,36.0,Águas Vermelhas
+2907.0,36.0,Tapira
+3245.0,36.0,Cedral
+3307.0,36.0,Gastão Vidigal
+3435.0,36.0,Marapoama
+3486.0,36.0,Nova Luzitânia
+3551.0,36.0,Platina
+3874.0,36.0,Honório Serpa
+4517.0,36.0,Dois Irmãos das Missões
+4736.0,36.0,Santa Cecília do Sul
+374.0,35.0,Alcântara
+519.0,35.0,Presidente Médici
+582.0,35.0,Agricolândia
+2676.0,35.0,Patis
+3946.0,35.0,Marquinho
+4483.0,35.0,Cerrito
+4694.0,35.0,Pirapó
+5079.0,35.0,Vera
+68.0,34.0,Careiro
+548.0,34.0,São José de Ribamar
+1067.0,34.0,Monte das Gameleiras
+1878.0,34.0,Ipecaetá
+2150.0,34.0,Alvarenga
+2784.0,34.0,Santa Cruz do Escalvado
+4387.0,34.0,Xavantina
+4619.0,34.0,Machadinho
+4782.0,34.0,São Pedro das Missões
+432.0,33.0,Conceição do Lago-Açu
+534.0,33.0,Santo Amaro do Maranhão
+792.0,33.0,Tamboril do Piauí
+1249.0,33.0,Mãe d'Água
+1318.0,33.0,São Domingos
+1600.0,33.0,Olho d'Água do Casado
+2194.0,33.0,Berilo
+4548.0,33.0,Faxinalzinho
+5289.0,33.0,Santo Antônio do Descoberto
+717.0,32.0,Nossa Senhora de Nazaré
+2299.0,32.0,Chapada do Norte
+2381.0,32.0,Doresópolis
+3823.0,32.0,Coronel Domingos Soares
+4134.0,32.0,Águas Mornas
+4298.0,32.0,Pescaria Brava
+694.0,31.0,Lagoa de São Francisco
+722.0,31.0,Olho D'Água do Piauí
+1085.0,31.0,Pedro Avelino
+1223.0,31.0,Frei Martinho
+3744.0,31.0,Adrianópolis
+148.0,30.0,Jacareacanga
+167.0,30.0,Oriximiná
+601.0,30.0,Barreiras do Piauí
+639.0,30.0,Cocal dos Alves
+1024.0,30.0,Felipe Guerra
+1138.0,30.0,Upanema
+1355.0,30.0,Várzea
+1614.0,30.0,Pindoba
+1917.0,30.0,Iuiu
+2224.0,30.0,Bugre
+3773.0,30.0,Bela Vista da Caroba
+4316.0,30.0,Princesa
+4358.0,30.0,Saudades
+4490.0,30.0,Charrua
+4491.0,30.0,Chiapetta
+4588.0,30.0,Inhacorá
+4821.0,30.0,Toropi
+5010.0,30.0,Marcelândia
+5077.0,30.0,Vale de São Domingos
+5256.0,30.0,Perolândia
+5293.0,30.0,São João da Paraúna
+2629.0,29.0,Natalândia
+2685.0,29.0,Pedra Bonita
+67.0,28.0,Boca do Acre
+225.0,28.0,Cutias
+233.0,28.0,Pracuúba
+425.0,28.0,Centro do Guilherme
+612.0,28.0,Bom Princípio do Piauí
+714.0,28.0,Murici dos Portelas
+733.0,28.0,Pau D'Arco do Piauí
+1093.0,28.0,Pureza
+1576.0,28.0,Jacuípe
+2041.0,28.0,Rio do Antônio
+2140.0,28.0,Alagoa
+2510.0,28.0,Jacuí
+2582.0,28.0,Marmelópolis
+2788.0,28.0,Santa Luzia
+2791.0,28.0,Santa Maria do Salto
+2880.0,28.0,Sem-Peixe
+3709.0,28.0,Timburi
+4123.0,28.0,Doutor Ulysses
+4158.0,28.0,Bombinhas
+4875.0,28.0,Aral Moreira
+4941.0,28.0,Taquarussu
+5009.0,28.0,Vila Bela da Santíssima Trindade
+5076.0,28.0,União do Sul
+5084.0,28.0,Abadia de Goiás
+5088.0,28.0,Água Fria de Goiás
+5168.0,28.0,Gameleira de Goiás
+5283.0,28.0,Santa Rita do Novo Destino
+1122.0,27.0,Serra de São Bento
+1842.0,27.0,Feira da Mata
+1931.0,27.0,Jucuruçu
+2122.0,27.0,Vereda
+2452.0,27.0,Ibiaí
+2725.0,27.0,Ponto Chique
+2836.0,27.0,São João da Lagoa
+3768.0,27.0,Balsa Nova
+4745.0,27.0,Santa Tereza
+2318.0,26.0,Cônego Marinho
+2416.0,26.0,Franciscópolis
+2818.0,26.0,Santo Hipólito
+2889.0,26.0,Sericita
+3161.0,26.0,Arco-Íris
+3433.0,26.0,Marabá Paulista
+4384.0,26.0,Vitor Meireles
+4385.0,26.0,Witmarsum
+4606.0,26.0,Jari
+4959.0,26.0,Barão de Melgaço
+5064.0,26.0,Santo Antônio do Leverger
+5145.0,26.0,Colinas do Sul
+5157.0,26.0,Diorama
+320.0,25.0,Novo Acordo
+736.0,25.0,Pedro Laurentino
+1102.0,25.0,Santana do Matos
+1152.0,25.0,Amparo
+1164.0,25.0,Baraúna
+2447.0,25.0,Gurinhatã
+2693.0,25.0,Pedro Teixeira
+2884.0,25.0,Senador José Bento
+4389.0,25.0,Zortéa
+4605.0,25.0,Jaquirana
+4989.0,25.0,Gaúcha do Norte
+5156.0,25.0,Davinópolis
+6.0,24.0,Corumbiara
+24.0,24.0,Alto Alegre dos Parecis
+492.0,24.0,Nina Rodrigues
+526.0,24.0,Sambaíba
+728.0,24.0,Paquetá
+750.0,24.0,Ribeira do Piauí
+781.0,24.0,São Miguel do Fidalgo
+785.0,24.0,Sebastião Barros
+1426.0,24.0,Granito
+1882.0,24.0,Irajuba
+2039.0,24.0,Ribeirão do Largo
+2131.0,24.0,Acaiaca
+2265.0,24.0,Caraí
+2421.0,24.0,Fruta de Leite
+2514.0,24.0,Jampruca
+2532.0,24.0,José Gonçalves de Minas
+2534.0,24.0,Josenópolis
+2596.0,24.0,Mendes Pimentel
+2607.0,24.0,Monjolos
+2634.0,24.0,Nova Belém
+2657.0,24.0,Padre Carvalho
+2783.0,24.0,Santa Cruz de Salinas
+2806.0,24.0,Santa Rita de Ibitipoca
+2979.0,24.0,Divino de São Lourenço
+3861.0,24.0,Godoy Moreira
+4036.0,24.0,Rio Branco do Sul
+4094.0,24.0,Sulina
+4504.0,24.0,Cotiporã
+4835.0,24.0,Tupanci do Sul
+5050.0,24.0,Santa Carmem
+1288.0,23.0,Poço Dantas
+2895.0,23.0,Serranópolis de Minas
+4618.0,23.0,Linha Nova
+726.0,22.25,Palmeira do Piauí
+40.0,22.0,Pimenteiras do Oeste
+134.0,22.0,Curuá
+604.0,22.0,Bela Vista do Piauí
+2237.0,22.0,Camacho
+2458.0,22.0,Icaraí de Minas
+2703.0,22.0,Piedade de Ponte Nova
+3782.0,22.0,Bom Sucesso do Sul
+3826.0,22.0,Cruzeiro do Iguaçu
+3834.0,22.0,Diamante do Sul
+4284.0,22.0,Paial
+4328.0,22.0,Romelândia
+4340.0,22.0,São Bonifácio
+4712.0,22.0,Quevedos
+4820.0,22.0,Tiradentes do Sul
+4995.0,22.0,Ipiranga do Norte
+5266.0,22.0,Porteirão
+271.0,21.0,Centenário
+450.0,21.0,Governador Newton Bello
+498.0,21.0,Palmeirândia
+508.0,21.0,Peri Mirim
+707.0,21.0,Miguel Leão
+858.0,21.0,Eusébio
+1149.0,21.0,Algodão de Jandaíra
+1936.0,21.0,Lagoa Real
+2286.0,21.0,Cascalho Rico
+2661.0,21.0,Pai Pedro
+3863.0,21.0,Goioxim
+4356.0,21.0,São Miguel da Boa Vista
+4425.0,21.0,Barra do Quaraí
+4477.0,21.0,Carlos Gomes
+4482.0,21.0,Centenário
+5062.0,21.0,Santa Terezinha
+5152.0,21.0,Cromínia
+5212.0,21.0,Mairipotaba
+2.0,20.0,Cabixi
+110.0,20.0,Bannach
+176.0,20.0,Piçarra
+623.0,20.0,Campinas do Piauí
+640.0,20.0,Coivaras
+744.0,20.0,Porto Alegre do Piauí
+1196.0,20.0,Carrapateira
+1581.0,20.0,Jundiá
+2620.0,20.0,Morro da Garça
+2866.0,20.0,São Sebastião da Vargem Alegre
+3763.0,20.0,Ariranha do Ivaí
+3780.0,20.0,Bom Jesus do Sul
+4109.0,20.0,Tunas do Paraná
+4150.0,20.0,Bandeirante
+4264.0,20.0,Major Vieira
+4291.0,20.0,Paraíso
+4292.0,20.0,Passo de Torres
+4324.0,20.0,Rio Fortuna
+4336.0,20.0,Santa Terezinha do Progresso
+4366.0,20.0,Tigrinhos
+4681.0,20.0,Paulo Bento
+4857.0,20.0,Vila Lângaro
+378.0,19.0,Alto Alegre do Pindaré
+439.0,19.0,Feira Nova do Maranhão
+1168.0,19.0,Bayeux
+2212.0,19.0,Bonito de Minas
+2585.0,19.0,Mata Verde
+3358.0,19.0,Iporanga
+4538.0,19.0,Esperança do Sul
+5243.0,18.5,Novo Gama
+650.0,18.0,Curral Novo do Piauí
+1088.0,18.0,Pilões
+1107.0,18.0,São Fernando
+1224.0,18.0,Gado Bravo
+1227.0,18.0,Gurjão
+1257.0,18.0,Mataraca
+1272.0,18.0,Olivedos
+2438.0,18.0,Guaraciama
+4009.0,18.0,Porto Rico
+4083.0,18.0,São Pedro do Paraná
+4372.0,18.0,Treze Tílias
+4396.0,18.0,Alegria
+4510.0,18.0,Cruzaltense
+5031.0,18.0,Novo Santo Antônio
+32.0,17.0,Chupinguaia
+74.0,17.0,Lábrea
+440.0,17.0,Fernando Falcão
+2644.0,17.0,Novorizonte
+4231.0,17.0,Iraceminha
+5063.0,17.0,Santo Antônio do Leste
+406.0,16.0,Bom Lugar
+2322.0,16.0,Congonhas do Norte
+3950.0,16.0,Mato Rico
+49.0,15.0,Vale do Paraíso
+88.0,15.0,Cantá
+3913.0,15.0,Jundiaí do Sul
+4199.0,15.0,Entre Rios
+4663.0,15.0,Novo Machado
+4665.0,15.0,Novo Xingu
+4755.0,15.0,Santo Expedito do Sul
+30.0,14.0,Candeias do Jamari
+76.0,14.0,Manaquiri
+178.0,14.0,Prainha
+227.0,14.0,Itaubal
+234.0,14.0,Santana
+261.0,14.0,Bom Jesus do Tocantins
+372.0,14.0,Afonso Cunha
+398.0,14.0,Belágua
+520.0,14.0,Presidente Sarney
+638.0,14.0,Cocal de Telha
+682.0,14.0,Jatobá do Piauí
+1002.0,14.0,Barcelona
+1116.0,14.0,São Paulo do Potengi
+1118.0,14.0,São Tomé
+1184.0,14.0,Cachoeira dos Índios
+1345.0,14.0,Sossêgo
+2134.0,14.0,Água Comprida
+3074.0,14.0,Mangaratiba
+3142.0,14.0,Américo Brasiliense
+3746.0,14.0,Altamira do Paraná
+4136.0,14.0,Alto Bela Vista
+4313.0,14.0,Presidente Castello Branco
+4468.0,14.0,Capão Bonito do Sul
+4500.0,14.0,Coqueiros do Sul
+4593.0,14.0,Itacurubi
+5052.0,14.0,São José do Povo
+5116.0,14.0,Bonópolis
+5298.0,14.0,Senador Canedo
+102.0,13.0,Alenquer
+366.0,13.0,Tocantínia
+756.0,13.0,Santa Luz
+1192.0,13.0,Camalaú
+2187.0,13.0,Barra Longa
+2196.0,13.0,Berizal
+2293.0,13.0,Catuti
+4552.0,13.0,Floriano Peixoto
+4636.0,13.0,Monte Alegre dos Campos
+28.0,12.0,Cacaulândia
+346.0,12.0,Rio Sono
+521.0,12.0,Presidente Vargas
+527.0,12.0,Santa Filomena do Maranhão
+541.0,12.0,São Félix de Balsas
+542.0,12.0,São Francisco do Brejão
+691.0,12.0,Lagoinha do Piauí
+696.0,12.0,Lagoa do Sítio
+1142.0,12.0,Viçosa
+1865.0,12.0,Ibiquera
+2174.0,12.0,Aricanduva
+2182.0,12.0,Bandeira
+2303.0,12.0,Claraval
+2340.0,12.0,Córrego do Bom Jesus
+2829.0,12.0,São Geraldo da Piedade
+2923.0,12.0,Tumiritinga
+3794.0,12.0,Campina do Simão
+4261.0,12.0,Macieira
+4338.0,12.0,São Bernardino
+4434.0,12.0,Boa Vista do Incra
+4457.0,12.0,Campinas do Sul
+4470.0,12.0,Capão do Cipó
+4683.0,12.0,Pedras Altas
+4709.0,12.0,Protásio Alves
+4767.0,12.0,São José do Hortêncio
+4954.0,12.0,Araguaiana
+5024.0,12.0,Nova Ubiratã
+5061.0,12.0,Santa Rita do Trivelato
+36.0,11.0,Ministro Andreazza
+1127.0,11.0,Severiano Melo
+2813.0,11.0,Santo Antônio do Grama
+3779.0,11.0,Bocaiúva do Sul
+4429.0,11.0,Benjamin Constant do Sul
+4513.0,11.0,Derrubadas
+684.0,10.0,João Costa
+1850.0,10.0,Gentio do Ouro
+2797.0,10.0,Santana do Garambéu
+3374.0,10.0,Itapirapuã Paulista
+3776.0,10.0,Boa Esperança do Iguaçu
+3777.0,10.0,Boa Ventura de São Roque
+3997.0,10.0,Pinhal de São Bento
+4008.0,10.0,Porto Barreiro
+4193.0,10.0,Cunhataí
+4293.0,10.0,Passos Maia
+4361.0,10.0,Siderópolis
+4371.0,10.0,Treviso
+4559.0,10.0,Garruchos
+5143.0,10.0,Cidade Ocidental
+2434.0,9.0,Grupiara
+4647.0,9.0,Nicolau Vergueiro
+5218.0,9.0,Mimoso de Goiás
+478.0,8.0,Magalhães de Almeida
+543.0,8.0,São Francisco do Maranhão
+1042.0,8.0,Jardim de Angicos
+2639.0,8.0,Nova Porteirinha
+4133.0,8.0,Águas Frias
+31.0,7.0,Castanheiras
+343.0,7.0,Recursolândia
+363.0,7.0,Taipas do Tocantins
+1014.0,7.0,Cerro Corá
+1106.0,7.0,São Bento do Trairí
+1212.0,7.0,Curral de Cima
+2425.0,7.0,Gameleiras
+3296.0,7.0,Ferraz de Vasconcelos
+4181.0,7.0,Caxambu do Sul
+4233.0,7.0,Irati
+4560.0,7.0,Gaurama
+4797.0,7.0,Senador Salgado Filho
+5056.0,7.0,Rondolândia
+5059.0,7.0,Santa Cruz do Xingu
+41.0,6.0,Primavera de Rondônia
+207.0,6.0,Senador José Porfírio
+489.0,6.0,Monção
+671.0,6.0,Guaribas
+712.0,6.0,Morro Cabeça no Tempo
+1091.0,6.0,Porto do Mangue
+1314.0,6.0,Santo André
+3294.0,6.0,Fernando Prestes
+4197.0,6.0,Dona Emma
+4433.0,6.0,Boa Vista do Cadeado
+4699.0,6.0,Ponte Preta
+4707.0,6.0,Presidente Lucena
+4749.0,6.0,Santo Antônio do Palma
+4908.0,6.0,Japorã
+4934.0,6.0,Santa Rita do Pardo
+5008.0,6.0,Luciara
+5074.0,6.0,Tesouro
+5180.0,6.0,Guarinos
+42.0,5.0,São Felipe D'Oeste
+272.0,5.0,Chapada de Areia
+559.0,5.0,Satubinha
+2226.0,5.0,Buritizeiro
+2453.0,5.0,Ibiracatu
+2614.0,5.0,Monte Formoso
+4152.0,5.0,Bela Vista do Toldo
+80.0,4.0,Novo Aripuanã
+522.0,4.0,Primeira Cruz
+4207.0,4.0,Frei Rogério
+4635.0,4.0,Montauri
+78.0,3.0,Manicoré
+305.0,3.0,Lizarda
+340.0,3.0,Praia Norte
+1084.0,3.0,Pedra Preta
+2371.0,3.0,Divisópolis
+2520.0,3.0,Jenipapo de Minas
+4717.0,3.0,Rio dos Índios
+4840.0,3.0,União da Serra
+308.0,2.0,Mateiros
+1206.0,2.0,Coxixola
+2928.0,2.0,Ubaí
+5026.0,2.0,Novo Mundo

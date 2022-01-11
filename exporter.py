@@ -25,7 +25,7 @@ def export_sorted_to_csv(tuple_data,name):
 
 def export_corres_checker(tuple_data, name):
     size = len(tuple_data[0])
-    print(size)
+    #print(size)
     mob_list = ['']*size    
     lab_list = ['']*size    
     
