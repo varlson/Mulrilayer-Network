@@ -1,38 +1,37 @@
 index,metric,labels
-33.0,2898.8333333333308,Manaus
-66.0,1712.6666666666665,Breves
-65.0,1429.0,Belém
-17.0,1085.5,Carauari
-56.0,569.5,Afuá
-25.0,530.5000000000005,Itacoatiara
+33.0,2940.566666666665,Manaus
+66.0,2347.408333333332,Breves
+65.0,1397.6380952380957,Belém
+56.0,1168.5273809523806,Afuá
+17.0,1057.8333333333344,Carauari
+25.0,514.2666666666671,Itacoatiara
 16.0,453.0,Canutama
-19.0,408.0,Coari
-20.0,408.0,Codajás
-41.0,399.16666666666674,Parintins
-99.0,382.3333333333333,Vitória do Xingu
+41.0,435.2333333333336,Parintins
+19.0,394.1666666666675,Coari
+20.0,394.1666666666675,Codajás
+99.0,382.68690476190477,Vitória do Xingu
 48.0,368.0,Tapauá
-22.0,286.33333333333337,Humaitá
-103.0,237.16666666666663,Vitória do Jari
-91.0,200.33333333333334,Santarém
-102.0,200.0,Santana
+22.0,311.1666666666667,Humaitá
+103.0,275.2595238095239,Vitória do Jari
+102.0,201.74285714285716,Santana
+91.0,200.0,Santarém
 79.0,188.0,Mocajuba
 12.0,187.0,Beruri
-76.0,186.0,Limoeiro do Ajuru
-101.0,168.16666666666669,Macapá
-93.0,137.83333333333334,Senador José Porfírio
-57.0,118.66666666666667,Alenquer
-64.0,114.83333333333334,Barcarena
-72.0,105.0,Faro
+76.0,187.0,Limoeiro do Ajuru
+101.0,172.08333333333337,Macapá
+93.0,137.1107142857143,Senador José Porfírio
+64.0,116.6857142857143,Barcarena
+72.0,100.0,Faro
+57.0,97.66666666666667,Alenquer
+63.0,96.5,Baião
 31.0,96.0,Manacapuru
-54.0,92.0,Abaetetuba
-100.0,76.33333333333331,Laranjal do Jari
-62.0,71.0,Bagre
-63.0,49.0,Baião
-8.0,32.666666666666664,Autazes
-70.0,24.0,Curralinho
-83.0,14.0,Oeiras do Pará
+54.0,93.0,Abaetetuba
+62.0,85.33333333333333,Bagre
+100.0,76.2595238095238,Laranjal do Jari
+8.0,30.916666666666664,Autazes
+70.0,25.74285714285714,Curralinho
+92.0,6.5,São Sebastião da Boa Vista
 14.0,5.0,Borba
-92.0,5.0,São Sebastião da Boa Vista
 1.0,3.0,Cruzeiro do Sul
 53.0,2.0,Urucurituba
 107.0,2.0,Humberto de Campos
@@ -95,6 +94,7 @@ index,metric,labels
 80.0,0.0,Monte Alegre
 81.0,0.0,Muaná
 82.0,0.0,Óbidos
+83.0,0.0,Oeiras do Pará
 84.0,0.0,Oriximiná
 85.0,0.0,Ponta de Pedras
 86.0,0.0,Portel

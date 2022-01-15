@@ -120,7 +120,7 @@ def mapper(mobility, sort_by_metr, name):
         except:
             pass
     
-    export_corres_checker((mob_list, lab_list), name)
+    export_corres_checker((mob_list.copy(), lab_list.copy()), name)
     return spearmanr(mob_list, lab_list)
 
 

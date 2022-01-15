@@ -32,23 +32,25 @@ def correspondence_checker(mobolity, sorted_data, graph, name):
     x_axis = [x for x in range(graph.vcount())]
 
     
-    df = {"Nos": x_axis}
-    df['Correspondecia'] = list_of_correspondence
+    # df = {"Nos": x_axis}
+    # df['Correspondecia'] = list_of_correspondence
     
-    df = pd.DataFrame(df, index=False)
-    df.to_csv('output/'+name+'.csv')
+    # df = pd.DataFrame(df, index=False)
+    # df.to_csv('output/'+name+'.csv')
     return list_of_correspondence
 
 
 
 
-to_process = ['terrestrial', 'terrestrial_by_death']
+# to_process = ['terrestrial', 'terrestrial_by_death']
+to_process = ['fluvial', 'fluvial_by_death', 'terrestrial', 'terrestrial_by_death']
 
 
 for process in to_process:
     name = process
+    
     mobility = load_csv(process)
-    graph = load_graph_ml('terrestrial')
+    graph = load_graph_ml('fluvial') if process[0]=='f' else load_graph_ml('terrestrial')
 
     deg = sort_by_metric(graph, "degree", name)
     bet = sort_by_metric(graph, "betweenness", name)
